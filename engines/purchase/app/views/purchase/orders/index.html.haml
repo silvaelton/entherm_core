@@ -1,0 +1,80 @@
+.ui.grid
+  .row
+    .six.column
+      %h1 Gestão de Compras
+  .row
+    .six.column
+      .ui.blue.segment
+        = simple_form_for url_for, method: :get do |f|
+          .six.fields
+            .field
+              = f.input :start
+            .field
+              = f.input :end
+            .field
+              = f.input :contract_id, as: :select
+            .field
+              = f.input :situation, as: :select
+            .field
+              = f.input :number
+            .field.filter-button
+              = f.submit "filtar lista", name: nil, class: 'ui button blue'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Nº
+            %th Contrato
+            %th Descrição
+            %th Data
+            %th Valor
+            %th Situação
+            %th 
+        %tbody
+          - 10.times do
+            %tr
+              %td.collapsing Orange
+              %td Orange
+              %td Orange
+              %td.collapsing Orange
+              %td.collapsing Orange
+              %td.collapsing 310
+              %td.collapsing
+                .ui.dropdown.icon.tiny.left.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      %i.edit.icon
+                      Editar
+                    .item
+                      %i.delete.icon
+                      Remover
+                    .item
+                      %i.eye.icon
+                      Visualizar
+                    .item
+                      %i.print.icon
+                      Emitir FPA
+          %tr
+            %td{colspan: 3} 
+              %h2
+                %b Total
+            %td{colspan: 4}
+              %h2
+                %b R$ 12.000
+
+        %tfoot
+          %tr
+            %th{colspan: 7}
+              .ui.right.floated.pagination.menu
+                %a.icon.item
+                  %i.left.chevron.icon
+                %a.item 1
+                %a.item 2
+                %a.item 3
+                %a.item 4
+                %a.item 5
+                %a.icon.item
+                  %i.right.chevron.icon

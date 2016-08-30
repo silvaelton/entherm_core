@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Core::VERSION
   s.authors     = ["elton silva"]
   s.email       = ["elton.chrls@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Core."
-  s.description = "TODO: Description of Core."
+  s.homepage    = "https://github.com/silvaelton/entherm_code.git"
+  s.summary     = "Summary of Core."
+  s.description = "Description of Core."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]

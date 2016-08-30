@@ -1,0 +1,63 @@
+.ui.stackable.menu
+  .item
+    %img{:src => "http://semantic-ui.com/images/logo.png"}/
+  .ui.simple.dropdown.item
+    Compras
+    %i.dropdown.icon
+    .menu
+      %a.item{href: "#{purchase.root_path}"} Visão geral
+      %a.item{href: "#{purchase.orders_path}"} Gestão de Compras
+      %a.item{href: "#{purchase.requests_path}"} Gestão de Pedidos
+      %a.item{href: "#{purchase.root_path}"} Gestão do Estoque
+      %a.item{href: "#{purchase.root_path}"} Gestão de Patrimônios
+      .divider
+      %a.item + Adicionar Compra
+      %a.item + Entrada/Saída Estoque
+      %a.item + Movimentação Patrimônio
+      .divider
+      %a.item + Adicionar Categoria
+      %a.item + Adicionar Fornecedor
+      .divider
+      %a.item Pesquisa por FPA
+      %a.item Pesquisa por Produto
+      %a.item Pesquisa por Fornecedor
+      .divider
+      %a.item Balance por Contrato
+      %a.item Balance por Produto
+      %a.item Balance por Fornecedor
+  .ui.simple.dropdown.item
+    Financeiro
+    %i.dropdown.icon
+    .menu
+      %a.item{href: "#{financial.root_path}"} Visão Geral
+      %a.item Contas à pagar
+      %a.item Contas à receber
+      %a.item Gestão de notas
+      %a.item Gestão de boletos
+      %a.item Gestão de caixa
+      .divider
+      %a.item + Adicionar Conta
+      %a.item + Adicionar Centro de custo
+      %a.item + Adicionar Categoria
+      %a.item + Entrada/Saída de caixa
+      .divider
+      %a.item Balance por Fornecedor
+      %a.item Balance por Centro de custo
+  .ui.simple.dropdown.item
+    Administração
+    %i.dropdown.icon
+    .menu
+      %a.item Gestão de Usuários
+      %a.item Gestão de Solicitantes
+      %a.item Gestão de Empresas
+      %a.item Gestão de Contratos
+      %a.item Gestão de Avisos
+  .right.menu
+    .ui.simple.dropdown.item
+      Usuário
+      %i.dropdown.icon
+      .menu
+        %a.item English
+        %a.item Russian
+        %a.item Spanish
+   
