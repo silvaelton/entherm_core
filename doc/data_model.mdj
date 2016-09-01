@@ -4850,13 +4850,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 328,
+									"left": 296,
 									"top": 1117,
-									"width": 141,
+									"width": 182,
 									"height": 13,
 									"autoResize": false,
 									"underline": false,
-									"text": "purchase_categories",
+									"text": "purchase_order_categories",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -4888,9 +4888,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 333,
+											"left": 301,
 											"top": 1140,
-											"width": 131,
+											"width": 172,
 											"height": 13,
 											"autoResize": false
 										},
@@ -4912,9 +4912,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 333,
+											"left": 301,
 											"top": 1155,
-											"width": 131,
+											"width": 172,
 											"height": 13,
 											"autoResize": false
 										},
@@ -4936,9 +4936,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 333,
+											"left": 301,
 											"top": 1170,
-											"width": 131,
+											"width": 172,
 											"height": 13,
 											"autoResize": false
 										}
@@ -4952,9 +4952,9 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 328,
+									"left": 296,
 									"top": 1135,
-									"width": 141,
+									"width": 182,
 									"height": 53,
 									"autoResize": false
 								}
@@ -4968,9 +4968,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 328,
+							"left": 296,
 							"top": 1112,
-							"width": 141,
+							"width": 182,
 							"height": 76,
 							"autoResize": false,
 							"nameLabel": {
@@ -11488,7 +11488,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFLzntJC6EktCk="
 					},
-					"name": "purchase_categories",
+					"name": "purchase_order_categories",
 					"ownedElements": [
 						{
 							"_type": "ERDRelationship",
