@@ -1,6 +1,8 @@
 PATH
   remote: engines
   specs:
+    core (0.0.1)
+      rails (~> 4.2.1)
     financial (0.0.1)
       rails (~> 4.2.1)
     purchase (0.0.1)
@@ -151,6 +153,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  core!
   financial!
   haml-rails
   jquery-rails

@@ -19,6 +19,7 @@ group :development, :test do
 end
 
 path 'engines' do 
+  gem 'core'
   gem 'purchase'
   gem 'financial'
 end
