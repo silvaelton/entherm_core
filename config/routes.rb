@@ -4,4 +4,8 @@ Rails.application.routes.draw do
 
   mount Purchase::Engine    => '/compras'
   mount Financial::Engine   => '/financeiro'
+  mount Core::Engine        => '/administracao'
+  mount External::Engine    => '/externo'
+
+  get 'products', to: 'purchase/products#index'
 end

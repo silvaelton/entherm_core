@@ -1,0 +1,17 @@
+.ui.stackable.menu
+  .item
+    %img{:src => "http://semantic-ui.com/images/logo.png"}/
+  .ui.simple.dropdown.item
+    Pedidos
+    %i.dropdown.icon
+    .menu
+      %a.item{href: "#{external.requests_path}"} Meus pedidos
+      %a.item{href: "#{external.new_request_path}"} + Adicionar pedido
+  .right.menu
+    .ui.simple.dropdown.item
+      = current_user.name
+      %i.dropdown.icon
+      .menu
+        %a.item{href: "#{external.profile_path}"} Meu perfil
+        %a.item{href: "#{external.logout_sessions_path}", data: { method: 'delete'} } Sair
+   

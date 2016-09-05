@@ -1,0 +1,27 @@
+= simple_form_for @request do |f|
+  .field
+    .fields
+      .ten.wide.field
+        = f.association :contract, collection: current_user.contract_ids, include_blank: "selecione um contrato..."
+      .two.wide.field
+        = f.input :priority, as: :select, collection: Purchase::Request.priorities.keys, include_blank: false
+    .fields
+      .twelve.wide.field
+        = f.input :description
+    .fields
+      .twelve.wide.field
+        = f.input :observation, as: :string
+  .field
+    %label Itens
+    .fields
+      = f.simple_fields_for :request_items do |builder|
+        = render 'request_item_fields', f: builder
+  .field
+    = link_to_add_fields "+ Adicionar item", f, :request_items
+  %br/
+  %br/
+  %br/
+  .field
+    .twelve.wide.field
+      = f.button :submit, class: 'ui button green'
+      = link_to "Cancelar", requests_path, class: 'ui button'

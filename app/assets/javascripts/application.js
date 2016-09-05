@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
 //= require semantic-ui/semantic.min
+//= require jquery.mask.min
+//= require jquery-ui/autocomplete
 //= require custom

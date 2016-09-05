@@ -3,8 +3,15 @@ body {
   padding-bottom: 80px !important;
 }
 
+fieldset {
+  border: none !important;
+}
+.ui.success {
+  background-color: #e9ffb4 !important;
+}
 .ui.container {
   margin-bottom: 80px !important;
+  margin-top: 50px !important;
 }
 
 .filter-button {

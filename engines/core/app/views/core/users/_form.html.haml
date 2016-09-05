@@ -1,0 +1,27 @@
+= simple_form_for @user do |f|
+  .fields
+    .four.wide.field
+      = f.input :name, placeholder: "Digite o nome do usuário"
+    .four.wide.field
+      = f.input :email, placeholder: "Digite um e-mail válido para o usuário"
+    .four.wide.field
+      = f.input :telephone, placeholder: "Digite um telefone"
+  .fields
+    .four.wide.field
+      = f.input :status, as: :select, include_blank: false
+    .four.wide.field
+      = f.input :administrator, as: :select, include_blank: false
+  .fields
+    .four.wide.field
+      = f.input :password, placeholder: "6 à 20 caracteres"
+      - if !f.object.new_record?
+        = f.hint "deixe em branco caso não queira atualizar"
+    .four.wide.field
+      = f.input :password_confirmation, placeholder: "6 à 20 caracteres"
+      - if !f.object.new_record?
+        = f.hint "deixe em branco caso não queira atualizar"
+  %br/    
+  .fields
+    .four.wide.field
+      = f.button :submit, class: 'ui button green'
+      = link_to "Cancelar", users_path, class: 'ui button'

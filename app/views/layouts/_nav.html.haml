@@ -47,11 +47,11 @@
     Administração
     %i.dropdown.icon
     .menu
-      %a.item Gestão de Usuários
-      %a.item Gestão de Solicitantes
-      %a.item Gestão de Empresas
-      %a.item Gestão de Contratos
-      %a.item Gestão de Avisos
+      %a.item{href: "#{core.users_path}"} Gestão de Usuários
+      %a.item{href: "#{core.requesters_path}"} Gestão de Solicitantes
+      %a.item{href: "#{core.companies_path}"} Gestão de Empresas
+      %a.item{href: "#{core.contracts_path}"} Gestão de Contratos
+      %a.item{href: "#{core.users_path}"} Gestão de Avisos
   .right.menu
     .ui.simple.dropdown.item
       Usuário

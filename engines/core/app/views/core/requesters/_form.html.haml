@@ -1,0 +1,25 @@
+= simple_form_for @requester do |f|
+  .fields
+    .four.wide.field
+      = f.input :name, placeholder: "Digite o nome do usuário"
+    .four.wide.field
+      = f.input :email, placeholder: "Digite um e-mail válido para o usuário"
+    .two.wide.field
+      = f.input :status, as: :select, include_blank: false
+  .fields
+    .four.wide.field
+      = f.input :password, placeholder: "6 à 20 caracteres"
+      - if !f.object.new_record?
+        = f.hint "deixe em branco caso não queira atualizar"
+    .four.wide.field
+      = f.input :password_confirmation, placeholder: "6 à 20 caracteres"
+      - if !f.object.new_record?
+        = f.hint "deixe em branco caso não queira atualizar"
+  .fields
+    .twelve.wide.field
+      = f.association :contracts, as: :select, input_html: { multiple: true, class: 'ui fluid dropdown'}
+  %br/    
+  .fields
+    .twelve.wide.field
+      = f.button :submit, class: 'ui button green'
+      = link_to "Cancelar", requesters_path, class: 'ui button'

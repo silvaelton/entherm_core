@@ -11,5 +11,7 @@
  * file per style scope.
  *
  *= require semantic-ui/semantic.min
+ *= require semantic-ui/components/breadcrumb.min 
+ *= require jquery-ui/autocomplete
  *= require custom
  */

@@ -1,0 +1,21 @@
+%fieldset 
+  .fields
+    .two.wide.field
+      = f.input :quantity, as: :string
+    .four.wide.field
+      = f.label :product_id
+      = f.text_field :product_title, data: {autocomplete_source: main_app.products_path}, id: 'product_title', class: 'product_title form-control', autocomplete: 'on'
+    .one.wide.field
+      = f.input :unit_id, as: :select
+    .four.wide.field
+      = f.input :goal
+    .four.wide.field
+      = f.input :observation
+    .one.wide.field
+      = f.hidden_field :_destroy
+      = link_to "<i class='remove icon'></i>".html_safe, '#', class: "remove_fields ui button red small filter-button"
+
+:javascript
+  $(document).ready(function(){
+    $('.product_title').autocomplete({source: $('#product_title').data('autocomplete-source')});
+  })

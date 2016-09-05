@@ -1,0 +1,37 @@
+.ui.grid
+  .row
+    .six.column
+      %h1 Gestão de Solicitantes
+      = link_to "+ Adicionar Solicitante", new_requester_path, class: 'ui button primary'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Cod.
+            %th Nome
+            %th E-mail
+            %th Contratos
+            %th Ativo?
+            %th 
+        %tbody
+          - @requesters.order(:name).each do |item|
+            %tr
+              %td.collapsing= item.id
+              %td= item.name
+              %td= item.email
+              %td.collapsing
+                - item.contract_ids.each do |contract|
+                  %span.ui.tea.label
+                    = contract.name
+              %td.collapsing= item.status ? "Sim" : "Não"
+              %td.collapsing
+                .ui.dropdown.icon.tiny.down.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      = link_to "Editar", edit_requester_path(item)
+                    .item
+                      = link_to "Remover", requester_path(item), method: :delete, data: { confirm: t(:confirm)}
+ 

@@ -1,0 +1,32 @@
+.ui.grid
+  .row
+    .six.column
+      %h1 Gestão de Contratos
+      = link_to "+ Adicionar Contrato", new_contract_path, class: 'ui button primary'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Cod.
+            %th Empresa
+            %th Nome
+            %th Ativo?
+            %th 
+        %tbody
+          - @contracts.order(:name).each do |item|
+            %tr
+              %td.collapsing= item.id
+              %td= item.company.name if item.company.present?
+              %td= item.name
+              %td.collapsing= item.status ? "Sim" : "Não"
+              %td.collapsing
+                .ui.dropdown.icon.tiny.down.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      = link_to "Editar", edit_contract_path(item)
+                    .item
+                      = link_to "Remover", contract_path(item), method: :delete, data: { confirm: t(:confirm)}
+ 

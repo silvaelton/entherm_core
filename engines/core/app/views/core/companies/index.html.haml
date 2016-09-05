@@ -1,0 +1,32 @@
+.ui.grid
+  .row
+    .six.column
+      %h1 Gestão de Empresas
+      = link_to "+ Adicionar Empresa", new_company_path, class: 'ui button primary'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Cod.
+            %th Nome
+            %th CNPJ
+            %th Ativo?
+            %th 
+        %tbody
+          - @companies.order(:name).each do |item|
+            %tr
+              %td.collapsing= item.id
+              %td= item.name
+              %td= item.cnpj.cnpj_format
+              %td.collapsing= item.status ? "Sim" : "Não"
+              %td.collapsing
+                .ui.dropdown.icon.tiny.down.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      = link_to "Editar", edit_company_path(item)
+                    .item
+                      = link_to "Remover", company_path(item), method: :delete, data: { confirm: t(:confirm)}
+ 

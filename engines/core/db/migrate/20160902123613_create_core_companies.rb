@@ -6,6 +6,9 @@ class CreateCoreCompanies < ActiveRecord::Migration
       t.string :name 
       t.string :address 
       t.string :city 
+      t.string :cep 
+      t.string :telephone
+      
       t.integer :state_id, index: true 
       t.boolean :status, default: true 
       

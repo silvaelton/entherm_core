@@ -1,0 +1,21 @@
+= simple_form_for @company do |f|
+  .fields
+    .four.wide.field
+      = f.input :name, placeholder: "Digite o nome do usuário"
+    .four.wide.field
+      = f.input :cnpj, input_html: { placeholder: "Digite um e-mail válido para o usuário", class: 'cnpj'}
+    .four.wide.field
+      = f.input :status, as: :select, include_blank: false
+  .fields
+    .two.wide.field
+      = f.association :state, label_method: :acronym,include_blank: 'selecione...'
+    .ten.wide.field
+      = f.input :city, placeholder: "Digite o nome da cidade"
+  .fields
+    .twelve.wide.field
+      = f.input :address, placeholder: "Informe o logradouro"
+  %br/    
+  .fields
+    .four.wide.field
+      = f.button :submit, class: 'ui button green'
+      = link_to "Cancelar", companies_path, class: 'ui button'

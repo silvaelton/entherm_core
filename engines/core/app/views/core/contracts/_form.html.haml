@@ -1,0 +1,19 @@
+= simple_form_for @contract do |f|
+  .fields
+    .six.wide.field
+      = f.input :name, placeholder: "Digite o nome do usuário"
+    .six.wide.field
+      = f.association :company, include_blank: "selecione a empresa.."
+  .fields
+    .twelve.wide.field
+      = f.input :description, input_html: { placeholder: "Digite um e-mail válido para o usuário", class: 'cnpj'}
+  .fields
+    .four.wide.field
+      = f.input :status, as: :select, include_blank: false
+    .four.wide.field
+      = f.input :code, placeholder: "Digite um código único ao contrato"
+  %br/    
+  .fields
+    .four.wide.field
+      = f.button :submit, class: 'ui button green'
+      = link_to "Cancelar", contracts_path, class: 'ui button'

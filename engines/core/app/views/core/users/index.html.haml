@@ -1,0 +1,34 @@
+.ui.grid
+  .row
+    .six.column
+      %h1 Gestão de Usuários
+      = link_to "+ Adicionar Usuário", new_user_path, class: 'ui button primary'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Cod.
+            %th Nome
+            %th E-mail
+            %th Administrador?
+            %th Ativo?
+            %th 
+        %tbody
+          - @users.order(:name).each do |item|
+            %tr
+              %td.collapsing= item.id
+              %td= item.name
+              %td= item.email
+              %td.collapsing= item.administrator ? "Sim" : "Não"
+              %td.collapsing= item.status ? "Sim" : "Não"
+              %td.collapsing
+                .ui.dropdown.icon.tiny.down.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      = link_to "Editar", edit_user_path(item)
+                    .item
+                      = link_to "Remover", user_path(item), method: :delete, data: { confirm: t(:confirm)}
+ 
