@@ -1,6 +1,7 @@
 module Core
   class Requester < ActiveRecord::Base
     belongs_to :contracts, class_name: "Core::Contract"
+    has_many   :requests, class_name: "Purchase::Request", primary_key: 'requester_id'
 
     attr_accessor :password_confirmation
 

@@ -1,0 +1,13 @@
+= simple_form_for @order do |f|
+  .fields
+    .five.wide.field
+      = f.association :contract, include_blank: "selecione..."
+    .three.wide.field
+      = f.association :category, include_blank: "selecione..."
+    .three.wide.field
+      = f.input :order_type, as: :select, collection: Purchase::Order.order_types.keys, include_blank: false
+    .three.wide.field
+      = f.input :status, as: :select, include_blank: false
+  .fields
+    .five.wide.field
+      = f.association :supplier, include_blank: "selecione..."

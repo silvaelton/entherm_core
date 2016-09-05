@@ -1,0 +1,12 @@
+pt-BR:
+  activerecord:
+    modules:
+      'purchase/request_item': 'Item'
+    attributes:
+      'purchase/request_item':
+        quantity: "Quantidade"
+        product_title: "Produto"
+        unit: "Un"
+        goal: "Motivo"
+        observation: "Observação"
+        

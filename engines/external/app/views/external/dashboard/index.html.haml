@@ -1,1 +1,27 @@
-ok
+.ui.one.column.grid
+  .row
+    .column
+      %h1 Resumo - Meus pedidos
+
+.ui.four.column.grid
+  .row
+    .column
+      .ui.circular.segment
+        %h2.ui.header
+          = current_user.requests.open.count
+          .sub.header Pedidos em aberto
+    .column
+      .ui.circular.segment
+        %h2.ui.header
+          = current_user.requests.processing.count
+          .sub.header Pedidos em processamento
+    .column
+      .ui.circular.segment
+        %h2.ui.header
+          = current_user.requests.finish.count
+          .sub.header Pedidos em executados
+    .column
+      .ui.circular.segment
+        %h2.ui.header
+          = current_user.requests.canceled.count
+          .sub.header Pedidos em cancelados

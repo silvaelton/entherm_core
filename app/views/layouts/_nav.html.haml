@@ -54,10 +54,8 @@
       %a.item{href: "#{core.users_path}"} Gestão de Avisos
   .right.menu
     .ui.simple.dropdown.item
-      Usuário
+      = current_user.name
       %i.dropdown.icon
       .menu
-        %a.item English
-        %a.item Russian
-        %a.item Spanish
-   
+        %a.item{href: "#{main_app.profile_path}"} Meu Perfil
+        %a.item{href: "#{main_app.logout_sessions_path}", data: { method: 'delete'}} Sair

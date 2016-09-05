@@ -1,0 +1,11 @@
+pt-BR:
+  activerecord:
+    modules:
+      'purchase/request': 'Pedido'
+    attributes:
+      'purchase/request':
+        contract: "Contrato"
+        priority: "Prioridade"
+        description: "Descrição"
+        observation: "Observação"
+        

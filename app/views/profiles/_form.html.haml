@@ -1,0 +1,19 @@
+= simple_form_for @user, url: main_app.profile_path, method: :post do |f|
+  .fields
+    .four.wide.field
+      = f.input :name, placeholder: "Digite o nome do usuário"
+    .four.wide.field
+      = f.input :email, placeholder: "Digite um e-mail válido para o usuário"
+  .fields
+    .four.wide.field
+      = f.input :password, placeholder: "6 à 20 caracteres"
+      - if !f.object.new_record?
+        = f.hint "deixe em branco caso não queira atualizar"
+    .four.wide.field
+      = f.input :password_confirmation, placeholder: "6 à 20 caracteres"
+      - if !f.object.new_record?
+        = f.hint "deixe em branco caso não queira atualizar"
+  %br/    
+  .fields
+    .twelve.wide.field
+      = f.button :submit, class: 'ui button green'

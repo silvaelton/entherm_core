@@ -1,0 +1,34 @@
+.ui.grid
+  .row
+    .six.column
+      %h1 Gestão de Pedidos
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Nº
+            %th Data
+            %th Contrato
+            %th Descrição
+            %th Situação
+            %th Solicitante
+            %th 
+        %tbody
+          - @requests.order('created_at DESC').each do |item|
+            %tr
+              %td.collapsing= item.id
+              %td.collapsing= item.created_at.strftime("%d/%m/%Y")
+              %td.collapsing= item.contract.name if item.contract.present?
+              %td= item.description
+              %td.collapsing= item.situation
+              %td.collapsing= item.requester_id
+              %td.collapsing
+                .ui.dropdown.icon.tiny.down.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      = link_to "Cancelar", request_path(item), method: :delete, data: { confirm: t(:confirm)}
+
+      

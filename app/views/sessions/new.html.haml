@@ -1,0 +1,27 @@
+:css 
+  body > .grid {
+    height: 100%;
+  }
+  .image {
+    margin-top: -100px;
+  }
+  .column {
+    max-width: 450px;
+  }
+
+.ui.middle.aligned.center.aligned.grid
+  .column
+    %h2.ui.image.header
+    = simple_form_for @session do |f|
+      .ui.stacked.segment
+        .row
+          %br/
+          = image_tag "/images/logo.png", size: '180x140'
+        .row
+          %br/
+          %h2 Acesso
+          %br/
+        .row
+          = f.input :email, label: false, placeholder:"Digite seu e-mail"
+          = f.input :password, label: false, placeholder:"Digite sua senha"
+          = f.submit "Realizar acesso", class: 'ui button primary'
