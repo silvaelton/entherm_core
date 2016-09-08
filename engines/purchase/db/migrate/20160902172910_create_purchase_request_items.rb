@@ -3,7 +3,7 @@ class CreatePurchaseRequestItems < ActiveRecord::Migration
     create_table :purchase_request_items do |t|
       t.integer :request_id, index: true 
       t.integer :product_id, index: true 
-      t.integer :unit_id,    index: true
+      t.string  :unit
       t.integer :quantity,   default: 0
       t.string  :goal
       t.string  :observation

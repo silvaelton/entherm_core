@@ -190,14 +190,14 @@ ActiveRecord::Schema.define(version: 20160902175235) do
     t.string   "invoice_file"
     t.integer  "status",           default: 0
     t.integer  "supplier_id"
-    t.string   "delivery"
-    t.string   "form_payment"
+    t.integer  "delivery",         default: 0
+    t.integer  "form_payment",     default: 0
     t.string   "deadline_payment"
-    t.integer  "buy_type"
+    t.integer  "buy_type",         default: 0
     t.string   "seller"
     t.string   "requester"
     t.integer  "carrier_id"
-    t.string   "freight"
+    t.integer  "freight",          default: 0
     t.boolean  "inventory"
     t.string   "icms"
     t.datetime "created_at",                    null: false
@@ -210,23 +210,27 @@ ActiveRecord::Schema.define(version: 20160902175235) do
 
   create_table "purchase_patrimonies", force: :cascade do |t|
     t.string   "title"
+    t.string   "description"
     t.string   "archive"
     t.string   "location"
     t.decimal  "estimed_value",      precision: 15, scale: 2
     t.decimal  "original_value",     precision: 15, scale: 2
     t.integer  "state",                                       default: 0
     t.integer  "contract_id"
-    t.integer  "unit_id"
+    t.string   "unit"
     t.integer  "quantity",                                    default: 0
     t.string   "code"
     t.date     "buy_date"
     t.decimal  "depreciation_month"
+    t.string   "responsible"
+    t.string   "note_number"
+    t.string   "number"
+    t.date     "devolution_date"
     t.datetime "created_at",                                              null: false
     t.datetime "updated_at",                                              null: false
   end
 
   add_index "purchase_patrimonies", ["contract_id"], name: "index_purchase_patrimonies_on_contract_id", using: :btree
-  add_index "purchase_patrimonies", ["unit_id"], name: "index_purchase_patrimonies_on_unit_id", using: :btree
 
   create_table "purchase_patrimony_moviments", force: :cascade do |t|
     t.integer  "contract_id"
@@ -263,7 +267,7 @@ ActiveRecord::Schema.define(version: 20160902175235) do
   create_table "purchase_request_items", force: :cascade do |t|
     t.integer  "request_id"
     t.integer  "product_id"
-    t.integer  "unit_id"
+    t.string   "unit"
     t.integer  "quantity",                                 default: 0
     t.string   "goal"
     t.string   "observation"
@@ -277,7 +281,6 @@ ActiveRecord::Schema.define(version: 20160902175235) do
 
   add_index "purchase_request_items", ["product_id"], name: "index_purchase_request_items_on_product_id", using: :btree
   add_index "purchase_request_items", ["request_id"], name: "index_purchase_request_items_on_request_id", using: :btree
-  add_index "purchase_request_items", ["unit_id"], name: "index_purchase_request_items_on_unit_id", using: :btree
 
   create_table "purchase_requests", force: :cascade do |t|
     t.integer  "contract_id"
@@ -298,17 +301,23 @@ ActiveRecord::Schema.define(version: 20160902175235) do
     t.integer  "purchase_id"
     t.integer  "product_id"
     t.integer  "contract_id"
-    t.integer  "quantity",    default: 0
+    t.integer  "supplier_id"
+    t.integer  "quantity",                             default: 0
     t.integer  "unit_id"
-    t.integer  "unit_value"
-    t.integer  "operation",   default: 0
-    t.datetime "created_at",              null: false
-    t.datetime "updated_at",              null: false
+    t.decimal  "unit_value",  precision: 15, scale: 2
+    t.integer  "operation",                            default: 0
+    t.text     "observation"
+    t.string   "location"
+    t.string   "archive"
+    t.integer  "state",                                default: 0
+    t.datetime "created_at",                                       null: false
+    t.datetime "updated_at",                                       null: false
   end
 
   add_index "purchase_stocks", ["contract_id"], name: "index_purchase_stocks_on_contract_id", using: :btree
   add_index "purchase_stocks", ["product_id"], name: "index_purchase_stocks_on_product_id", using: :btree
   add_index "purchase_stocks", ["purchase_id"], name: "index_purchase_stocks_on_purchase_id", using: :btree
+  add_index "purchase_stocks", ["supplier_id"], name: "index_purchase_stocks_on_supplier_id", using: :btree
 
   create_table "purchase_supplier_categories", force: :cascade do |t|
     t.string   "name"
@@ -324,6 +333,7 @@ ActiveRecord::Schema.define(version: 20160902175235) do
     t.string   "cep"
     t.string   "city"
     t.integer  "state_id"
+    t.string   "cnpj"
     t.string   "contact_name"
     t.string   "contact_email"
     t.string   "contact_telephone"

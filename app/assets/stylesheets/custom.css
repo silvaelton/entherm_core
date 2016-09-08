@@ -3,6 +3,14 @@ body {
   padding-bottom: 80px !important;
 }
 
+@media print
+{    
+  table, h3{
+    font-size: 10px !important;
+  }
+  .no-print, .no-print * { display: none !important; }
+}
+
 fieldset {
   border: none !important;
 }

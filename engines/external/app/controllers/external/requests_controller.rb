@@ -4,7 +4,7 @@ module External
   class RequestsController < ApplicationController 
     
     def index
-      @requests = Purchase::Request.where(contract_id: current_user.contract_ids)
+      @requests = Purchase::Request.where("contract_id = ? OR requester_id = ?", current_user.contract_ids.map(&:id), current_user.id)
     end
 
     def new

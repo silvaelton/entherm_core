@@ -1,5 +1,5 @@
 .ui.grid
-  .row
+  .row.no-print 
     .six.column
       %h1 Gestão de Compras
       = link_to "+ Adicionar Compra", new_order_path, class: 'ui button primary'
@@ -10,16 +10,16 @@
         = simple_form_for url_for, method: :get do |f|
           .six.fields
             .field
-              = f.input :start
+              = f.input :start, label: "Data Inicial", input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:started_at] : localize(Date.today.beginning_of_month), name: 'by_period[started_at]'}
             .field
-              = f.input :end
+              = f.input :end, label: "Data Final",input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:ended_at] : localize(Date.today.end_of_month), name: 'by_period[ended_at]'}
             .field
-              = f.input :contract_id, as: :select
+              = f.input :contract_id, label: "Contrato", as: :select, collection: Core::Contract.all.order(:name), include_blank: "todos...", input_html: { name: 'by_contract'}, selected: params[:by_contract]
             .field
-              = f.input :situation, as: :select
+              = f.input :status, label: "Situação", as: :select, collection: Purchase::Order.statuses, include_blank: 'todos...', input_html:{ name: 'by_status'}, selected: params[:by_status]
             .field
-              = f.input :number
-            .field.filter-button
+              = f.input :number, label: "Nº FPA", input_html: { name: 'by_id', value: params[:by_id]}
+            .field.filter-button.no-print 
               = f.submit "filtar lista", name: nil, class: 'ui button blue'
   .row
     .six.column
@@ -32,17 +32,17 @@
             %th Data
             %th Valor
             %th Situação
-            %th 
+            %th.no-print 
         %tbody
-          - 10.times do
+          - @orders.limit(10).each do |item|
             %tr
-              %td.collapsing Orange
-              %td Orange
-              %td Orange
-              %td.collapsing Orange
-              %td.collapsing Orange
-              %td.collapsing 310
-              %td.collapsing
+              %td.collapsing= item.id
+              %td.collapsing= item.contract.name
+              %td= item.description
+              %td.collapsing= item.created_at.strftime("%d/%m/%Y")
+              %td.collapsing= number_to_currency item.order_items.sum(:total_value)
+              %td.collapsing= item.status
+              %td.collapsing.no-print 
                 .ui.dropdown.icon.tiny.left.pointing.primary.button
                   Ações
                   %i.dropdown
@@ -58,25 +58,16 @@
                       Visualizar
                     .item
                       %i.print.icon
-                      Emitir FPA
+                      %a{href: "#{purchase.order_fpa_path(item)}", target: '_blank'}
+                        Emitir FPA
           %tr
-            %td{colspan: 3} 
-              %h2
+            %td{colspan: 2} 
+              %h3
                 %b Total
-            %td{colspan: 4}
-              %h2
-                %b R$ 12.000
+            %td{colspan: 2,  style: 'text-align: right'}
+              %h3
+                %b= "#{@orders.count} listados"
+            %td{colspan: 3,  style: 'text-align: right'}
+              %h3
+                %b= number_to_currency @orders.total_value(@orders)
 
-        %tfoot
-          %tr
-            %th{colspan: 7}
-              .ui.right.floated.pagination.menu
-                %a.icon.item
-                  %i.left.chevron.icon
-                %a.item 1
-                %a.item 2
-                %a.item 3
-                %a.item 4
-                %a.item 5
-                %a.icon.item
-                  %i.right.chevron.icon

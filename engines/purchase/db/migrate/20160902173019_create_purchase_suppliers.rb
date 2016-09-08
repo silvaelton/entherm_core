@@ -8,6 +8,7 @@ class CreatePurchaseSuppliers < ActiveRecord::Migration
       t.string :cep 
       t.string :city
       t.integer :state_id
+      t.string  :cnpj
 
       t.string :contact_name      
       t.string :contact_email      
