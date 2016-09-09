@@ -53,6 +53,7 @@ GEM
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
     byebug (9.0.5)
+    chartkick (1.4.1)
     concurrent-ruby (1.0.2)
     debug_inspector (0.0.2)
     email_validator (1.6.0)
@@ -167,6 +168,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  chartkick
   core!
   email_validator
   external!

@@ -12,6 +12,7 @@ gem 'turbolinks'
 gem 'haml-rails'
 gem 'simple_form'
 
+gem 'chartkick'
 
 gem 'validates_cpf_cnpj'
 gem 'validates_timeliness'

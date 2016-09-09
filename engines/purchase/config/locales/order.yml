@@ -1,0 +1,30 @@
+pt-BR:
+  activerecord:
+    models:
+      'purchase/order': "Compra"
+    attributes:
+      'purchase/order':
+        contract: "Contrato"
+        description: "Descrição"
+        order_type: "Tipo"
+        status: "Status"
+        quotation: "Cotação"
+        supplier: "Fornecedor"
+        invoice_number: "Número da nota"
+        invoice_file: "Upload da nota"
+        form_payment: "Forma de pagamento"
+        deadline_payment: "Prazo para pagamento"
+        freight: "Tipo de frete"
+        delivery: "Prazo para entrega"
+        carrier: "Transportadora"
+        seller: "Vendedor"
+        requester: "Solicitante"
+        buy_type: "Tipo de Compra"
+        created_at: "Data de Compra"
+        inventory: "Adicionar ao Estoque?"
+        icms: "ICMS"
+        observation: "Observação"
+        category: "Categoria"
+
+        
+        

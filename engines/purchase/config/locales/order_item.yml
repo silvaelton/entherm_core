@@ -1,0 +1,13 @@
+pt-BR:
+  activerecord:
+    models:
+      'purchase/order_item': "Item"
+    attributes:
+      'purchase/order_item':
+        product_title: "Item"
+        unit_id: "Unidade"
+        quantity: "Quant."
+        unit_value: "Valor un."
+        total_value: "Valor total"
+        contract_value: "Valor no Contrato"
+        observation: "Observação"

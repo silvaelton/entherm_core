@@ -1,0 +1,14 @@
+%fieldset
+  .seven.fields
+    = f.input :quantity, as: :string
+    = f.input :product_title, as: :string, input_html:{ id: 'product_title', class: 'product_title form-control', autocomplete: 'on', data: {autocomplete_source: main_app.products_path}}
+    = f.input :unit_id, as: :select, collection: Purchase::OrderItem.unit_ids.keys, include_blank: 'selecione...'
+    = f.input :unit_value, as: :string, input_html:{class: 'money'}
+    = f.input :contract_value, as: :string, input_html:{class: 'money'}
+    = f.input :observation
+    = f.hidden_field :_destroy
+    = link_to "<i class='remove icon'></i>".html_safe, '#', class: "remove_fields filter-button red"
+:javascript
+  $(document).ready(function(){
+    $('.product_title').autocomplete({source: $('#product_title').data('autocomplete-source')});
+  })

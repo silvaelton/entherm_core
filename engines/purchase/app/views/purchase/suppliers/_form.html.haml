@@ -1,0 +1,27 @@
+= simple_form_for @supplier do |f|
+  .two.fields
+    = f.input :name
+    = f.association :category, include_blank: 'selecione...'
+  .five.fields
+    = f.input :contact_name
+    = f.input :contact_telephone
+    = f.input :contact_telephone_optional
+    = f.input :contact_email
+    = f.input :contact_celphone
+  .fields
+    .three.wide.field
+      = f.input :cep
+    .two.wide.field
+      = f.association :state, include_blank: false, label_method: :acronym
+    .four.wide.field
+      = f.input :city
+    .six.wide.field
+      = f.input :address
+    .four.wide.field
+      = f.input :complement
+  .one.field
+    = f.input :observation
+  .fields
+    .six.fields   
+      = f.button :submit, class: 'ui button green' 
+      = link_to "Cancelar", suppliers_path(@filter), class: 'ui button'

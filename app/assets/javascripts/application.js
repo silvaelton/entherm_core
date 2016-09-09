@@ -15,4 +15,5 @@
 //= require semantic-ui/semantic.min
 //= require jquery.mask.min
 //= require jquery-ui/autocomplete
+//= require chartkick
 //= require custom

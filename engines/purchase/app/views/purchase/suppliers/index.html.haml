@@ -1,0 +1,48 @@
+.ui.grid
+  .row.no-print 
+    .six.column
+      %h1 Gestão de Fornecedores
+      = link_to "+ Adicionar Fornecedor", new_supplier_path, class: 'ui button primary'
+  
+  .row
+    .six.column
+      .ui.blue.segment
+        = simple_form_for url_for, method: :get do |f|
+          .fields
+            .twelve.wide.field
+              = f.input :name, label: "Filtrar por nome", input_html: { name: 'by_name', value: params[:by_name]}
+            .field.filter-button.no-print 
+              = f.submit "filtar lista", name: nil, class: 'ui button blue'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Nome
+            %th UF
+            %th CNPJ
+            %th Contato
+            %th Telefone
+            %th.no-print 
+        %tbody
+          - @suppliers.order(:name).each do |item|
+            %tr
+              %td= item.name
+              %td.collapsing= item.state.acronym if item.state.present?
+              %td.collapsing= item.cnpj.cnpj_format rescue ""
+              %td.collapsing= item.contact_name
+              %td.collapsing= item.contact_telephone
+              %td.collapsing.no-print 
+                .ui.dropdown.icon.tiny.left.pointing.primary.button
+                  Ações
+                  %i.dropdown
+                  .menu.ui
+                    .item
+                      %i.edit.icon
+                      %a{href: "#{purchase.edit_supplier_path(item)}"}
+                        Editar
+                    .item
+                      %i.delete.icon
+                      %a{href: "#{purchase.supplier_path(item)}", data: { method: 'delete'}}
+                        Remover
+                    

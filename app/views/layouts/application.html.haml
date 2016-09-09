@@ -2,11 +2,16 @@
 %html
   %head
     %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
-    %title EnthermCore
+    %title Entherm
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
+    = javascript_include_tag "https://code.highcharts.com/highcharts.js"
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
     = csrf_meta_tags
   %body
     = render 'layouts/nav' if current_user.present?
     .ui.container
+      - flash.each do |key, value|
+        .ui.message{class: "#{key}"}
+          .header
+            = value
       = yield

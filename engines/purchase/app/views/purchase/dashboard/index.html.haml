@@ -1,0 +1,72 @@
+
+.ui.grid
+  .row
+    .column
+      %h1 Visão Geral de Compras
+  .row
+    .column
+      .ui.segment.blue
+        .row
+          = simple_form_for url_for, method: :get do |f|
+            .six.fields
+              .field
+                = f.input :start, label: "Data Inicial", input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:started_at] : localize(Date.today.beginning_of_month), name: 'by_period[started_at]'}
+              .field
+                = f.input :end, label: "Data Final",input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:ended_at] : localize(Date.today.end_of_month), name: 'by_period[ended_at]'}
+              .field.filter-button.no-print 
+                = f.submit "filtrar visão geral", name: nil, class: 'ui button blue'
+  .row
+    .seven.wide.column
+      .ui.segment.blue
+        %h4.ui.dividing.header Contratos
+        .row
+          %table.ui.blue.table.striped.celled
+            %thead
+              %tr
+                %th Nome
+                %th Total
+            %tbody
+              - @contracts.each do |row|
+                %tr
+                  %td.collapsing= row[:contract]
+                  %td.collapsing= number_to_currency row[:total_value]
+    .nine.wide.column
+      .ui.segment.blue
+        %h4.ui.dividing.header Balance
+        = pie_chart(@contracts.map { |k| [k[:contract], k[:total_value].to_f] })
+      .ui.segment.blue
+        %h4.ui.dividing.header Últimas compras
+        .row
+          %table.ui.blue.table.striped.celled
+            %thead
+              %tr
+                %th FPA
+                %th Contrato
+                %th Valor
+                %th Situação
+                %th Data
+            %tbody
+              - @last_purchases.each do |item|
+                %tr
+                  %td.collapsing= link_to item.id, purchase.order_path(item)
+                  %td.collapsing= item.contract.name if item.contract.present?
+                  %td.collapsing= number_to_currency item.total_value
+                  %td.collapsing= item.status
+                  %td.collapsing= item.created_at.strftime("%d/%m/%Y")
+      .ui.segment.blue
+        %h4.ui.dividing.header Últimos pedidos
+        .row
+          %table.ui.blue.table.striped.celled
+            %thead
+              %tr
+                %th FPA
+                %th Contrato
+                %th Situação
+                %th Data
+            %tbody
+              - @last_requests.each do |item|
+                %tr
+                  %td.collapsing= link_to item.id, purchase.request_path(item)
+                  %td.collapsing= item.contract.name if item.contract.present?
+                  %td.collapsing= item.situation
+                  %td.collapsing= item.created_at.strftime("%d/%m/%Y")

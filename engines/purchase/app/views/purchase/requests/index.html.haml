@@ -1,7 +1,24 @@
 .ui.grid
-  .row
+  .row.no-print 
     .six.column
       %h1 Gestão de Pedidos
+  .row
+    .six.column
+      .ui.blue.segment
+        = simple_form_for url_for, method: :get do |f|
+          .six.fields
+            .field
+              = f.input :start, label: "Data Inicial", input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:started_at] : localize(Date.today.beginning_of_month), name: 'by_period[started_at]'}
+            .field
+              = f.input :end, label: "Data Final",input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:ended_at] : localize(Date.today.end_of_month), name: 'by_period[ended_at]'}
+            .field
+              = f.input :contract_id, label: "Contrato", as: :select, collection: Core::Contract.all.order(:name), include_blank: "todos...", input_html: { name: 'by_contract'}, selected: params[:by_contract]
+            .field
+              = f.input :status, label: "Situação", as: :select, collection: Purchase::Request.situations, include_blank: 'todos...', input_html:{ name: 'by_status'}, selected: params[:by_status]
+            .field
+              = f.input :number, label: "Nº", input_html: { name: 'by_id', value: params[:by_id]}
+            .field.filter-button.no-print 
+              = f.submit "filtar lista", name: nil, class: 'ui button blue'
   .row
     .six.column
       %table.ui.blue.table.striped.celled
@@ -22,13 +39,19 @@
               %td.collapsing= item.contract.name if item.contract.present?
               %td= item.description
               %td.collapsing= item.situation
-              %td.collapsing= item.requester_id
+              %td.collapsing= item.requester.name if item.requester.present?
               %td.collapsing
-                .ui.dropdown.icon.tiny.down.pointing.primary.button
+                .ui.dropdown.icon.tiny.left.pointing.primary.button
                   Ações
                   %i.dropdown
                   .menu.ui
                     .item
-                      = link_to "Cancelar", request_path(item), method: :delete, data: { confirm: t(:confirm)}
+                      = link_to "Cancelar", request_cancel_path(item),  data: { confirm: t(:confirm)}
+                    .item
+                      = link_to "Processando", request_processing_path(item), data: { confirm: t(:confirm)}
+                    .item
+                      = link_to "Concluído", request_finish_path(item), data: { confirm: t(:confirm)}
+                    .item
+                      = link_to "Visualizar", request_path(item)
 
       

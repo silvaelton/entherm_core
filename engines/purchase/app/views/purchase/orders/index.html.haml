@@ -34,7 +34,7 @@
             %th Situação
             %th.no-print 
         %tbody
-          - @orders.limit(10).each do |item|
+          - @orders.each do |item|
             %tr
               %td.collapsing= item.id
               %td.collapsing= item.contract.name
@@ -49,13 +49,16 @@
                   .menu.ui
                     .item
                       %i.edit.icon
-                      Editar
+                      %a{href: "#{purchase.edit_order_path(item)}"}
+                        Editar
                     .item
                       %i.delete.icon
-                      Remover
+                      %a{href: "#{purchase.order_path(item)}", data: { method: 'delete'}}
+                        Remover
                     .item
                       %i.eye.icon
-                      Visualizar
+                      %a{href: "#{purchase.order_fpa_path(item)}"}
+                        Visualizar
                     .item
                       %i.print.icon
                       %a{href: "#{purchase.order_fpa_path(item)}", target: '_blank'}

@@ -1,0 +1,79 @@
+.ui.grid
+  .row.no-print 
+    .six.column
+      %h1 Gestão de Pedidos
+      = link_to "Voltar para listagem", requests_path(@filter), class: 'ui button primary'
+  .row
+    .six.column
+      .ui.blue.segment
+        %h4.ui.dividing.header Pedido ##{@request.id}
+        .row
+          %h2= @request.contract.name
+          %h4= @request.created_at.strftime("%d/%m/%Y às %H:%M")
+            
+        .row
+          %h4= @request.requester.name if @request.requester.present?
+        %h4.ui.dividing.header Detalhamento
+        .row
+          %table.ui.blue.table.striped.celled
+            %thead
+              %tr
+                %th Descrição
+            %tbody
+              %tr
+                %td= @request.description
+        .row
+          %table.ui.table.striped.celled
+            %thead
+              %tr
+                %th Observação
+                %th Situação
+                %th Prioridade
+                %th Anexo
+            %tbody
+              %tr
+                %td= @request.observation
+                %td= @request.situation
+                %td= @request.priority
+                %td= link_to "Baixar", @request.archive.url if @request.archive.present?
+        %h4.ui.dividing.header Itens - #{@request.request_items.count}
+        .row
+          %table.ui.blue.table.striped.celled
+            %thead
+              %tr
+                %th Descrição
+                %th Quantidade
+                %th Unidade
+                %th Motivo
+                %th Máquina
+                %th Valor do contrato
+                %th Observação
+            %tbody
+              - @request.request_items.each do |item|
+                %tr
+                  %td= item.product.name if item.product.present?
+                  %td.collapsing= item.quantity
+                  %td.collapsing= item.unit
+                  %td= item.goal
+                  %td= item.machine_version
+                  %td= item.contract_value
+                  %td= item.observation
+
+
+        %h4.ui.dividing.header Comentários
+        .row
+          = link_to "+ Adicionar comentário", "#", class: 'ui button green no-print'
+          %table.ui.blue.table.striped.celled
+            %thead
+              %tr
+                %th Origem
+                %th Mensagem
+                %th Data
+            %tbody
+              - @request.request_comments.each do |item|
+                %tr
+                  %td.collapsing= item.id
+                  %td= item.content
+                  %td.collapsing= item.created_at.strftime("%d/%m/%Y às %H:%M")
+
+
