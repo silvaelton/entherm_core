@@ -4,9 +4,9 @@ module Purchase
 
     after_validation :set_total_value
 
-#    enum unit_ids: ['un','kg','mt','cx','cm','lt']
+    enum unit_ids: ['un','kg','mt','cx','cm','lt']
 
-#    validates :quantity, :product_title, :unit_value, :contract_value, presence: true
+    validates :quantity, :product_title, :unit_value, :contract_value, presence: true
     
     def product_title
       product.try(:name)

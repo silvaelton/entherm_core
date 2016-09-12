@@ -5,6 +5,6 @@ module Purchase
 
     scope :by_name, -> (name) { where("name ILIKE '%#{name}%'")}
 
- #   validates :name, :state, presence: true
+    validates :name, :state, presence: true
   end
 end
