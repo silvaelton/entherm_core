@@ -1,0 +1,38 @@
+.ui.grid
+  .row.no-print 
+    .six.column
+      %h1 Gestão de Contas
+      = link_to "+ Adicionar Conta", new_bill_path, class: 'ui button primary'
+  
+  .row
+    .six.column
+      .ui.blue.segment
+        = simple_form_for url_for, method: :get do |f|
+          .six.fields
+            .field
+              = f.input :start, label: "Data Inicial", input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:started_at] : localize(Date.today.beginning_of_month), name: 'by_period[started_at]'}
+            .field
+              = f.input :end, label: "Data Final",input_html: {class: 'date', value: params[:by_period] ? params[:by_period][:ended_at] : localize(Date.today.end_of_month), name: 'by_period[ended_at]'}
+            .field
+              = f.input :contract_id, label: "Centro de custo", as: :select, collection: Core::Contract.all.order(:name), include_blank: "todos...", input_html: { name: 'by_contract'}, selected: params[:by_contract]
+            .field
+              = f.input :status, label: "Situação", as: :select, collection: Purchase::Order.statuses, include_blank: 'todos...', input_html:{ name: 'by_status'}, selected: params[:by_status]
+            .field
+              = f.input :number, label: "Nº de nota", input_html: { name: 'by_id', value: params[:by_id]}
+            .field.filter-button.no-print 
+              = f.submit "filtar lista", name: nil, class: 'ui button blue'
+  .row
+    .six.column
+      %table.ui.blue.table.striped.celled
+        %thead
+          %tr
+            %th Tipo
+            %th Nota
+            %th Centro de custo
+            %th Descrição
+            %th Vencimeno
+            %th Valor
+            %th Situação
+            %th.no-print 
+        %tbody
+         

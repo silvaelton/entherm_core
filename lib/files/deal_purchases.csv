@@ -1,21 +1,15 @@
 id#quotation_id#purchase_type#contract_id#description#observation#invoice_number#invoice_file#status#supplier_id#order_id#delivery#form_payment#deadline_payment#buy_type#seller#requester#carrier_id#freight#created_at#updated_at#inventory_flag#icms
-1##1#1#Compra de sensores para adaptação maquina trane##679##1#2##0#1#30 dias#0#Daniel#Wamiron##1#2015-09-27T21:27:59.507+00:00#2015-09-28T14:15:16.368+00:00#f#
 2##1#2#Compra para Aneel##679##1#2##0#1#30 dias#0#Daniel#Pedro Madeira##0#2015-09-27T21:31:01.701+00:00#2015-09-27T21:31:01.701+00:00#f#
-3##1#1#Compra de isolamento ##7580##1#3##0#1#30 dias#0#Ananda#Walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:20:39.357+00:00#f#
-4##1#3#Compra de termostato e borneira ##1517##1#4##0#1#30 dias#0#Edgar#Edson##0#2015-09-27T21:40:09.981+00:00#2015-09-28T11:40:09.711+00:00#f#
-5##1#1#Compra de contactora##1517##1#4##0#1#30 dias#0#Edgar#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:20:50.622+00:00#f#
-6##1#1#Compra de material eletrico##1325##1#4##0#1#30 dias#0#Edgar#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:21:04.547+00:00#f#
-7##1#1#Compra de disjuntor e contactora####1#4##0#1#30 dias#0#Edgar#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:15:00.233+00:00#f#
 8##1#4#Reparos em motor de 10cv##387##1#5##0#1#30 dias#1#Neto#Alex##0#2015-09-27T21:49:10.425+00:00#2015-09-27T21:49:10.425+00:00#f#
-9##1#1#Reparo em bomba urgente pois o sistema estava parado##3877##1#5##0#1#30 dias#1#Neto#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:23:18.485+00:00#f#
 10##1#1#Tubo de cobre para contrato vigente 1 ano - (comprado com valor abaixo da tabela)##56608##1#6##0#0#30/60/90#0#NIlo#Gisele##0#2015-09-27T21:55:14.731+00:00#2015-09-27T21:55:14.731+00:00#f#
 11##1#1#Locação de cilindros##78386##1#7##0#1#30 dias#2#Tião#walmiron##1#2015-09-27T22:06:10.910+00:00#2015-09-27T22:06:10.910+00:00#f#
-12##1#1#Compra de isolamento varias bitolas para instalações de split##49443##1#8##0#1#30 dias#0#Gerson#Marcos##1#2015-09-27T03:00:00.000+00:00#2015-10-05T20:16:36.180+00:00#f#
-13##1#1#Compra de valvulas e atuadores##10999##1#9##0#1#30 dias#0#Laercio#walmiron##0#2015-09-27T22:16:16.112+00:00#2015-09-28T11:39:13.450+00:00#f#
-14##1#1#Compra fita aluminizada####1#10##0#1#30 dias#0#Gerson#walmiron##0#2015-09-27T22:21:48.016+00:00#2015-09-28T11:38:14.472+00:00#f#
 15##1#5#compra de pneu para fazenda##33691##1#11##0#0#30/60#0#-#Sr.Francisco##0#2015-09-27T22:39:22.025+00:00#2015-09-27T22:39:22.025+00:00#f#
 16##1#4#Compra para agu sig##281009##1#12##2#1#30 dias#0#Geovane#Jorge##0#2015-09-27T22:56:03.004+00:00#2015-09-27T22:56:03.004+00:00#f#
-17##1#1#tratamento químico##3044##1#13##0#0#30 DD#1#-#JORGE##0#2015-09-28T14:28:04.259+00:00#2015-09-29T17:50:24.989+00:00#f#
+14##1#1#Compra fita aluminizada####1#10##0#1#30 dias#0#Gerson#walmiron##0#2015-09-27T22:21:48.016+00:00#2015-09-28T11:38:14.472+00:00#f#
+13##1#1#Compra de valvulas e atuadores##10999##1#9##0#1#30 dias#0#Laercio#walmiron##0#2015-09-27T22:16:16.112+00:00#2015-09-28T11:39:13.450+00:00#f#
+4##1#3#Compra de termostato e borneira ##1517##1#4##0#1#30 dias#0#Edgar#Edson##0#2015-09-27T21:40:09.981+00:00#2015-09-28T11:40:09.711+00:00#f#
+1##1#1#Compra de sensores para adaptação maquina trane##679##1#2##0#1#30 dias#0#Daniel#Wamiron##1#2015-09-27T21:27:59.507+00:00#2015-09-28T14:15:16.368+00:00#f#
+41##0#2#compra de compressor segundo contrato####1#14##0#1#20/40/60#0#MARLON#Pedro Madeira##0#2015-09-28T20:58:26.232+00:00#2015-09-29T19:11:24.414+00:00#f#
 18##1#1#compra de compressor para senado##7750##1#14##0#0#30 DD#0#MARLON#WALMIRON##0#2015-09-28T14:33:03.995+00:00#2015-09-28T14:33:44.086+00:00#f#
 19##1#1#Compra de exaustor sicflux##13001##1#15##0#0#30 DD#0#GERSON#WALMIRON##1#2015-09-28T14:50:28.886+00:00#2015-09-28T14:50:28.886+00:00#f#
 20##1#5#Compra de zarcão e solvente para FA##215261##1#16##0#0#30 DD#0#LILIANE#SR.FRANCISCO##0#2015-09-28T14:57:59.031+00:00#2015-09-28T14:57:59.031+00:00#f#
@@ -26,27 +20,25 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 25##1#6#compra de tintas para pintura de bombas##216284##1#16##0#1#30 DD#0#Liliane#Ricardo##0#2015-09-28T17:58:52.215+00:00#2015-09-28T17:58:52.215+00:00#f#
 26##1#10#Compra de isolamento e capacitor ##33788##1#18##0#1#30 DD#0#MARLON#Jadir##0#2015-09-28T18:02:17.954+00:00#2015-09-28T18:02:17.954+00:00#f#
 27##1#16#compra de painel frontal para maquina do edificio brasilia##626##1#2##0#1#30 DD#0#Daniel#Fernando##0#2015-09-28T18:04:41.848+00:00#2015-09-28T18:04:41.848+00:00#f#
-28##1#1#Compra de compressor ##14399##1#19##0#1#30/60/90#0#Zé Carlos#Fernando##0#2015-10-07T03:00:00.000+00:00#2015-10-07T14:16:23.265+00:00#f#
 29##1#16#Compra de termostato para agencia BRB Planaltina##680##1#2##0#1#30 DD#0#Daniel#Fernando##0#2015-09-28T18:12:26.258+00:00#2015-09-28T18:12:26.258+00:00#f#
 30##1#17#Locação de cilindros do ppu##78389##1#7##0#1#30 DD#0#TIÃO#Gisele##0#2015-09-28T18:23:00.368+00:00#2015-09-28T18:23:00.368+00:00#f#
 31##1#17#Recarga dos cilindros de ppu da manutenção externa##78429##1#7##0#1#30 DD#0#Tião#Gisele##0#2015-09-28T18:26:34.730+00:00#2015-09-28T18:26:34.730+00:00#f#
-32##1#4#Locação de Cilindros de ppu##78388##1#7##0#1#30 DD#2#Tião#Alex##0#2015-09-28T18:28:20.851+00:00#2015-09-29T13:39:13.451+00:00#f#
 33##1#6#Locação de cilindros de ppu##78387##1#7##0#1#30 DD#2#Tião#Ricardo##0#2015-09-28T18:30:04.813+00:00#2015-09-28T18:30:04.813+00:00#f#
 34##1#18#Locação de cilindros de ppu##78385##1#7##0#1#30 DD#2#Tião#Rafael##0#2015-09-28T18:35:08.199+00:00#2015-09-28T18:35:08.199+00:00#f#
 35##1#11#Compra de chapa para confecção de filtros##190349##1#20##0#1#30 DD#0#João#Marcos##0#2015-09-28T18:39:19.819+00:00#2015-09-28T18:39:19.819+00:00#f#
 36##1#9#Dedetização quadrimestral ##382##1#21##0#1#30 DD#1#Laiza#Jorge##0#2015-09-28T18:53:48.541+00:00#2015-09-28T18:53:48.541+00:00#f#
-37##1#19#Compra de material de limpeza para escritório e contratos##2071##1#22##0#1#30/60#0#Claudia#Gisele##0#2015-09-28T03:00:00.000+00:00#2015-10-05T17:17:54.399+00:00#f#
-38##1#19#Compra de uniforme para troca semestral de diversos órgãos##705##1#23##0#1#30/60/90#0#Sandra#Gisele##0#2015-09-28T03:00:00.000+00:00#2015-10-05T17:18:05.718+00:00#f#
 39##1#2#Compra de insumos ##11424##1#24##0#1#30/60/90#0#Anderson#Pedro Madeira#24#0#2015-09-28T19:50:02.749+00:00#2015-09-28T19:50:02.749+00:00#f#
 40##1#17#Compra de cadeados para prender escadas e ferrolho anti furto para porta das fiorinos##115424##1#24##0#1#30/60#0#Anderson#Gisele##0#2015-09-28T20:05:36.640+00:00#2015-09-28T20:05:36.640+00:00#f#
-41##0#2#compra de compressor segundo contrato####1#14##0#1#20/40/60#0#MARLON#Pedro Madeira##0#2015-09-28T20:58:26.232+00:00#2015-09-29T19:11:24.414+00:00#f#
 42##1#6#Compra de Fusiveis diazed ##200472##1#1##0#1#30 DD#0#Edgar#Ricardo##0#2015-09-29T13:29:41.837+00:00#2015-09-29T13:29:41.837+00:00#f#
+32##1#4#Locação de Cilindros de ppu##78388##1#7##0#1#30 DD#2#Tião#Alex##0#2015-09-28T18:28:20.851+00:00#2015-09-29T13:39:13.451+00:00#f#
+17##1#1#tratamento químico##3044##1#13##0#0#30 DD#1#-#JORGE##0#2015-09-28T14:28:04.259+00:00#2015-09-29T17:50:24.989+00:00#f#
 43##1#11#tratamento químico##3068##1#13##0#1#30 DD#1#-#Adm##0#2015-09-29T17:53:50.936+00:00#2015-09-29T17:53:50.936+00:00#f#
 44##1#2#compra de insumos para manutenção##114977##1#24##0#1#30 DD#0#Anderson#Pedro Madeira##0#2015-09-29T17:58:56.839+00:00#2015-09-29T17:58:56.839+00:00#f#
 45##1#2#compra de insumos para efetuar as manutenções##115233##1#24##0#1#30 DD#0#Anderson#Pedro/Hugo##0#2015-09-29T18:24:26.273+00:00#2015-09-29T18:24:26.273+00:00#f#
 46##1#11#compra de tesoura e acessórios para adaptação de filtros##115233##1#24##0#1#30/60/90#0#Anderson#Marcos/Jocélio##0#2015-09-29T20:11:28.142+00:00#2015-09-29T20:11:28.142+00:00#f#
-47##1#1#Recondicionamento de 2 compressores bitzer de 30TR (urgente)####2#25##0#1#30/60#1#Monica#Marcos##0#2015-10-01T03:00:00.000+00:00#2015-11-03T13:38:05.214+00:00#f#
-52##0#1#compra de aparelho split para senado####1#6##1#1#30/60/90/120#0#Nilo#Marcos##0#2015-09-30T03:00:00.000+00:00#2015-10-30T10:41:59.840+00:00#f#
+37##1#19#Compra de material de limpeza para escritório e contratos##2071##1#22##0#1#30/60#0#Claudia#Gisele##0#2015-09-28T03:00:00.000+00:00#2015-10-05T17:17:54.399+00:00#f#
+38##1#19#Compra de uniforme para troca semestral de diversos órgãos##705##1#23##0#1#30/60/90#0#Sandra#Gisele##0#2015-09-28T03:00:00.000+00:00#2015-10-05T17:18:05.718+00:00#f#
+7##1#1#Compra de disjuntor e contactora####1#4##0#1#30 dias#0#Edgar#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:15:00.233+00:00#f#
 53##1#16#Compra de bomba de dreno BRB TJ Sig##7678##1#14##0#1#30 DD#0#Marlon#Luíz##0#2015-09-09T03:00:00.000+00:00#2015-10-01T13:06:10.460+00:00#f#
 54##1#16#compra de compressor para BRB ag sobradinho e TJ##4427##1#14##0#1#30 dd#0#marlon#fernando##0#2015-09-09T03:00:00.000+00:00#2015-10-01T13:11:58.442+00:00#f#
 55##1#16#compra de filtro e valvula para diversas manutenções BRB##33628##1#14##0#1#30 dd#0#marlon#luiz##0#2015-09-11T03:00:00.000+00:00#2015-10-01T13:16:26.132+00:00#f#
@@ -56,10 +48,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 59##1#1#Compra de insumos para instalação de split e gas para limpeza da linha de chilers##811##1#2##0#1#30/60/90#0#DANIEL#Walmiron##0#2015-09-25T03:00:00.000+00:00#2015-10-01T14:11:55.115+00:00#f#
 60##1#16#Compra de kit placa e compressor para BRB edifício sede ##811##1#2##0#1#30/60/90#0#daniel#fernando##0#2015-09-25T03:00:00.000+00:00#2015-10-01T14:15:15.467+00:00#f#
 61##1#19#compra de valvula de serviço para estoque##33984##1#14##0#1#30 dd#0#marlon#gisele##0#2015-09-28T03:00:00.000+00:00#2015-10-01T14:17:59.769+00:00#f#
-62##1#9#Instalação de divisórias na sala do Dept.Comercial####1#26##0#2#ENTRADA 30/60#1#LUCAS#JORGE##0#2015-10-01T03:00:00.000+00:00#2015-10-05T12:00:58.804+00:00#f#
 63##1#12#reparos em 2 bombas urgente####1#5##0#1#20/40 #1#neto#jorge##0#2015-10-01T03:00:00.000+00:00#2015-10-01T17:04:55.762+00:00#f#
-64##1#19#Compra de produtos promocionais abaixo dos valores dos contratos aneel,senado e brb##58244##1#6##1#1#28/56/84/112#0#NILO#JORGE##0#2015-10-01T03:00:00.000+00:00#2015-10-21T10:25:58.950+00:00#f#
-65##1#19#Compra de gás R22 e R410 para todos os contratos####1#27##1#1#28/56/84#0#Carlos#Adm##1#2015-10-01T03:00:00.000+00:00#2015-10-16T18:27:43.131+00:00#f#
 66##1#5#Compra de cestas básicas para F.A####1#17##0#1#21DD#0#LUIZ AUGUSTO#FRANCISCO##0#2015-09-02T03:00:00.000+00:00#2015-10-01T18:27:56.092+00:00#f#
 67##1#9#Recarga de tonner do dpto comercial####1#28##0#1#30 DD#0#MAZINHO#ADM CENTRAL##0#2015-09-02T03:00:00.000+00:00#2015-10-01T18:37:28.372+00:00#f#
 68##1#9#Abastecimento de gasolina veículos ADM e SENADO####1#29##0#1#1 DD#0#-#Jorge##0#2015-09-04T03:00:00.000+00:00#2015-10-01T18:57:55.456+00:00#f#
@@ -72,41 +61,38 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 76##1#6#Materiais tubo PVC####1#34##0#1#30 DD#0#DANIEL#Ricardo##0#2015-09-04T03:00:00.000+00:00#2015-10-01T20:07:13.805+00:00#f#
 77##1#6#Recarga de cartucho####1#32##0#1#30 DD#0#DANIEL#Ricardo##0#2015-09-04T03:00:00.000+00:00#2015-10-01T20:12:10.545+00:00#f#
 78##1#6#Locação de relógio de ponto####1#35##0#1#18 DD#0#-#Ricardo##0#2015-09-04T03:00:00.000+00:00#2015-10-01T20:15:51.453+00:00#f#
-79##1#6#Locação relogio de ponto####1#36##0#1#18 DD#0#-#Ricardo##0#2015-09-04T03:00:00.000+00:00#2015-10-15T11:07:31.482+00:00#f#
 80##1#6#Material de manutenção BACEN####1#12##0#1#30 DD#0#GEOVANE#Ricardo##0#2015-09-02T03:00:00.000+00:00#2015-10-01T20:21:51.990+00:00#f#
-82##1#6#Reparo ventilador####1#33##0#1#30 DD#0#VICENTE#Ricardo##0#2015-09-02T03:00:00.000+00:00#2015-10-15T19:58:26.351+00:00#f#
 83##1#2#Locação relogio de ponto####1#36##0#1#19 DD#2#-#Bruna##0#2015-09-04T03:00:00.000+00:00#2015-10-01T20:27:55.856+00:00#f#
 84##1#2#Material de manutenção ANEEL####1#18##0#1#30/60#0#CLOVIS#Bruna##0#2015-09-10T03:00:00.000+00:00#2015-10-01T20:32:04.779+00:00#f#
 85##1#18#GAS####1#18##0#1#30/60/90/120#0#CLOVIS#Rafael##0#2015-09-04T03:00:00.000+00:00#2015-10-01T20:33:38.620+00:00#f#
 86##1#18#locação relogio de ponto####1#31##0#1#18 DD#0#-#Rafael##0#2015-09-04T03:00:00.000+00:00#2015-10-01T20:35:08.369+00:00#f#
-87##1#1#Compra de Grelha de retorno####1#37##0#0#A VISTA#0#GERSON#Marcos##0#2015-09-14T03:00:00.000+00:00#2015-10-05T20:14:16.122+00:00#f#
-88##1#1#Compra de Material eletrico####1#4##0#1#30 DD#0#EDGAR#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-05T20:24:39.457+00:00#f#
 89##1#1#Compra de Correia####1#12##0#1#28 DD#0#GEOVANE#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-01T20:48:35.237+00:00#f#
 90##1#1#Compra de Materiais diversos####1#24##0#1#30 DD#0#ANDERSON#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-01T20:54:35.668+00:00#f#
-91##1#1#Material para instalação de split####1#38##0#1#30 DD#0#ALESSANDRA#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-05T20:22:54.094+00:00#f#
-92##1#1#Recarga de oxigenio e nitrogenio##78566##1#7##0#1#27 DD#0#-#Marcos##0#2015-09-30T03:00:00.000+00:00#2015-10-02T13:58:04.143+00:00#f#
-93##1#9#Locação de 1 maquina copiadora ##15649##1#32##0#1#10 DD#0#-#Jorge##0#2015-09-25T03:00:00.000+00:00#2015-10-05T17:18:47.929+00:00#f#
 94##1#1#Recarga de toner##15650##1#32##0#1#30 DD#0#-#Marcos##0#2015-09-25T03:00:00.000+00:00#2015-10-02T13:51:38.220+00:00#f#
 95##1#5#Transporte de produtos agrícolas e cestas basicas##395650##1#39##0#1#16 DD#1#-#S Francisco##0#2015-09-28T03:00:00.000+00:00#2015-10-02T13:55:09.117+00:00#f#
+92##1#1#Recarga de oxigenio e nitrogenio##78566##1#7##0#1#27 DD#0#-#Marcos##0#2015-09-30T03:00:00.000+00:00#2015-10-02T13:58:04.143+00:00#f#
 96##1#16#Compra de filtros para maquinas ed sede e ventilador ##700##1#2##0#1#30 dd#0#Daniel#Joaquim/Fernando##0#2015-09-15T03:00:00.000+00:00#2015-10-02T14:07:10.735+00:00#f#
-97##1#1#Compra de mangueira aerokip####1#12##0#0#28 DD#0#GEOVANE#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-05T20:23:49.342+00:00#f#
 98##1#16#conserto de motor ventilador BRB sede e setor comercial sul##3879##1#5##0#1#30 dd#1#neto#fernando /edson##0#2015-09-23T03:00:00.000+00:00#2015-10-02T14:13:00.623+00:00#f#
 99##1#1#grelha####1#3##0#1#30 DD#0#FLAVIO#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-02T14:15:18.909+00:00#f#
 100##1#19#Compra de mangueiras para manifuld para uso externo e nos contratos##699##1#2##0#1#30 dd#0#daniel#adm##0#2015-09-15T03:00:00.000+00:00#2015-10-02T14:16:48.368+00:00#f#
 101##1#1#Material de refrigeração####1#2##0#1#30/60/90#0#ANDRE#Marcos##0#2015-09-04T03:00:00.000+00:00#2015-10-02T14:19:50.286+00:00#f#
+62##1#9#Instalação de divisórias na sala do Dept.Comercial####1#26##0#2#ENTRADA 30/60#1#LUCAS#JORGE##0#2015-10-01T03:00:00.000+00:00#2015-10-05T12:00:58.804+00:00#f#
+93##1#9#Locação de 1 maquina copiadora ##15649##1#32##0#1#10 DD#0#-#Jorge##0#2015-09-25T03:00:00.000+00:00#2015-10-05T17:18:47.929+00:00#f#
+87##1#1#Compra de Grelha de retorno####1#37##0#0#A VISTA#0#GERSON#Marcos##0#2015-09-14T03:00:00.000+00:00#2015-10-05T20:14:16.122+00:00#f#
+91##1#1#Material para instalação de split####1#38##0#1#30 DD#0#ALESSANDRA#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-05T20:22:54.094+00:00#f#
 102##1#16#Compra de bomba de dreno para agencia Milenio Capital##7699##1#14##0#1#30dd#0#marlon#luiz##0#2015-09-11T03:00:00.000+00:00#2015-10-02T14:20:06.434+00:00#f#
+106##1#6#compra de correias##279576##1#12##0#1#30 dd#0#geovane#ricardo##0#2015-09-09T03:00:00.000+00:00#2015-10-02T14:24:53.166+00:00#f#
+108##1#1#Material de isolamento####1#10##0#1#30 DD#0#-#-##0#2015-09-14T03:00:00.000+00:00#2015-10-02T14:27:12.389+00:00#f#
+111##1#16#Compra de correias para edificio sede##115469##1#24##0#0#30 dd#0#anderson#fernando##0#2015-09-24T03:00:00.000+00:00#2015-10-02T14:37:53.116+00:00#f#
+114##1#19#compra de insumos para diversos locais ##114800##1#24##0#1#30/60/90#0#anderson#gisele##0#2015-09-09T03:00:00.000+00:00#2015-10-02T15:03:54.213+00:00#f#
 103##0#1#Locação de relogio de ponto####1#31##0#1#19 DD#0#-#Marcos##0#2015-09-04T03:00:00.000+00:00#2015-10-05T20:22:01.216+00:00#f#
+107##1#1#Rebobinamento de motor####1#5##0#1#30 DD#0#NETO#Marcos##0#2015-09-25T03:00:00.000+00:00#2015-10-05T20:22:22.862+00:00#f#
 104##1#10#Compra de mangueira para lavagem de filtros##279576##1#12##0#1#30dd#0#geovane#jadir##0#2015-09-09T03:00:00.000+00:00#2015-10-02T14:22:59.103+00:00#f#
 105##1#1#Material Elétrico####1#1##0#1#30 DD#0#EDGAR#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-02T14:23:57.312+00:00#f#
-106##1#6#compra de correias##279576##1#12##0#1#30 dd#0#geovane#ricardo##0#2015-09-09T03:00:00.000+00:00#2015-10-02T14:24:53.166+00:00#f#
-107##1#1#Rebobinamento de motor####1#5##0#1#30 DD#0#NETO#Marcos##0#2015-09-25T03:00:00.000+00:00#2015-10-05T20:22:22.862+00:00#f#
-108##1#1#Material de isolamento####1#10##0#1#30 DD#0#-#-##0#2015-09-14T03:00:00.000+00:00#2015-10-02T14:27:12.389+00:00#f#
-109##1#1#Material hidrurílico para instalação de split##98386##1#34##0#1#28 DD#0#Daniel#Marcos##0#2015-09-24T03:00:00.000+00:00#2015-10-02T14:40:56.627+00:00#f#
 110##1#20#Compra de correias ##115469##1#24##0#1#30 dd#0#andersom#fernando##0#2015-09-24T03:00:00.000+00:00#2015-10-02T14:35:11.077+00:00#f#
-111##1#16#Compra de correias para edificio sede##115469##1#24##0#0#30 dd#0#anderson#fernando##0#2015-09-24T03:00:00.000+00:00#2015-10-02T14:37:53.116+00:00#f#
+109##1#1#Material hidrurílico para instalação de split##98386##1#34##0#1#28 DD#0#Daniel#Marcos##0#2015-09-24T03:00:00.000+00:00#2015-10-02T14:40:56.627+00:00#f#
 112##1#2#Compra de rádio comunicador##3632##1#40##0#0#A VISTA#0#-#Pedro Madeira##0#2015-10-01T03:00:00.000+00:00#2015-10-02T14:43:33.757+00:00#f#
 113##1#2#mangueira para dreno##282583##1#12##0#1#30 dd#0#geovane#pedro madeira##0#2015-09-30T03:00:00.000+00:00#2015-10-02T14:45:25.938+00:00#f#
-114##1#19#compra de insumos para diversos locais ##114800##1#24##0#1#30/60/90#0#anderson#gisele##0#2015-09-09T03:00:00.000+00:00#2015-10-02T15:03:54.213+00:00#f#
 115##1#16#Compra BRB STC##882##1#2##0#1#28 DD#0#André#Edson##0#2015-10-01T03:00:00.000+00:00#2015-10-02T14:51:50.299+00:00#f#
 116##1#16#Compra BRB Seasa##860##1#2##0#1#30 DD#0#Andre#Joaquim##0#2015-09-30T03:00:00.000+00:00#2015-10-02T14:53:45.505+00:00#f#
 117##1#16#Compra BRB Buritis##33983##1#14##0#1#28 DD#0#Marlon#Edson##0#2015-09-28T03:00:00.000+00:00#2015-10-02T14:55:46.863+00:00#f#
@@ -114,13 +100,11 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 119##1#17#Reparos na Fiorino JGF 5489##842##1#41##0#0#30/60/90#1#-#JORGE##0#2015-09-29T03:00:00.000+00:00#2015-10-02T15:12:57.431+00:00#f#
 120##1#17#Reparos na fiorino JGF 5509##843##1#41##0#1#30/60/90#1#-#jorge##0#2015-09-29T03:00:00.000+00:00#2015-10-02T15:17:10.543+00:00#f#
 121##1#17#Reparos na Fiorino JGE 4578##844##1#41##0#1#30/60/90#1#-#jorge##0#2015-09-29T03:00:00.000+00:00#2015-10-02T15:18:52.203+00:00#f#
-122##1#11#Locação de relogio de ponto####1#31##0#1#18 DD#0#-#Jocelio##0#2015-09-04T03:00:00.000+00:00#2015-10-02T17:50:04.492+00:00#f#
 123##1#4#Frete####1#42##0#1#5 DD#0#CRISTIANE#Marcio##0#2015-09-25T03:00:00.000+00:00#2015-10-02T17:17:57.702+00:00#f#
 124##1#16#Material Elétrico####1#1##0#1#30#0#Nilson#Edson##0#2015-09-04T03:00:00.000+00:00#2015-10-02T17:21:51.758+00:00#f#
 125##1#16#Material Elétrico####1#1##0#1#30#0#Nilson#Edson##0#2015-09-04T03:00:00.000+00:00#2015-10-02T17:21:54.237+00:00#f#
-126##1#16#Conserto  de motor ag planaltina####1#33##0#1#30 DD#0#VICENTE#Edson##0#2015-09-04T03:00:00.000+00:00#2015-10-15T20:28:21.363+00:00#f#
-127##1#16#Bomba de dreno para edifício sede####1#14##0#1#30 DD#0#-#Edson##0#2015-09-04T03:00:00.000+00:00#2015-10-15T20:27:48.425+00:00#f#
 128##1#16#Compra de material de refrigeração####1#14##0#1#30 DD#0#-#edson##0#2015-09-04T03:00:00.000+00:00#2015-10-02T17:38:48.962+00:00#f#
+122##1#11#Locação de relogio de ponto####1#31##0#1#18 DD#0#-#Jocelio##0#2015-09-04T03:00:00.000+00:00#2015-10-02T17:50:04.492+00:00#f#
 129##1#17#Peças elétricas####1#1##0#1#a vista#0#NILSON#Jorge##0#2015-09-02T03:00:00.000+00:00#2015-10-02T17:54:57.051+00:00#f#
 130##1#17#Material de refrigeração####1#43##0#1#28 DD#0#Alessandra#Jorge##0#2015-09-04T03:00:00.000+00:00#2015-10-02T17:58:34.457+00:00#f#
 131##1#17#Combustivel####1#29##0#1#3 DD#0#-#Jorge##0#2015-09-04T03:00:00.000+00:00#2015-10-02T18:01:17.885+00:00#f#
@@ -131,7 +115,13 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 136##1#7#Recarga MAER####1#7##0#1#28 DD#0#TIAO#Jadir##0#2015-09-25T03:00:00.000+00:00#2015-10-02T18:25:32.269+00:00#f#
 137##1#7#Conserto####1#33##0#1#30 DD#1#vicente#Jadir##0#2015-09-25T03:00:00.000+00:00#2015-10-02T18:27:16.214+00:00#f#
 138##1#9#Compra de aparelho de ar sala da Diretoria####1#2##0#1#30/60/90#0#André#Jorge##0#2015-10-05T03:00:00.000+00:00#2015-10-05T13:46:17.237+00:00#f#
-139##1#1#Compra de detectores de incêndio ##1344##1#44##0#1#30 dd#0#Leandro#Bruno##0#2015-11-10T02:00:00.000+00:00#2015-11-10T18:03:01.410+00:00#f#
+12##1#1#Compra de isolamento varias bitolas para instalações de split##49443##1#8##0#1#30 dias#0#Gerson#Marcos##1#2015-09-27T03:00:00.000+00:00#2015-10-05T20:16:36.180+00:00#f#
+3##1#1#Compra de isolamento ##7580##1#3##0#1#30 dias#0#Ananda#Walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:20:39.357+00:00#f#
+5##1#1#Compra de contactora##1517##1#4##0#1#30 dias#0#Edgar#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:20:50.622+00:00#f#
+6##1#1#Compra de material eletrico##1325##1#4##0#1#30 dias#0#Edgar#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:21:04.547+00:00#f#
+9##1#1#Reparo em bomba urgente pois o sistema estava parado##3877##1#5##0#1#30 dias#1#Neto#walmiron##0#2015-09-27T03:00:00.000+00:00#2015-10-05T20:23:18.485+00:00#f#
+97##1#1#Compra de mangueira aerokip####1#12##0#0#28 DD#0#GEOVANE#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-05T20:23:49.342+00:00#f#
+88##1#1#Compra de Material eletrico####1#4##0#1#30 DD#0#EDGAR#Marcos##0#2015-09-02T03:00:00.000+00:00#2015-10-05T20:24:39.457+00:00#f#
 140##1#11#Compra de contactora e blocos auxiliar urgente##2143##1#4##0#1#30 dd#0#edgar#jocélio##0#2015-10-06T03:00:00.000+00:00#2015-10-06T13:48:43.828+00:00#f#
 141##1#9#Compra de mola para porta do comercial##378028##1#45##0#1#30 DD#0#LUIZ#JORGE##0#2015-10-06T03:00:00.000+00:00#2015-10-06T13:53:06.358+00:00#f#
 142##1#1#Compra de pilhas para controle remoto dos aparelhos de ar cond.##115939##1#24##0#1#30 dd#0#anderson#WALMIRON##0#2015-10-06T03:00:00.000+00:00#2015-10-06T13:55:51.000+00:00#f#
@@ -151,28 +141,30 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 156##1#18#Locação de relogio de ponto##1661##1#36##0#1#30 DD#2#EDNA#RH##0#2015-10-06T03:00:00.000+00:00#2015-10-06T18:15:51.147+00:00#f#
 157##1#17#Combustível para as fiorinos.##4857##1#29##0#1#4DD#0#-#Jorge/Sr Francisco##0#2015-10-02T03:00:00.000+00:00#2015-10-06T19:20:20.434+00:00#f#
 158##1#9#Abastecimento veículos diversos##4857##1#29##0#1#4 DD#0#-#Jorge/Sr Francisco##0#2015-10-02T03:00:00.000+00:00#2015-10-06T19:48:43.793+00:00#f#
+28##1#1#Compra de compressor ##14399##1#19##0#1#30/60/90#0#Zé Carlos#Fernando##0#2015-10-07T03:00:00.000+00:00#2015-10-07T14:16:23.265+00:00#f#
 159##1#16#Compra de compressor de 7,5 tr para agencia da 508 norte####1#18##0#1#30/60/90#0#clovis#edson/jorge##0#2015-10-07T03:00:00.000+00:00#2015-10-07T14:18:31.001+00:00#f#
 160##1#9#Confecção de placa na faxada da empresa (garantia de 1 ano)##43##1#49##0#2#30 d#1#leandro#adm##0#2015-10-08T03:00:00.000+00:00#2015-10-08T14:09:40.959+00:00#f#
 161##1#1#Compra de 2 compressor##4523##1#14##0#1#30/60#0#marlon#walmiron##0#2015-10-08T03:00:00.000+00:00#2015-10-08T19:49:43.731+00:00#f#
+139##1#1#Compra de detectores de incêndio ##1344##1#44##0#1#30 dd#0#Leandro#Bruno##0#2015-11-10T02:00:00.000+00:00#2015-11-10T18:03:01.410+00:00#f#
 163##1#1#Compra de detergente para limpeza de serpentina##34214##1#14##0#1#30/60/90#0#marlon#walmiron##0#2015-10-08T03:00:00.000+00:00#2015-10-08T19:51:45.233+00:00#f#
 164##1#1#Compra de material elétrico para remanejamento de self##201093##1#1##0#1#30/60/90#0#edgar#bruno##0#2015-10-08T03:00:00.000+00:00#2015-10-08T20:03:22.831+00:00#f#
-165##1#1#Compra de valvula solenoide e de expansão chiler SAMS (pedido 22/2015)##3644##1#18##0#1#30/60/90#0#clovis#marcos##0#2015-10-13T03:00:00.000+00:00#2015-10-16T18:53:22.527+00:00#f#
 166##1#1#Compra de pressostato de oleo e alta e baixa urgente##3606##1#18##0#0#30/60#0#clovis#marcos##0#2015-10-13T03:00:00.000+00:00#2015-10-13T13:14:05.986+00:00#f#
-167##1#1#Compra de compressor Bitzer urgente##8283##1#33##0#1#30/60/90/120#0#vicente#marcos##0#2015-10-13T03:00:00.000+00:00#2015-10-23T13:42:09.106+00:00#f#
-168##1#1#Compra de Controladora SINFRA####0#50##2#1#30/60#0#LILIANE#BRUNO##0#2015-10-13T03:00:00.000+00:00#2015-11-05T18:40:54.255+00:00#f#
 170##1#1#Serviços de instalação de controladora e atualização de software ####0#50##0#1#30/60#1#LILIANE#BRUNO##0#2015-10-13T03:00:00.000+00:00#2015-10-13T19:28:18.144+00:00#f#
-171##1#1#Compra para chiler serviço medico##3644##1#18##0#1#30/60/90#0#clovis#marcos##0#2015-10-14T03:00:00.000+00:00#2015-10-15T14:38:56.969+00:00#f#
-172##1#1#   Compra de manometros para chiler sm urgente##26348##1#51##0#1#30 dd#0#marcelo montijo#marcos##0#2015-10-14T03:00:00.000+00:00#2015-10-23T13:24:38.883+00:00#f#
+79##1#6#Locação relogio de ponto####1#36##0#1#18 DD#0#-#Ricardo##0#2015-09-04T03:00:00.000+00:00#2015-10-15T11:07:31.482+00:00#f#
 173##1#1#Locações de cilindros de PPU##78648##1#7##0#1#30dd#2#tião#walmiron##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:10:35.288+00:00#f#
 174##1#1#Compra de material elétrico para chiler a pedido do Eng Bruno##2611##1#4##0#1#30dd#0#edgar#bruno##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:17:51.797+00:00#f#
 175##1#5#Compra de lubrificantes ##12274##1#52##0#1#30DD#0#-#FRANCISCO##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:23:53.272+00:00#f#
 176##1#1#Compra de chapas para confecção de dutos##192645##1#20##0#1#30 dd#0#joão#walmiron##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:33:49.085+00:00#f#
 177##1#1#Compra de termostato para cm3##34283##1#14##0#1#30dd#0#marlon#bruno##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:35:49.135+00:00#f#
+171##1#1#Compra para chiler serviço medico##3644##1#18##0#1#30/60/90#0#clovis#marcos##0#2015-10-14T03:00:00.000+00:00#2015-10-15T14:38:56.969+00:00#f#
 178##1#1#Isolamento para manutenção no apartamento 309 ##7721##1#3##0#1#30dd#0#ananda#Luiz##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:46:09.109+00:00#f#
 179##1#1#Compra de exaustor##7720##1#3##0#1#30dd#0#ananda#walmiron##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:48:53.880+00:00#f#
 180##1#1#Compra de controle universal para maquina hitachi##1003##1#2##0#1#30dd#0#daniel#walmiron##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:52:28.977+00:00#f#
 181##1#1#Recarga de nitrogenio##78618##1#7##0#1#30dd#0#tião#walmiron##0#2015-10-15T03:00:00.000+00:00#2015-10-15T14:58:25.962+00:00#f#
 182##1#1#Compra de material elétrico para cm3##2204##1#4##0#0#30/60/90#0#edgar#bruno##0#2015-10-15T03:00:00.000+00:00#2015-10-15T15:05:53.484+00:00#f#
+82##1#6#Reparo ventilador####1#33##0#1#30 DD#0#VICENTE#Ricardo##0#2015-09-02T03:00:00.000+00:00#2015-10-15T19:58:26.351+00:00#f#
+127##1#16#Bomba de dreno para edifício sede####1#14##0#1#30 DD#0#-#Edson##0#2015-09-04T03:00:00.000+00:00#2015-10-15T20:27:48.425+00:00#f#
+126##1#16#Conserto  de motor ag planaltina####1#33##0#1#30 DD#0#VICENTE#Edson##0#2015-09-04T03:00:00.000+00:00#2015-10-15T20:28:21.363+00:00#f#
 183##1#1#Compra de valvulas e atuadores####1#9##0#1#30dd#0#Laércio#Marcos##0#2015-10-15T03:00:00.000+00:00#2015-10-16T11:13:20.245+00:00#f#
 184##1#1#Frete de grelhas ##279006##1#53##0#0#10 dd#0#-#adm##0#2015-10-16T03:00:00.000+00:00#2015-10-16T14:21:43.225+00:00#f#
 185##1#1#Recarga de oxigenio e nitrogenio##78706##1#7##0#1#30dd#0#tião#walmiron##0#2015-10-16T03:00:00.000+00:00#2015-10-16T14:26:27.406+00:00#f#
@@ -203,31 +195,32 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 210##1#3#Compra de material elétrico##2795##1#4##0#1#30dd#0#edgar#edson##0#2015-10-16T03:00:00.000+00:00#2015-10-16T18:09:44.440+00:00#f#
 211##1#1#Compra de terminais a pedido do Eng Bruno para uso nos chilers##2795##1#4##0#1#30d#0#edgar#bruno##0#2015-10-16T03:00:00.000+00:00#2015-10-16T18:11:28.731+00:00#f#
 212##1#19#Compra de epi para estoque##116443##1#24##0#1#30 d#0#anderson#adm##0#2015-10-16T03:00:00.000+00:00#2015-10-16T18:27:18.777+00:00#f#
+65##1#19#Compra de gás R22 e R410 para todos os contratos####1#27##1#1#28/56/84#0#Carlos#Adm##1#2015-10-01T03:00:00.000+00:00#2015-10-16T18:27:43.131+00:00#f#
 213##1#1#Compra de correntes para adequar escadas##116443##1#24##0#1#30d#0#anderson#marcos##0#2015-10-16T03:00:00.000+00:00#2015-10-16T18:30:00.898+00:00#f#
 214##1#1#Compra de rolamentos urgente##284821##1#12##0#1#30/60#0#geovane#walmiron##0#2015-10-16T03:00:00.000+00:00#2015-10-16T18:36:31.920+00:00#f#
 215##1#19#compra de insumos para estoque a ser usado em todos contratos conforme a demanda##116316##1#24##0#1#30/60#0#anderson#adm##0#2015-10-16T03:00:00.000+00:00#2015-10-16T18:42:07.326+00:00#f#
-216##1#1#Compra de sensor de temperatura para Chiler do serviço médico##26487##1#51##0#1#30dd#0#marcelo#bruno##0#2015-11-01T02:00:00.000+00:00#2015-11-10T18:03:11.333+00:00#f#
+165##1#1#Compra de valvula solenoide e de expansão chiler SAMS (pedido 22/2015)##3644##1#18##0#1#30/60/90#0#clovis#marcos##0#2015-10-13T03:00:00.000+00:00#2015-10-16T18:53:22.527+00:00#f#
 217##1#1#Compra de compressor para chiler da Interlegis chr0032 ####1#27##0#1#30/60/90#0#carlos#walmiron##0#2015-10-19T02:00:00.000+00:00#2015-10-19T18:50:11.992+00:00#f#
-218##0#1#Compra de equipamentos para substituição dos avariados####1#58##0#1#30/60/90/120#0#JADILMA#WALMIRON##0#2015-10-20T02:00:00.000+00:00#2015-10-30T18:40:51.597+00:00#f#
+64##1#19#Compra de produtos promocionais abaixo dos valores dos contratos aneel,senado e brb##58244##1#6##1#1#28/56/84/112#0#NILO#JORGE##0#2015-10-01T03:00:00.000+00:00#2015-10-21T10:25:58.950+00:00#f#
 226##1#9#Abastecimento de Veículos##4955##1#29##0#1#3DD#0#-#ADM##0#2015-10-21T02:00:00.000+00:00#2015-10-21T12:38:46.219+00:00#f#
 227##1#1#Abastecimento de veículos ##4955##1#29##0#1#3dd#0#-#adm##0#2015-10-21T02:00:00.000+00:00#2015-10-21T12:43:26.315+00:00#f#
 228##1#17#Abastecimento de veículo ##4955##1#29##0#1#3dd#0#-#adm##0#2015-10-21T02:00:00.000+00:00#2015-10-21T12:49:51.660+00:00#f#
 229##1#1#Compra de bandeja para fancolete####0#2##2#1#30DD#0#DANIEL#MARCOS##0#2015-10-21T02:00:00.000+00:00#2015-10-21T13:25:43.300+00:00#f#
-230##0#1#Compra de equipamentos e ferramentas##315568##1#27##0#1#28/42/56#0#carlos#marcos##1#2015-10-21T02:00:00.000+00:00#2015-10-30T18:39:46.719+00:00#f#
+216##1#1#Compra de sensor de temperatura para Chiler do serviço médico##26487##1#51##0#1#30dd#0#marcelo#bruno##0#2015-11-01T02:00:00.000+00:00#2015-11-10T18:03:11.333+00:00#f#
 231##0#1#Compra de ferramentas de uso cotidiano##231693##1#58##0#1#30/60/90#0#jadilma#walmiron##0#2015-11-12T02:00:00.000+00:00#2015-11-16T11:23:08.126+00:00#f#
 232##1#19#Compra de compressor para ferraz (não precisou trocar)####1#18##0#1#30/60/90#3#CLOVIS#edson##0#2015-10-21T02:00:00.000+00:00#2015-11-17T11:11:18.531+00:00#f#
 238##1#1#Compra de compressor ##3792##1#18##0#1#30/60/90#0#clovis#WALMIRON##0#2015-10-23T02:00:00.000+00:00#2015-10-23T13:09:40.319+00:00#f#
 239##1#2#Compra de manifuld##3792##1#18##0#1#30/60/90#0#clovis#bruna##0#2015-10-23T02:00:00.000+00:00#2015-10-23T13:10:52.902+00:00#f#
 240##1#6#compra de manometros para manifuld##3792##1#18##0#1#30/60/90#0#clovis#ricardo##0#2015-10-23T02:00:00.000+00:00#2015-10-23T13:12:25.640+00:00#f#
+172##1#1#   Compra de manometros para chiler sm urgente##26348##1#51##0#1#30 dd#0#marcelo montijo#marcos##0#2015-10-14T03:00:00.000+00:00#2015-10-23T13:24:38.883+00:00#f#
 241##1#19#Compra de contactoras de 9,25 e 40A##2843##1#4##0#1#30/60/90#0#edgar#adm##0#2015-10-23T02:00:00.000+00:00#2015-10-23T13:26:29.283+00:00#f#
-242##1#19#Compra de R22 para estoque##316299##1#27##0#1#28/56/84#3#carlos#gisele##1#2015-11-05T02:00:00.000+00:00#2015-11-06T19:10:29.270+00:00#f#
-247##1#9#Compra de Split para compras e rh##316325##1#27##0#1#28/42/56#0#carlos#adm##0#2015-10-28T02:00:00.000+00:00#2015-11-06T19:07:56.940+00:00#f#12%
-248##1#1#Compra de Exaustor muro o.s22756/22968##13612##1#15##0#1#30dd#0#gerson#walmiron##0#2015-11-04T02:00:00.000+00:00#2015-11-16T11:45:17.079+00:00#f#17%
+167##1#1#Compra de compressor Bitzer urgente##8283##1#33##0#1#30/60/90/120#0#vicente#marcos##0#2015-10-13T03:00:00.000+00:00#2015-10-23T13:42:09.106+00:00#f#
 249##1#10#Compra de contactora para gab##202109##1#1##0#1#30/60#0#edgar#jadir##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:27:49.012+00:00#f#17
 250##1#1#Compra de contactora ##3374##1#4##0#1#30dd#0#edgar#walmiron##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:29:44.888+00:00#f#17
 251##1#2#Compra de contactora conforme orçamento aprovado##64695##1#60##0#1#30dd#0#antonio#isamara##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:33:01.419+00:00#f#17
 252##1#1#Recarga de nitrogenio##78803##1#7##0#1#30dd#0#tião#walmiron##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:34:17.219+00:00#f#
 253##1#17#recarga de nitrogenio##78820##1#7##0#1#30dd#0#tião#edson##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:38:38.462+00:00#f#
+52##0#1#compra de aparelho split para senado####1#6##1#1#30/60/90/120#0#Nilo#Marcos##0#2015-09-30T03:00:00.000+00:00#2015-10-30T10:41:59.840+00:00#f#
 254##1#16#Compra de correia ag 507 e sobradinho##284940##1#12##0#1#30 dd#0#geovane#edson##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:44:19.222+00:00#f#
 255##0#19#compra para diversos locais conforme demanda##116502##1#24##0#1#30dd#0#anderson#compras##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:47:10.423+00:00#f#
 256##1#4#Compra de insumos para instalação de split##4108##1#2##0#1#30dd#0#daniel#luiz##0#2015-10-30T02:00:00.000+00:00#2015-10-30T10:57:37.880+00:00#f#
@@ -253,9 +246,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 276##1#17#recarga de nitrogenio##78839##1#7##0#1#30dd#0#tião#jorge##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:00:50.803+00:00#f#
 277##1#6#Compra de bobina para relógio de ponto##7863##1#31##0#1#30#0#-#ricardo##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:02:20.326+00:00#f#
 278##1#6#compra de insumos para manutenções##286217##1#24##0#1#30dd#0#anderson#ricardo##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:05:45.256+00:00#f#
-279##1#1#Compra de mangueira para dreno e demais##286217##1#24##0#1#30dd#0#anderson#walmiron##0#2015-10-30T02:00:00.000+00:00#2015-10-30T15:29:11.428+00:00#f#
-280##1#1#Compra de placa urgente ##1211##1#2##0#1#30/60/90#3#daniel#marcos##0#2015-10-30T02:00:00.000+00:00#2015-10-30T15:39:56.549+00:00#f#
-281##1#12#Compra de gás 407##1211##1#2##0#1#30/60/90#0#daniel#joaquim/jorge##0#2015-10-30T02:00:00.000+00:00#2015-10-30T19:46:17.435+00:00#f#
+385##1#1#Frete da grelha de SP para BSB##43963##1#53##0#1#15 DD#1#o#valmiron##0#2015-11-20T02:00:00.000+00:00#2015-11-20T17:23:15.473+00:00#f#
 282##1#16#compra de bomba de dreno ag 507 norte##8343##1#14##0#1#30/60#0#marlon#luiz##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:16:53.556+00:00#f#
 283##1#9#locação de impressora##16895##1#32##0#1#30dd#2#-#-##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:26:01.378+00:00#f#
 284##1#9#Compra de computador dept de Compras##19723##1#59##0#1#7/30/60#0#kesley#adm##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:46:20.526+00:00#f#
@@ -263,8 +254,17 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 286##0#1#Compra de material elétrico eng bruno##202271##1#4##0#1#30/60#0#edgar#bruno##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:54:19.330+00:00#f#
 287##1#16#compra de gás r22 para ag 507 norte##8342##1#14##0#1#30dd#0#marlon#luiz##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:55:47.803+00:00#f#
 288##1#4#compra de curva de cobre##34727##1#14##0#1#30dd#0#marlon#max##0#2015-10-30T02:00:00.000+00:00#2015-10-30T13:57:00.998+00:00#f#
-289##1#1#compra de solda foscoper para varias manutenções##8344##1#14##0#1#30dd#0#marlo#marcos##0#2015-10-30T02:00:00.000+00:00#2015-10-30T14:01:49.546+00:00#f#
 290##1#16#compra de material elétrico para 507 norte##3589##1#4##0#1#30dd#0#edgar#edson##0#2015-10-30T02:00:00.000+00:00#2015-10-30T14:05:57.207+00:00#f#
+248##1#1#Compra de Exaustor muro o.s22756/22968##13612##1#15##0#1#30dd#0#gerson#walmiron##0#2015-11-04T02:00:00.000+00:00#2015-11-16T11:45:17.079+00:00#f#17%
+330##1#1#Compra de compressor conforme os 23518##8574##1#14##0#1#30dd#0#marlon#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:47:36.598+00:00#f#
+331##1#1#Compra de kit placa o.s 23142##4234##1#2##0#1#30dd#0#daniel#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:54:08.935+00:00#f#
+333##1#1#Compra de contactora conforme o.s 23198##4708##1#4##0#1#30dd#0#edgar#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T13:03:22.575+00:00#f#
+384##1#9#Frete de cilindros de gás de GO para BSB##94250##1#56##0#1#30 DD#1#nilo#adm##0#2015-11-20T02:00:00.000+00:00#2015-11-20T17:59:35.123+00:00#f#
+376##1#18#Aluguel mensal do relógio de ponto manual##1704##1#36##0#1#15 DD#2#sebastiao#rafael##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:40:41.658+00:00#f#
+422##1#1#Serviço de rebobinamento de motor ##4006##1#5##0#1#30#0#adriano#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T13:45:17.021+00:00#f#
+423##1#6#Serviço de conserto de motor ##3503##1#62##0#1#30#0#antonio#ricardo##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:37:53.006+00:00#f#
+601##1#17#Locação de cilindros ppu##79543##1#7##0#1#30#2#sebastiao#luiz##0#2016-01-11T02:00:00.000+00:00#2016-01-11T10:37:08.462+00:00#f#
+289##1#1#compra de solda foscoper para varias manutenções##8344##1#14##0#1#30dd#0#marlo#marcos##0#2015-10-30T02:00:00.000+00:00#2015-10-30T14:01:49.546+00:00#f#
 291##1#1#Compra de registro para interlegis##100192##1#34##0#1#30/60#0#silverio#marcos##0#2015-10-30T02:00:00.000+00:00#2015-10-30T14:20:41.671+00:00#f#
 292##1#11#recarga de cartuchos##16094##1#32##0#1#30/60#0#ELVIRA#millena##0#2015-10-27T02:00:00.000+00:00#2015-10-30T14:24:30.736+00:00#f#
 293##1#4#Compra de insumos para instalação de split##100192##1#34##0#1#30dd#0#silverio#luiz##0#2015-10-30T02:00:00.000+00:00#2015-10-30T14:26:32.581+00:00#f#
@@ -272,21 +272,29 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 295##1#17#Fiorino Fernando ##917##1#41##0#1#30#0#-#Jorge##0#2015-10-27T02:00:00.000+00:00#2015-10-30T14:35:09.750+00:00#f#
 296##1#16#Conserto motor##3427##1#62##0#1#30/60#0#-#Joaquim##0#2015-10-20T02:00:00.000+00:00#2015-10-30T14:43:10.037+00:00#f#
 297##1#1#Compra de gás r22 para apartamento da 309 ##8347##1#14##0#1#30/60#0#marlon#luiz##0#2015-10-30T02:00:00.000+00:00#2015-10-30T14:45:05.997+00:00#f#
+279##1#1#Compra de mangueira para dreno e demais##286217##1#24##0#1#30dd#0#anderson#walmiron##0#2015-10-30T02:00:00.000+00:00#2015-10-30T15:29:11.428+00:00#f#
+280##1#1#Compra de placa urgente ##1211##1#2##0#1#30/60/90#3#daniel#marcos##0#2015-10-30T02:00:00.000+00:00#2015-10-30T15:39:56.549+00:00#f#
+230##0#1#Compra de equipamentos e ferramentas##315568##1#27##0#1#28/42/56#0#carlos#marcos##1#2015-10-21T02:00:00.000+00:00#2015-10-30T18:39:46.719+00:00#f#
+218##0#1#Compra de equipamentos para substituição dos avariados####1#58##0#1#30/60/90/120#0#JADILMA#WALMIRON##0#2015-10-20T02:00:00.000+00:00#2015-10-30T18:40:51.597+00:00#f#
 298##1#12#compra de valvula borboleta##100346##1#34##0#1#30dd#0#silverio#joaquim/jorge##0#2015-10-30T02:00:00.000+00:00#2015-10-30T18:49:23.331+00:00#f#
 299##1#12#Compra de gás R- 407##1228##1#2##0#1#30/60#0#daniel#joaquim/jorge##0#2015-10-30T02:00:00.000+00:00#2015-10-30T18:52:13.636+00:00#f#
+281##1#12#Compra de gás 407##1211##1#2##0#1#30/60/90#0#daniel#joaquim/jorge##0#2015-10-30T02:00:00.000+00:00#2015-10-30T19:46:17.435+00:00#f#
 300##1#1#Frete de compressor de 15 tr e ferramentas frigelar##93486/94016##1#56##0#1#30dd#1#-#frigelar##0#2015-10-21T02:00:00.000+00:00#2015-11-03T12:02:51.483+00:00#f#
 301##1#17#Bateria para fiorino JGE 4578##931##1#41##0#1#30dd#0#-#jorge##0#2015-10-29T02:00:00.000+00:00#2015-11-03T12:11:21.520+00:00#f#
 302##1#9#Compra de material de escritório##10183##1#30##0#1#3dd#0#-#adm##0#2015-11-03T02:00:00.000+00:00#2015-11-03T12:19:38.536+00:00#f#
 303##1#11#Serviço de limpeza de bandejas##3165##1#13##0#1#30dd#1#-#jorge##0#2015-10-30T02:00:00.000+00:00#2015-11-03T13:02:48.842+00:00#f#
 304##1#1#Serviço de analise de bandejas##3139##1#13##0#1#30dd#1#-#jorge##0#2015-10-28T02:00:00.000+00:00#2015-11-03T13:08:27.040+00:00#f#
 305##1#1#Compra de fancolete##146605/374001##1#46##0#1#30dd#0#matheus /Tito#senado##0#2015-10-30T02:00:00.000+00:00#2015-11-03T13:26:40.367+00:00#f#
+47##1#1#Recondicionamento de 2 compressores bitzer de 30TR (urgente)####2#25##0#1#30/60#1#Monica#Marcos##0#2015-10-01T03:00:00.000+00:00#2015-11-03T13:38:05.214+00:00#f#
+168##1#1#Compra de Controladora SINFRA####0#50##2#1#30/60#0#LILIANE#BRUNO##0#2015-10-13T03:00:00.000+00:00#2015-11-05T18:40:54.255+00:00#f#
 306##1#19#compra de detergente para limpeza de maquinas##34971##1#14##0#1#30dd#3#marlon#adm##0#2015-11-06T02:00:00.000+00:00#2015-11-06T18:57:46.872+00:00#f#
+247##1#9#Compra de Split para compras e rh##316325##1#27##0#1#28/42/56#0#carlos#adm##0#2015-10-28T02:00:00.000+00:00#2015-11-06T19:07:56.940+00:00#f#12%
+242##1#19#Compra de R22 para estoque##316299##1#27##0#1#28/56/84#3#carlos#gisele##1#2015-11-05T02:00:00.000+00:00#2015-11-06T19:10:29.270+00:00#f#
 307##1#9#Abastecimento de veiculos##5041##1#29##0#1#vencido#0#-#adm##0#2015-11-10T02:00:00.000+00:00#2015-11-10T17:07:53.661+00:00#f#
 308##1#17#Abastecimento de veiculos##5041##1#29##0#1#vencido#0#-#adm##0#2015-11-10T02:00:00.000+00:00#2015-11-10T17:14:58.555+00:00#f#
 309##1#1#Abastecimento de veiculo##5041##1#29##0#1#vencida#0#-#adm##0#2015-11-10T02:00:00.000+00:00#2015-11-10T17:25:56.647+00:00#f#
 310##1#16#Abastecimento veiculo Sr.Joaquim##5041##1#29##0#1#vencido#0#-#jorge##0#2015-11-10T02:00:00.000+00:00#2015-11-10T17:29:38.520+00:00#f#
 311##1#9#Compra de material de Escritório##28##1#48##0#1#vencido#0#-#adm##0#2015-11-10T02:00:00.000+00:00#2015-11-10T17:36:15.476+00:00#f#
-312##1#1#Compra de varios sensores trane####1#51##0#1#30/60/90#0#Marcelo#Marcos/Bruno##0#2015-11-11T02:00:00.000+00:00#2015-11-19T18:39:33.728+00:00#f#
 313##1#5#Compra de peças de tratores##7744##1#63##0#1#-#0#-#FRANCISCO##0#2015-11-16T02:00:00.000+00:00#2015-11-16T10:57:38.858+00:00#f#
 314##1#1#Compra de parafuso para uso nas manutenções##117344##1#24##0#1#30dd#0#anderson#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T11:01:33.322+00:00#f#
 315##1#6#Compra de brocas para uso nas manutenções##117344##1#24##0#1#30dd#0#andeson#Ricardo##0#2015-11-16T02:00:00.000+00:00#2015-11-16T11:03:12.684+00:00#f#
@@ -304,10 +312,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 327##1#1#Compra de capacitor para uso diversos##35072##1#14##0#1#30dd#0#marlon#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:23:41.958+00:00#f#
 328##0#1#Compra de cabo e suporte para apartamento senado##8548##1#14##0#1#30dd#0#marlon#luiz##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:27:25.483+00:00#f#
 329##1#19#Compra de suporte de split para estoque##8548##1#14##0#1#30dd#3#marlon#gisele##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:28:35.274+00:00#f#
-330##1#1#Compra de compressor conforme os 23518##8574##1#14##0#1#30dd#0#marlon#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:47:36.598+00:00#f#
-331##1#1#Compra de kit placa o.s 23142##4234##1#2##0#1#30dd#0#daniel#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:54:08.935+00:00#f#
 332##1#2#compra de contactora conforme orçamento enviado##4708##1#4##0#1#30dd#0#edgar#isamara##0#2015-11-16T02:00:00.000+00:00#2015-11-16T12:58:13.278+00:00#f#
-333##1#1#Compra de contactora conforme o.s 23198##4708##1#4##0#1#30dd#0#edgar#walmiron##0#2015-11-16T02:00:00.000+00:00#2015-11-16T13:03:22.575+00:00#f#
 334##1#22#compra de 4 aparelhos de ar ####1#2##0#1#30/60/90#0#André#jorge##0#2015-11-16T02:00:00.000+00:00#2015-11-16T18:45:39.482+00:00#f#
 335##1#19#Compra de correia para uso nas manutenções ##288803##1#24##0#1#30 dd#3#goeovane#edson##0#2015-11-17T02:00:00.000+00:00#2015-11-17T14:22:10.442+00:00#f#
 336##1#17#Locação de 6 cilindros (inicialmente usado no bacen,depois senado)##recibo##1#43##0#4#imediato#2#junior#adm##0#2015-11-18T02:00:00.000+00:00#2015-11-18T17:13:32.276+00:00#f#
@@ -317,8 +322,8 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 340##1#21#Compra de EPI##117650##1#24##0#1#30 / 60#0#anderson#Encarregado Elino##0#2015-11-19T02:00:00.000+00:00#2015-11-19T13:51:06.288+00:00#f#
 341##1#11#Compra de parafusos e buchas##117650##1#24##0#1#30 / 60#0#anderson #Josélio##0#2015-11-19T02:00:00.000+00:00#2015-11-19T14:00:46.211+00:00#f#
 342##1#3#Compra de gás##8608##1#14##0#1#30 DD#0#marlon#luis##0#2015-11-19T02:00:00.000+00:00#2015-11-19T14:12:41.522+00:00#f#
-343##1#16#Compra de contatora e bloco##4653##1#4##0#1#30 DD#0#edgar#edson##0#2015-11-19T02:00:00.000+00:00#2015-11-19T14:23:07.419+00:00#f#
 344##1#3#Compra de contactora e bloco##4653##1#4##0#1#30 DD#0#edgar#luis##0#2015-11-19T02:00:00.000+00:00#2015-11-19T14:22:44.106+00:00#f#
+343##1#16#Compra de contatora e bloco##4653##1#4##0#1#30 DD#0#edgar#edson##0#2015-11-19T02:00:00.000+00:00#2015-11-19T14:23:07.419+00:00#f#
 345##1#4#Locação dos cilindros de ppu##78973##1#7##0#1#30 DD#2#sebastião#max##0#2015-11-19T02:00:00.000+00:00#2015-11-19T16:27:18.712+00:00#f#
 349##1#1#Locação de três casal ppu##78968##1#7##0#1#30 DD#2#sebastião#valmiron##0#2015-11-19T02:00:00.000+00:00#2015-11-19T16:33:17.062+00:00#f#
 350##1#6#Locação dos cilindros da ppu##78969##1#7##0#1#30 DD#2#sebastião#Eng Ricardo##0#2015-11-19T02:00:00.000+00:00#2015-11-19T16:39:07.346+00:00#f#
@@ -328,13 +333,14 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 354##1#2#Recarga e troca de maçarico ( maçarico não estava nas normas da ABNT, muito antigo)##79002##1#7##0#1#30 DD#0#sebastião#mario lincon##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:02:00.524+00:00#f#
 355##1#1#Serviço de solda na serpentina da tesouraria##3459##1#62##0#1#30 DD#1#antonio#valmiron##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:08:18.369+00:00#f#
 356##1#6#Serviço de torno no enchimento da base do rolamento##3459##1#62##0#1#30 DD#1#antonio#ricardo##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:11:44.220+00:00#f#
-357##1#16#Compra de material elétrico para BRB agência buriti pab##202732##1#4##0#1#30 DD#0#edgar#edson##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:49:03.419+00:00#f#
-358##1#16#Compra de gás r22 para todas as agências##8432##1#14##0#1#30 DD#0#marlon#joaquim##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:54:34.978+00:00#f#
 359##1#6#Conserto de motor ventilador conforme o contrato##3464##1#62##0#1#30 DD#1#antonio#ricardo##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:34:53.009+00:00#f#
 360##1#19#Insumos para contratos diversos##117836##1#24##0#1#30 / 40#3#anderson#adm##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:42:01.474+00:00#f#
+357##1#16#Compra de material elétrico para BRB agência buriti pab##202732##1#4##0#1#30 DD#0#edgar#edson##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:49:03.419+00:00#f#
+358##1#16#Compra de gás r22 para todas as agências##8432##1#14##0#1#30 DD#0#marlon#joaquim##0#2015-11-19T02:00:00.000+00:00#2015-11-19T17:54:34.978+00:00#f#
 361##1#16#Conserto de 2 motores para agência de Sobradinho##3493##1#62##0#1#30 DD#1#antonio#edson##0#2015-11-19T02:00:00.000+00:00#2015-11-19T18:00:36.719+00:00#f#
 362##1#1#Serviços de torno para reabrir a polia, embuchamento de tampa e solda em suporte##3491##1#62##0#1#30 DD#1#antonio#valmiron##0#2015-11-19T02:00:00.000+00:00#2015-11-19T18:12:09.485+00:00#f#
 363##1#21#Primeira locação de ponto e instalação do software##1707##1#36##0#1#15 DD#2#EDINHO#ELINO##0#2015-11-19T02:00:00.000+00:00#2015-11-19T18:19:34.415+00:00#f#
+312##1#1#Compra de varios sensores trane####1#51##0#1#30/60/90#0#Marcelo#Marcos/Bruno##0#2015-11-11T02:00:00.000+00:00#2015-11-19T18:39:33.728+00:00#f#
 364##1#22#Compra de materiais para instalação de 4 split##4276##1#2##0#1#30/60/90#0#daniel#edson##0#2015-11-19T02:00:00.000+00:00#2015-11-19T18:42:34.551+00:00#f#
 365##1#19#Compra bobina para relógio de ponto digital para todos os orgãos##7940##1#36##0#1#15 DD#3#edna#adm##0#2015-11-19T02:00:00.000+00:00#2015-11-19T18:56:01.244+00:00#f#
 366##1#19#Insumos para contratos diversos##35227##1#14##0#1#30 DD#3#marlon#adm##0#2015-11-19T02:00:00.000+00:00#2015-11-19T19:02:40.405+00:00#f#
@@ -347,25 +353,21 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 373##1#1#Abastecimento de veiculo##5129##1#29##0#1#5dd#0#-#jorge##0#2015-11-20T02:00:00.000+00:00#2015-11-20T13:41:19.752+00:00#f#
 374##1#22#Compra de material para instalação de split##117906##1#24##0#1#30 DD#0#anderson#edson / jorge##0#2015-11-20T02:00:00.000+00:00#2015-11-20T16:17:23.966+00:00#f#
 375##1#22#Compra de material para instalação de split##117790##1#24##0#1#30 DD#0#anderson#edson / jorge##0#2015-11-20T02:00:00.000+00:00#2015-11-20T16:26:13.307+00:00#f#
-376##1#18#Aluguel mensal do relógio de ponto manual##1704##1#36##0#1#15 DD#2#sebastiao#rafael##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:40:41.658+00:00#f#
-377##1#11#Aluguel mensal dos relógios de ponto manual##1704##1#36##0#1#15 DD#2#sebastião#josélio##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:40:02.071+00:00#f#
 378##1#10#Aluguel mensal do relógio de ponto ##1705##1#36##0#1#15 DD#2#sebastiao#jadir##0#2015-11-20T02:00:00.000+00:00#2015-11-20T16:46:27.604+00:00#f#
 379##1#6#Aluguel mensal de relógio de ponto##1705##1#36##0#1#15 DD#2#sebastiao#ricardo##0#2015-11-20T02:00:00.000+00:00#2015-11-20T16:52:19.541+00:00#f#
 380##1#9#Aluguel mensal de relógio de ponto##1705##1#36##0#1#15 DD#2#Aluguel mensal de relógio #adm##0#2015-11-20T02:00:00.000+00:00#2015-11-20T16:57:36.127+00:00#f#
-381##1#1#Aluguel mensal de relógio de ponto digital##1669##1#36##0#1#15 DD#2#sebastiao#valmiron##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:28:46.881+00:00#f#
-382##1#6#Aluguel mensal relógio de ponto digital##1669##1#36##0#1#15 DD#2#sebastiao#ricardo##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:27:48.466+00:00#f#
-383##1#2#Aluguel mensal relógio de ponto digital##1669##1#36##0#1#15 DD#2#sebastiao#mário lincon##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:29:26.229+00:00#f#
-384##1#9#Frete de cilindros de gás de GO para BSB##94250##1#56##0#1#30 DD#1#nilo#adm##0#2015-11-20T02:00:00.000+00:00#2015-11-20T17:59:35.123+00:00#f#
-385##1#1#Frete da grelha de SP para BSB##43963##1#53##0#1#15 DD#1#o#valmiron##0#2015-11-20T02:00:00.000+00:00#2015-11-20T17:23:15.473+00:00#f#
+472##1#11#Compra de material para troca dos filtros de linha##292041##1#12##0#1#30#0#geovane#joselio##0#2015-12-08T02:00:00.000+00:00#2015-12-11T11:52:36.235+00:00#f#
 386##1#6#Compra de chapa para fabricação de dutos##196370##1#20##0#1#30/60#1#joao#ricardo##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:11:41.242+00:00#f#
 387##1#17#Compra de ferramentas##117280##1#24##0#1#30 DD#0#anderson#edson##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:17:37.176+00:00#f#
 388##1#1#Compra de material para instalação de valvula conforme pedido 94 e o.s 23044##7947##1#3##0#1#30dd#0#ananda#walmiron##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:23:22.584+00:00#f#
 389##1#16#Material para BRB do Edif. Brasilia Presidência##117908##1#24##0#1#30 DD#0#anderson#edson##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:24:50.182+00:00#f#
-390##1#2#Compra de compressor conforme contrato##8627##1#14##0#1#30/60#0#marlon#isamara##0#2015-11-23T02:00:00.000+00:00#2015-11-23T14:15:31.560+00:00#f#
+382##1#6#Aluguel mensal relógio de ponto digital##1669##1#36##0#1#15 DD#2#sebastiao#ricardo##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:27:48.466+00:00#f#
+381##1#1#Aluguel mensal de relógio de ponto digital##1669##1#36##0#1#15 DD#2#sebastiao#valmiron##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:28:46.881+00:00#f#
+383##1#2#Aluguel mensal relógio de ponto digital##1669##1#36##0#1#15 DD#2#sebastiao#mário lincon##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:29:26.229+00:00#f#
+377##1#11#Aluguel mensal dos relógios de ponto manual##1704##1#36##0#1#15 DD#2#sebastião#josélio##0#2015-11-20T02:00:00.000+00:00#2015-11-20T18:40:02.071+00:00#f#
 391##1#1#Compra de compressor conforme contrato##8627##1#14##0#1#30dd#0#marlon#marcos##0#2015-11-23T02:00:00.000+00:00#2015-11-23T11:46:30.617+00:00#f#
 392##1#21#Compra de ferramentas ##222205##1#67##0#1#30/60#0#jardel#elino##0#2015-11-23T02:00:00.000+00:00#2015-11-23T11:49:58.006+00:00#f#
 393##1#6#Compra de bolsa para o eletricista##222205##1#67##0#1#30/60#0#jardel#ricardo##0#2015-11-23T02:00:00.000+00:00#2015-11-23T11:54:12.866+00:00#f#
-394##1#21#Compra de lava jato conforme contrato##223215##1#67##0#1#30 / 60#0#bel#elino##0#2015-11-23T02:00:00.000+00:00#2015-11-26T13:12:59.380+00:00#f#
 395##1#1#compra de material elétrico para chiler da interlegis o.s 23750/23751 pedido n°111/15##203576/5222##1#1##0#1#30dd#0#edgar#bruno##0#2015-11-23T02:00:00.000+00:00#2015-11-23T12:01:15.084+00:00#f#
 396##1#16#Compra de material para BRB do TCDF##801##1#68##0#1#30/60#0#josmar#edson##0#2015-11-23T02:00:00.000+00:00#2015-11-23T12:39:40.484+00:00#f#
 397##1#9#Recarga de cartuchos para financeiro e comercial##16564##1#32##0#1#30 DD#0#elvira#adm##0#2015-11-23T02:00:00.000+00:00#2015-11-23T12:45:12.162+00:00#f#
@@ -376,47 +378,42 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 402##1#21#Compra de material conforme contrato##79070##1#7##0#1#30 DD#0#sebastiao#elino##0#2015-11-23T02:00:00.000+00:00#2015-11-23T13:20:12.018+00:00#f#
 403##1#21#Compra de correias conforme pedido##289154##1#12##0#1#30/60#0#geovane#elino##0#2015-11-23T02:00:00.000+00:00#2015-11-23T13:28:21.055+00:00#f#
 404##1#2#Compra de mangueira conforme pedido##289154##1#12##0#1#30/60#0#geovane#mário lincon##0#2015-11-23T02:00:00.000+00:00#2015-11-23T13:39:20.204+00:00#f#
-405##1#1#Compra de lona urgente para colarinho##289154##1#12##0#1#30/60#0#geovane#valmiron##0#2015-11-23T02:00:00.000+00:00#2015-11-26T13:21:19.867+00:00#f#
 406##1#11#Compra de correias urgentes##289154##1#12##0#1#30/60#0#geovane#joselio##0#2015-11-23T02:00:00.000+00:00#2015-11-23T13:47:33.688+00:00#f#
 407##1#16#Compra solicitada pelo Sr Joaquim para agência Planaltina##2863##1#69##0#1#pago#0#internet#adm##0#2015-11-23T02:00:00.000+00:00#2015-11-23T14:09:22.635+00:00#f#
-408##0#21#Compra de cabo conforme pedido##11469##1#70##0#1#28/35#0#millena#elino##0#2015-11-25T02:00:00.000+00:00#2015-12-15T13:35:35.148+00:00#f#
-409##0#4#Compra de material conforme pedido para AGU sede ##4377##1#2##0#1#30 /60#0#DANIEL#LUIZ##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:55:53.815+00:00#f#
+390##1#2#Compra de compressor conforme contrato##8627##1#14##0#1#30/60#0#marlon#isamara##0#2015-11-23T02:00:00.000+00:00#2015-11-23T14:15:31.560+00:00#f#
 410##1#1#Compra de material conforme os ##289667##1#12##0#1#30#0#geovane#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:08:47.941+00:00#f#
 411##1#21#Compra de EPI##118069##1#24##0#1#30/60#0#anderson#elino##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:17:34.352+00:00#f#
 412##1#4#Compra de EPI##118069##1#24##0#1#30/60#0#anderson#luiz##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:19:28.878+00:00#f#
 413##1#2#Compra de EPI##118069##1#24##0#1#30/60#0#anderson#mario lincon##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:22:03.734+00:00#f#
 414##1#1#Compra de EPI##118069##1#24##0#1#30/60#0#anderson#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:26:06.902+00:00#f#
 415##1#19#Compra de EPI##118069##1#24##0#1#30/60#0#anderson#adm##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:29:20.371+00:00#f#
-416##1#19#Compra de sensores temperatura##4365##1#2##0#1#30#0#daniel#adm##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:59:44.093+00:00#f#
 417##1#16#Compra de sensores para BRB da Câmara legislativa##4365##1#2##0#1#30#0#daniel#edson##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:48:52.082+00:00#f#
+416##1#19#Compra de sensores temperatura##4365##1#2##0#1#30#0#daniel#adm##0#2015-11-26T02:00:00.000+00:00#2015-11-26T12:59:44.093+00:00#f#
+394##1#21#Compra de lava jato conforme contrato##223215##1#67##0#1#30 / 60#0#bel#elino##0#2015-11-23T02:00:00.000+00:00#2015-11-26T13:12:59.380+00:00#f#
 418##1#1#Recargas de nitrogênio e Oxigênio ##79115##1#7##0#1#30#0#sebastiao#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T13:19:14.678+00:00#f#
+405##1#1#Compra de lona urgente para colarinho##289154##1#12##0#1#30/60#0#geovane#valmiron##0#2015-11-23T02:00:00.000+00:00#2015-11-26T13:21:19.867+00:00#f#
 419##1#16#Compra de material para uso de diversas agências BRB a pedido do Sr. Joaquim##117888##1#24##0#1#30#0#anderson#edson##0#2015-11-26T02:00:00.000+00:00#2015-11-26T13:25:06.746+00:00#f#
 420##1#1#Serviço de abertura de furo em polia da tv senado##4007##1#5##0#1#30#0#adriano#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T13:34:34.313+00:00#f#
 421##1#6#Serviço de rebobinamento de motor ##4006##1#5##0#1#30#0#adriano#ricardo##0#2015-11-26T02:00:00.000+00:00#2015-11-26T13:39:34.852+00:00#f#
-422##1#1#Serviço de rebobinamento de motor ##4006##1#5##0#1#30#0#adriano#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T13:45:17.021+00:00#f#
-423##1#6#Serviço de conserto de motor ##3503##1#62##0#1#30#0#antonio#ricardo##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:37:53.006+00:00#f#
 424##1#24#Compra de split e insumos para instalação##4324##1#2##0#1#30/60#0#daniel#edson##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:36:46.330+00:00#f#
 425##1#23#Compra de split ##62171##1#6##0#1#30/60/90/120#0#nilo#edson##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:44:39.681+00:00#f#
 426##1#1#Compra de compressor##62171##1#6##0#1#30/60/90/120#0#nilo#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:46:56.521+00:00#f#
 427##1#19#Compra de compressores##62171##1#6##0#1#30/60/90/120#3#nilo#adm##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:53:51.517+00:00#f#
+409##0#4#Compra de material conforme pedido para AGU sede ##4377##1#2##0#1#30 /60#0#DANIEL#LUIZ##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:55:53.815+00:00#f#
 428##1#1#Compra de produto para limpeza da serpentina##35394##1#14##0#1#30#0#marlon#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T16:59:45.711+00:00#f#
 429##1#21#Compra de varetas de solda foscoper##35394##1#14##0#1#30#0#marlon#elino##0#2015-11-26T02:00:00.000+00:00#2015-11-26T17:08:26.337+00:00#f#
 430##1#19#Compra de vareta de solda foscopper##35394##1#14##0#1#30#3#marlon#adm##0#2015-11-26T02:00:00.000+00:00#2015-11-26T17:15:34.256+00:00#f#
 431##1#21#Compra de material conforme contrato##290333##1#12##0#1#30#0#geovane#elino##0#2015-11-26T02:00:00.000+00:00#2015-11-26T17:23:47.768+00:00#f#
 432##1#1#Compra de material conforme pedido##290333##1#12##0#1#30#0#geovane#valmiron##0#2015-11-26T02:00:00.000+00:00#2015-11-26T17:30:53.469+00:00#f#
 433##1#19#Compra de material ##290333##1#12##0#1#30#3#geovane#adm##0#2015-11-26T02:00:00.000+00:00#2015-11-26T17:33:44.355+00:00#f#
-434##1#16#Rebobinamento de motor para BRB de sobradinho##4008##1#5##0#1#30#0#adriana#edson##0#2015-11-26T02:00:00.000+00:00#2015-11-27T12:47:27.757+00:00#f#
 435##1#10#Compra de motor ventilador urgente ####0#71##0#1#5#0#SITE#JADIR##0#2015-11-26T02:00:00.000+00:00#2015-11-26T19:33:34.378+00:00#f#
+434##1#16#Rebobinamento de motor para BRB de sobradinho##4008##1#5##0#1#30#0#adriana#edson##0#2015-11-26T02:00:00.000+00:00#2015-11-27T12:47:27.757+00:00#f#
 436##1#1#Compra do restante material conforme pedido##290406##1#12##0#1#30#0#geovane#valmiron##0#2015-11-27T02:00:00.000+00:00#2015-11-27T13:12:58.864+00:00#f#
-437##1#1#Compra de 3 fancolete##1717629 / 150264##1#46##0#1#30/60#0#matheus#marcos##0#2015-12-01T02:00:00.000+00:00#2015-12-23T16:28:45.296+00:00#f#
 438##1#9#Compra de cestas de natal##406527##1#72##0#1#15#0#-#adm##0#2015-12-01T02:00:00.000+00:00#2015-12-01T17:24:54.230+00:00#f#
 439##1#5#Compra de cestas básicas para a fazenda##12177##1#73##0#1#20#0#luis#sr francisco##0#2015-12-01T02:00:00.000+00:00#2015-12-01T17:29:42.609+00:00#f#
 440##1#17#Recargas de nitrogênio##79179##1#7##0#1#30#0#sebastiao#luiz##0#2015-12-01T02:00:00.000+00:00#2015-12-01T17:33:48.538+00:00#f#
-441##1#10#Compra de rolamentos####1#12##0#1#30#0#GEOVANE#ALEX##0#2015-12-01T02:00:00.000+00:00#2015-12-11T11:58:43.588+00:00#f#
-442##1#1#Compra de compressor 7,5 tr e  material para instalação##1998##1#18##0#1#30/60#0#clovis#valmiron##0#2015-12-01T02:00:00.000+00:00#2015-12-08T16:53:53.617+00:00#f#
-443##0#6#Compra de material conforme pedido##30852##1#74##0#1#30#0#michael#ricardo##0#2015-12-01T02:00:00.000+00:00#2015-12-03T17:00:02.445+00:00#f#
-444##1#1#Compra de terminais para quadro elétrico##204452##1#4##0#1#30#0#edgar#valmiron##0#2015-12-02T02:00:00.000+00:00#2015-12-08T16:51:33.546+00:00#f#
-445##1#1#Compra de contactora 12a 220v##6395##1#55##0#1#30#0#allan#valmiron##0#2015-12-02T02:00:00.000+00:00#2015-12-03T16:29:35.191+00:00#f#
+456##1#1#Compra de material conforme pedido##4408##1#2##0#1#30#0#daniel#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-03T17:09:45.332+00:00#f#
+463##1#2#Compra de suportes para condensadoras conforme pedido##2144##1#18##0#1#30/60#0#clovis#mario lincon##0#2015-12-04T02:00:00.000+00:00#2015-12-09T11:35:57.750+00:00#f#
 446##0#21#Compra de turbinas conforme a OC Nº 02/2015####0#75##0#1#5#0#internet#elino##0#2015-12-02T02:00:00.000+00:00#2015-12-02T18:21:28.781+00:00#f#
 447##1#21#Análise de óleo em 3 maquinas carrier####1#76##0#1#40DD#1#EDSON#JORGE##0#2015-12-02T02:00:00.000+00:00#2015-12-02T18:27:32.630+00:00#f#
 448##1#6#analise de oleo,vibração e termografia####1#76##0#1#40dd#1#edson#ricardo##0#2015-12-02T02:00:00.000+00:00#2015-12-02T18:43:03.141+00:00#f#
@@ -424,27 +421,29 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 450##1#15#Compra de material elétrico##6260##1#4##0#1#30/60#0#edgar#edson##0#2015-12-03T02:00:00.000+00:00#2015-12-03T11:36:38.651+00:00#f#
 451##1#12#compra de material elétrico##6260##1#4##0#1#30/60#0#edgar#edson##0#2015-12-03T02:00:00.000+00:00#2015-12-03T11:40:25.105+00:00#f#
 452##1#23#Compra de material para instalação de split##8870##1#14##0#1#30#0#marlon#edson##0#2015-12-03T02:00:00.000+00:00#2015-12-03T11:46:29.282+00:00#f#
-453##1#1#Compra de gás 141b para limpeza das linhas para instalações compressores##2060##1#18##0#1#30/60#0#clovis#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-08T16:50:36.119+00:00#f#
+445##1#1#Compra de contactora 12a 220v##6395##1#55##0#1#30#0#allan#valmiron##0#2015-12-02T02:00:00.000+00:00#2015-12-03T16:29:35.191+00:00#f#
 454##1#6#Compra de material conforme pedido##6395##1#4##0#1#30#0#edgar#ricardo##0#2015-12-03T02:00:00.000+00:00#2015-12-03T16:40:53.336+00:00#f#
 455##1#6#Compra de material conforme pedido##30852##1#74##0#1#30#0#sales#ricardo##0#2015-12-03T02:00:00.000+00:00#2015-12-03T16:54:05.421+00:00#f#
-456##1#1#Compra de material conforme pedido##4408##1#2##0#1#30#0#daniel#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-03T17:09:45.332+00:00#f#
+443##0#6#Compra de material conforme pedido##30852##1#74##0#1#30#0#michael#ricardo##0#2015-12-01T02:00:00.000+00:00#2015-12-03T17:00:02.445+00:00#f#
 457##1#19#Compra de material ##4408##1#2##0#1#30#3#daniel#adm##0#2015-12-03T02:00:00.000+00:00#2015-12-03T17:13:02.048+00:00#f#
-458##1#1#Compra de material conforme pedido##2060##1#18##0#1#30#0#clovis#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-08T16:58:58.965+00:00#f#
-459##1#1#Compra de material conforme pedido##118558##1#24##0#1#30#0#anderson#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-08T16:55:35.859+00:00#f#
 460##0#1#Compra de uniformes  para entrega semestral conforme pedido####0#23##0#1#30/60#0#sandra#valmiron##0#2015-12-04T02:00:00.000+00:00#2015-12-04T13:04:49.933+00:00#f#
-461##1#19#Compra de uniformes entherm##794##1#23##0#1#30/60#3#sandra#adm##0#2015-12-04T02:00:00.000+00:00#2015-12-23T16:50:28.984+00:00#f#
 462##1#1#Compra de material para instalação de 02 fancolets no gab 4 da ala Dinart Mariz##2144##1#18##0#1#30/60#0#clovis#valmiron##0#2015-12-04T02:00:00.000+00:00#2015-12-09T11:39:06.286+00:00#f#
-463##1#2#Compra de suportes para condensadoras conforme pedido##2144##1#18##0#1#30/60#0#clovis#mario lincon##0#2015-12-04T02:00:00.000+00:00#2015-12-09T11:35:57.750+00:00#f#
-464##1#1#Compra de materiais para instalação de 02 fancolets para gab 4 da ala Dinart Mariz##102285##1#34##0#1#30/60#0#silverio#valmiron##0#2015-12-04T02:00:00.000+00:00#2015-12-08T16:56:14.056+00:00#f#
+408##0#21#Compra de cabo conforme pedido##11469##1#70##0#1#28/35#0#millena#elino##0#2015-11-25T02:00:00.000+00:00#2015-12-15T13:35:35.148+00:00#f#
+441##1#10#Compra de rolamentos####1#12##0#1#30#0#GEOVANE#ALEX##0#2015-12-01T02:00:00.000+00:00#2015-12-11T11:58:43.588+00:00#f#
+470##1#1#Compra de material para instalação de 02 fancolets no gab 4 da ala Dinart Mariz####1#18##0#1#30#0#clovis#walmiron##0#2015-12-08T02:00:00.000+00:00#2015-12-14T16:05:36.033+00:00#f#
+469##1#2#Compra conforme pedido que a gestora autorizou##322##1#78##0#1#15#0#INTERNET#mario lincon##0#2015-12-07T02:00:00.000+00:00#2015-12-23T16:25:29.818+00:00#f#
+437##1#1#Compra de 3 fancolete##1717629 / 150264##1#46##0#1#30/60#0#matheus#marcos##0#2015-12-01T02:00:00.000+00:00#2015-12-23T16:28:45.296+00:00#f#
 465##1#19#Compra de uniformes serman####1#23##0#1#30/60#3#sandra#adm##0#2015-12-04T02:00:00.000+00:00#2015-12-23T16:49:48.320+00:00#f#
+461##1#19#Compra de uniformes entherm##794##1#23##0#1#30/60#3#sandra#adm##0#2015-12-04T02:00:00.000+00:00#2015-12-23T16:50:28.984+00:00#f#
+473##0#1#Compra de motor ventilador para posto combustivel OS 24538####0#18##0#1#30/60#0#clovis#walmiron##0#2015-12-08T02:00:00.000+00:00#2015-12-08T16:34:36.943+00:00#f#
+453##1#1#Compra de gás 141b para limpeza das linhas para instalações compressores##2060##1#18##0#1#30/60#0#clovis#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-08T16:50:36.119+00:00#f#
+444##1#1#Compra de terminais para quadro elétrico##204452##1#4##0#1#30#0#edgar#valmiron##0#2015-12-02T02:00:00.000+00:00#2015-12-08T16:51:33.546+00:00#f#
+442##1#1#Compra de compressor 7,5 tr e  material para instalação##1998##1#18##0#1#30/60#0#clovis#valmiron##0#2015-12-01T02:00:00.000+00:00#2015-12-08T16:53:53.617+00:00#f#
+459##1#1#Compra de material conforme pedido##118558##1#24##0#1#30#0#anderson#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-08T16:55:35.859+00:00#f#
+464##1#1#Compra de materiais para instalação de 02 fancolets para gab 4 da ala Dinart Mariz##102285##1#34##0#1#30/60#0#silverio#valmiron##0#2015-12-04T02:00:00.000+00:00#2015-12-08T16:56:14.056+00:00#f#
 466##1#1#Compra material para instalação de 02 fancolets no gab 4 da ala dinart mariz##118696##1#24##0#1#30#0#anderson#walmiron##0#2015-12-07T02:00:00.000+00:00#2015-12-08T16:56:58.106+00:00#f#
 467##1#2#Compra de material conforme pedido##118697##1#24##0#1#30#0#anderson#mario lincon##0#2015-12-07T02:00:00.000+00:00#2015-12-08T16:57:26.668+00:00#f#
-469##1#2#Compra conforme pedido que a gestora autorizou##322##1#78##0#1#15#0#INTERNET#mario lincon##0#2015-12-07T02:00:00.000+00:00#2015-12-23T16:25:29.818+00:00#f#
-470##1#1#Compra de material para instalação de 02 fancolets no gab 4 da ala Dinart Mariz####1#18##0#1#30#0#clovis#walmiron##0#2015-12-08T02:00:00.000+00:00#2015-12-14T16:05:36.033+00:00#f#
-471##1#1#Compra de material para confecção e troca de filtros das máquinas##118792##1#24##0#1#30#0#anderson#walmiron##0#2015-12-08T02:00:00.000+00:00#2015-12-11T11:54:17.370+00:00#f#
-472##1#11#Compra de material para troca dos filtros de linha##292041##1#12##0#1#30#0#geovane#joselio##0#2015-12-08T02:00:00.000+00:00#2015-12-11T11:52:36.235+00:00#f#
-473##0#1#Compra de motor ventilador para posto combustivel OS 24538####0#18##0#1#30/60#0#clovis#walmiron##0#2015-12-08T02:00:00.000+00:00#2015-12-08T16:34:36.943+00:00#f#
-474##1#9#Compra de HD para o RH##20109##1#59##0#1#7#0#kesley#adm##0#2015-12-08T02:00:00.000+00:00#2015-12-11T11:49:06.248+00:00#f#
+458##1#1#Compra de material conforme pedido##2060##1#18##0#1#30#0#clovis#valmiron##0#2015-12-03T02:00:00.000+00:00#2015-12-08T16:58:58.965+00:00#f#
 475##1#19#Compra de parafusos e buchas##118561##1#24##0#1#30#3#anderson#adm##0#2015-12-09T02:00:00.000+00:00#2015-12-09T12:01:15.099+00:00#f#
 476##1#17#Recarga de nitrogênio##79216##1#7##0#1#30#0#sebastiao#edson##0#2015-12-09T02:00:00.000+00:00#2015-12-09T12:04:39.604+00:00#f#
 477##1#17#Compra de material solicitado##8920##1#14##0#1#30#0#marlon#luis##0#2015-12-09T02:00:00.000+00:00#2015-12-09T12:10:55.929+00:00#f#
@@ -462,34 +461,31 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 492##1#1#Compra de contatora conforme OS 24562##6596##1#4##0#1#30#0#edgar#walmiron##0#2015-12-09T02:00:00.000+00:00#2015-12-09T13:28:37.317+00:00#f#
 493##1#21#Compra de material conforme solicitado##6973##1#4##0#1#30#0#edgar#elino##0#2015-12-09T02:00:00.000+00:00#2015-12-09T13:34:39.070+00:00#f#
 494##1#16#Compra de válvula para BRB do Saan##8553##1#80##0#1#30#0#pablo#edson##0#2015-12-09T02:00:00.000+00:00#2015-12-09T13:51:29.356+00:00#f#
-495##1#5#Compra para fazenda##198499##1#20##0#1#30/60#0#joão#Sr.Francisco##0#2015-12-09T02:00:00.000+00:00#2015-12-11T11:56:31.212+00:00#f#
 496##1#19#Compra de material ##8553##1#80##0#1#30#3#pablo#adm##0#2015-12-09T02:00:00.000+00:00#2015-12-09T13:53:50.837+00:00#f#
 497##1#19#Compra uso em todos os contratos##324827##1#27##0#1#28/56/84#3#carlos#gisele##0#2015-12-09T02:00:00.000+00:00#2015-12-16T12:12:59.876+00:00#f#
+474##1#9#Compra de HD para o RH##20109##1#59##0#1#7#0#kesley#adm##0#2015-12-08T02:00:00.000+00:00#2015-12-11T11:49:06.248+00:00#f#
+471##1#1#Compra de material para confecção e troca de filtros das máquinas##118792##1#24##0#1#30#0#anderson#walmiron##0#2015-12-08T02:00:00.000+00:00#2015-12-11T11:54:17.370+00:00#f#
 498##1#1#Compra de chapas conforme pedido OS 23923##198499##1#20##0#1#30#0#joão#walmiron##0#2015-12-09T02:00:00.000+00:00#2015-12-11T11:55:09.293+00:00#f#
-499##0#6#Compra de correias conforme pedido####1#12##0#1#30#0#geovane#ricardo##0#2015-12-09T02:00:00.000+00:00#2016-08-09T12:31:36.893+00:00#f#
+495##1#5#Compra para fazenda##198499##1#20##0#1#30/60#0#joão#Sr.Francisco##0#2015-12-09T02:00:00.000+00:00#2015-12-11T11:56:31.212+00:00#f#
 500##1#5#Compra de material para a fazenda##204730##1#4##0#1#30/60#0#edgar#Sr. Francisco##0#2015-12-11T02:00:00.000+00:00#2015-12-11T12:16:29.975+00:00#f#
 501##1#1#Compra de material conforme pedido##4467##1#2##0#1#30#0#daniel#walmiron##0#2015-12-11T02:00:00.000+00:00#2015-12-11T12:55:41.715+00:00#f#
 502##1#16#Compra de material para BRB agência central##6938##1#4##0#1#30#0#edgar#elielson##0#2015-12-11T02:00:00.000+00:00#2015-12-11T13:09:05.417+00:00#f#
 503##1#23#Compra de material elétrico ##204615##1#4##0#1#30/60#0#edgar#elielson##0#2015-12-11T02:00:00.000+00:00#2015-12-11T13:18:08.500+00:00#f#
-504##1#9#Compra de material para adequação, conforme exigência do bombeiro##292038##1#12##0#1#30#0#geovane#adm##0#2015-12-11T02:00:00.000+00:00#2015-12-11T13:30:06.373+00:00#f#
 505##1#9#Compra de material para adequação, conforme exigência do bombeiro##204796##1#4##0#1#30#0#edgar#adm##0#2015-12-11T02:00:00.000+00:00#2015-12-11T13:29:25.051+00:00#f#
+504##1#9#Compra de material para adequação, conforme exigência do bombeiro##292038##1#12##0#1#30#0#geovane#adm##0#2015-12-11T02:00:00.000+00:00#2015-12-11T13:30:06.373+00:00#f#
 506##1#17#Compra de oxigênio##79305##1#7##0#1#30#0#sebastiao#fernando##0#2015-12-11T02:00:00.000+00:00#2015-12-11T13:32:09.031+00:00#f#
-507##1#23#Compra de split 22.000##12976##1#2##0#1#30dd#0#andré#Rodrigo/Jorge##0#2015-12-11T02:00:00.000+00:00#2015-12-15T13:31:18.457+00:00#f#
 508##1#23#Locação de material para instalação de split##310##1#81##0#1#15#2#ivis#luis##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:42:12.153+00:00#f#
 509##1#23#Locação de material para instalação de split##309##1#81##0#1#15#2#ivis#luis##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:47:02.886+00:00#f#
-510##1#1#Aluguel mensal de relógio de ponto digital##1754##1#36##0#1#15#2#edna#walmiron##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:56:14.264+00:00#f#
-511##1#2#Aluguel mensal de relógio de ponto digital##1754##1#36##0#1#15#2#edna#mario lincon##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:55:56.445+00:00#f#
 512##1#6#Aluguel mensal de relógio de ponto digital##1754##1#36##0#1#15#2#edna#ricardo##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:55:39.807+00:00#f#
+507##1#23#Compra de split 22.000##12976##1#2##0#1#30dd#0#andré#Rodrigo/Jorge##0#2015-12-11T02:00:00.000+00:00#2015-12-15T13:31:18.457+00:00#f#
+499##0#6#Compra de correias conforme pedido####1#12##0#1#30#0#geovane#ricardo##0#2015-12-09T02:00:00.000+00:00#2016-08-09T12:31:36.893+00:00#f#
+511##1#2#Aluguel mensal de relógio de ponto digital##1754##1#36##0#1#15#2#edna#mario lincon##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:55:56.445+00:00#f#
+515##1#9#Aluguel mensal de relógio de ponto digital##1756##1#36##0#1#15#2#edna#adm##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:59:37.862+00:00#f#
+518##1#1#Compra de display digital para evaporadora mod. 42lvcc22c5 conforme pedido##4507##1#2##0#1#30/60#0#daniel#walmiron##0#2015-12-11T02:00:00.000+00:00#2015-12-11T18:27:16.728+00:00#f#
+510##1#1#Aluguel mensal de relógio de ponto digital##1754##1#36##0#1#15#2#edna#walmiron##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:56:14.264+00:00#f#
 513##1#21#Aluguel mensal de relógio de ponto digital##1755##1#36##0#1#15#2#edna#elino##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:57:27.997+00:00#f#
 514##1#11#Aluguel mensal de relógio de ponto digital##1755##1#36##0#1#15#2#edna#joselio##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:58:31.471+00:00#f#
-515##1#9#Aluguel mensal de relógio de ponto digital##1756##1#36##0#1#15#2#edna#adm##0#2015-12-11T02:00:00.000+00:00#2015-12-11T17:59:37.862+00:00#f#
 517##1#1#Compra conforme pedido nas OS: 24959 e 24937 para os gab. 4 e 19##9028##1#14##0#1#30/60#2#marlon#walmiron##0#2015-12-11T02:00:00.000+00:00#2015-12-11T18:10:38.149+00:00#f#
-518##1#1#Compra de display digital para evaporadora mod. 42lvcc22c5 conforme pedido##4507##1#2##0#1#30/60#0#daniel#walmiron##0#2015-12-11T02:00:00.000+00:00#2015-12-11T18:27:16.728+00:00#f#
-519##1#6#Compra de relógio de ponto##193##1#82##0#1#30/60/90#0#samara#ricardo##0#2015-12-14T02:00:00.000+00:00#2015-12-22T12:08:49.481+00:00#f#
-520##1#9#Compra de relógio de ponto##193##1#82##0#1#30/60/90#0#samara#adm##0#2015-12-14T02:00:00.000+00:00#2015-12-22T12:08:24.174+00:00#f#
-521##1#2#Compra de material conforme pedido##4529##1#2##0#1#30#0#daniel#mario lincon##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:22:11.189+00:00#f#
-522##1#16#Compra de compressor para BRB da agência central##2315##1#18##0#1#30/60#0#clovis#luis##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:21:33.894+00:00#f#
-523##1#1#Compra de válvulas conforme várias ordem de serviços##11622##1#83##0#1#30/60#0#laercio#walmiron##0#2015-12-15T02:00:00.000+00:00#2015-12-30T12:40:47.513+00:00#f#
 524##1#1#Serviço de tratamento químico  ##3303##1#13##0#1#30#0#rafael#walmiron##0#2015-12-15T02:00:00.000+00:00#2015-12-15T13:48:12.883+00:00#f#
 525##1#4#Serviço de tratamento químico##3305##1#13##0#1#30#0#rafael#luiz##0#2015-12-15T02:00:00.000+00:00#2015-12-15T13:57:15.604+00:00#f#
 526##1#16#Compra de material para BRB agência do Corpo de bombeiros##9064##1#14##0#1#30#0#marlon#luis##0#2015-12-15T02:00:00.000+00:00#2015-12-15T14:01:48.181+00:00#f#
@@ -502,73 +498,74 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 533##1#16#Serviço de conserto de motor para BRB agência Central##4046##1#5##0#1#30#1#adriana#luis ##0#2015-12-15T02:00:00.000+00:00#2015-12-15T14:36:31.476+00:00#f#
 534##1#6#Serviço de furo e rasgo da polia ##4044##1#5##0#1#30#1#adriana#ricardo##0#2015-12-15T02:00:00.000+00:00#2015-12-15T14:39:07.538+00:00#f#
 535##1#10#Serviço de furo e rasgo em polia##4044##1#5##0#1#30#1#adriana#jadir##0#2015-12-15T02:00:00.000+00:00#2015-12-15T14:41:21.406+00:00#f#
+549##1#21#Frete dos cabos de 50mm##774477##1#53##0#1#15#1#-#elino##0#2015-12-17T02:00:00.000+00:00#2015-12-17T16:16:49.395+00:00#f#
 536##1#6#Aluguel mensal de relógio de ponto##1757##1#36##0#1#18 DD#2#edna#ricardo##0#2015-12-15T02:00:00.000+00:00#2015-12-15T16:13:50.610+00:00#f#
 537##1#10#Aluguel mensal do relógio de ponto manual##1757##1#36##0#1#18 DD#2#edna#jadir##0#2015-12-15T02:00:00.000+00:00#2015-12-15T16:16:52.365+00:00#f#
-538##1#23#Compra de material conforme solicitado##9090##1#14##0#1#30/60#0#marlon#luis##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:22:43.254+00:00#f#
-539##1#4#Compra de exaustor conforme solicitado##8125##1#3##0#1#30#0#ananda#luiz##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:42:56.590+00:00#f#
-540##1#7#Compra de material conforme solicitação##2462##1#18##0#1#30#0#clovis#joselio##0#2015-12-16T02:00:00.000+00:00#2015-12-23T16:35:27.476+00:00#f#
-541##1#23#Compra de material conforme solicitado####1#14##0#1#30#0#marlon#luis##0#2015-12-17T02:00:00.000+00:00#2015-12-22T12:10:45.954+00:00#f#
 542##1#16#Compra de placa para BRB ag. Planaltina##42##1#84##0#1#5#0#INTERNET#ELIELCIO##0#2015-12-17T02:00:00.000+00:00#2016-01-04T16:10:48.356+00:00#f#
 543##1#5#Frete das cestas##488267##1#39##0#1#15#1#-#Sr. Francisco##0#2015-12-17T02:00:00.000+00:00#2015-12-17T12:39:32.118+00:00#f#
 544##1#5#Frete de tambores##485519##1#85##0#1#15#1#-#Sr. Francisco##0#2015-12-17T02:00:00.000+00:00#2015-12-17T13:19:54.863+00:00#f#
+522##1#16#Compra de compressor para BRB da agência central##2315##1#18##0#1#30/60#0#clovis#luis##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:21:33.894+00:00#f#
+521##1#2#Compra de material conforme pedido##4529##1#2##0#1#30#0#daniel#mario lincon##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:22:11.189+00:00#f#
+538##1#23#Compra de material conforme solicitado##9090##1#14##0#1#30/60#0#marlon#luis##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:22:43.254+00:00#f#
 545##1#11#Compra de material para confecção de filtros##199123##1#20##0#1#30#0#joao#marcos##0#2015-12-17T02:00:00.000+00:00#2015-12-17T13:31:02.849+00:00#f#
 546##1#16#Compra de material solicitado##4518##1#2##0#1#30#0#daniel#fernando##0#2015-12-17T02:00:00.000+00:00#2015-12-17T13:36:42.088+00:00#f#
+539##1#4#Compra de exaustor conforme solicitado##8125##1#3##0#1#30#0#ananda#luiz##0#2015-12-15T02:00:00.000+00:00#2015-12-17T13:42:56.590+00:00#f#
 547##1#1#Recargas de oxigênio, nitrogênio e acetileno##79370##1#7##0#1#30#0#sebastiao#walmiron##0#2015-12-17T02:00:00.000+00:00#2015-12-17T13:49:14.776+00:00#f#
-548##1#1#Compra de material para confecção de filtros##119148##1#24##0#1#30#0#anderson#bruno##0#2015-12-17T02:00:00.000+00:00#2015-12-22T12:11:36.605+00:00#f#
-549##1#21#Frete dos cabos de 50mm##774477##1#53##0#1#15#1#-#elino##0#2015-12-17T02:00:00.000+00:00#2015-12-17T16:16:49.395+00:00#f#
-550##1#1#Compra de material para quadro cme####1#86##0#0#a vista#0#renato#bruno##0#2015-12-17T02:00:00.000+00:00#2015-12-23T16:33:04.046+00:00#f#
-551##1#1#Compra de material para Ala Teotonio Vilela Gab. 19 OS 25703##159563##1#86##0#1#30#0#renato#walmiron##0#2015-12-21T02:00:00.000+00:00#2015-12-22T12:03:54.626+00:00#f#
-552##1#1#Compra compressor para Ala Teotonio 006 anexo II OS 25889##9193##1#14##0#1#30/60#0#marlon#walmiron##0#2015-12-21T02:00:00.000+00:00#2015-12-23T16:36:03.090+00:00#f#
-553##1#1#Compra de material para uso na tubulação da torre CM3####2#4##0#1#30#0#edgar#walmiron##0#2015-12-21T02:00:00.000+00:00#2015-12-23T16:52:33.117+00:00#f#
+559##1#16#Compra de material eletrico para BRB ag. central##8052##1#4##0#1#30#0#edgar#elielcio##0#2015-12-22T02:00:00.000+00:00#2015-12-22T12:19:53.904+00:00#f#
+519##1#6#Compra de relógio de ponto##193##1#82##0#1#30/60/90#0#samara#ricardo##0#2015-12-14T02:00:00.000+00:00#2015-12-22T12:08:49.481+00:00#f#
 554##1#17#Abastecimento veiculos##5320##1#29##0#1#5#0#-#jorge##0#2015-12-22T02:00:00.000+00:00#2015-12-22T11:34:47.635+00:00#f#
 555##1#9#Abastecimento veiculos##5320##1#29##0#1#5#0#-#adm##0#2015-12-22T02:00:00.000+00:00#2015-12-22T11:43:17.765+00:00#f#
 556##1#1#Abastecimento veiculos##5320##1#29##0#1#5#0#-#jorge##0#2015-12-22T02:00:00.000+00:00#2015-12-22T11:55:32.559+00:00#f#
 557##1#16#Abastecimento veiculo para manutenção todos os BRB##5320##1#29##0#1#5#0#-#jorge##0#2015-12-22T02:00:00.000+00:00#2015-12-22T11:58:43.687+00:00#f#
+551##1#1#Compra de material para Ala Teotonio Vilela Gab. 19 OS 25703##159563##1#86##0#1#30#0#renato#walmiron##0#2015-12-21T02:00:00.000+00:00#2015-12-22T12:03:54.626+00:00#f#
+520##1#9#Compra de relógio de ponto##193##1#82##0#1#30/60/90#0#samara#adm##0#2015-12-14T02:00:00.000+00:00#2015-12-22T12:08:24.174+00:00#f#
+541##1#23#Compra de material conforme solicitado####1#14##0#1#30#0#marlon#luis##0#2015-12-17T02:00:00.000+00:00#2015-12-22T12:10:45.954+00:00#f#
+548##1#1#Compra de material para confecção de filtros##119148##1#24##0#1#30#0#anderson#bruno##0#2015-12-17T02:00:00.000+00:00#2015-12-22T12:11:36.605+00:00#f#
 558##1#5#Compra de telhas para a fazenda conforme solicitação Sr. Francisco##119968##1#87##0#1#30/60/90#0#adelcione#sr Francisco##0#2015-12-22T02:00:00.000+00:00#2015-12-22T12:14:40.888+00:00#f#
-559##1#16#Compra de material eletrico para BRB ag. central##8052##1#4##0#1#30#0#edgar#elielcio##0#2015-12-22T02:00:00.000+00:00#2015-12-22T12:19:53.904+00:00#f#
 560##1#16#Compra de material retirado pelo Sr. Joaquim para BRB ag. park real##2373##1#18##0#1#30#0#clovis#sr joaquim##0#2015-12-22T02:00:00.000+00:00#2015-12-22T12:22:45.144+00:00#f#
-561##1#10#Compra de material conforme solicitado##2462##1#18##0#1#30#0#clovis#alex##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:34:45.293+00:00#f#
 562##1#9#Compra de material de limpeza ##1118##1#57##0#4#20#0#-#adm##0#2015-12-22T02:00:00.000+00:00#2015-12-22T12:33:51.258+00:00#f#
 563##1#17#Recarga de nitrogênio##79426##1#7##0#1#30#0#sebastião#luis##0#2015-12-22T02:00:00.000+00:00#2015-12-22T12:56:12.944+00:00#f#
-564##1#1#Compra de material para unidade de apoio 2 pav terreo 018 OS 25910##8249##1#1##0#1#30#0#edgar#bruno##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:30:45.113+00:00#f#
+523##1#1#Compra de válvulas conforme várias ordem de serviços##11622##1#83##0#1#30/60#0#laercio#walmiron##0#2015-12-15T02:00:00.000+00:00#2015-12-30T12:40:47.513+00:00#f#
 565##1#1#Compra de correias para uso na self da copil 2, as maquinas estão inoperantes por causa das correias quebradas##293649##1#12##0#1#30#0#geovane#walmiron##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:30:09.762+00:00#f#
-566##1#1#Compra de resistência conforme solicitado##9016##1#88##0#0#a vista#0#rafael#walmiron##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:33:34.610+00:00#f#
+564##1#1#Compra de material para unidade de apoio 2 pav terreo 018 OS 25910##8249##1#1##0#1#30#0#edgar#bruno##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:30:45.113+00:00#f#
 567##1#6#Compra de material conforme solicitado##12266##1#89##0#0#a vista#0#romulo#ricardo##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:31:51.896+00:00#f#
-568##1#1#Compra de material conforme pedido OS 25906, extensão dos drenos do bloco de apoio da Prodasen (edificio ao fundo c/ ag. da Caixa.##103210##1#34##0#1#30#0#silverio#walmiron##0#2015-12-23T02:00:00.000+00:00#2015-12-28T17:16:44.761+00:00#f#
-569##1#1#Compra de compressor conforme OS 25924 p/ unid. apoio 2 pav. terreo 018##2474##1#18##0#1#30/60/90#0#clovis#walmiron##0#2015-12-23T02:00:00.000+00:00#2015-12-28T17:15:37.193+00:00#f#
+550##1#1#Compra de material para quadro cme####1#86##0#0#a vista#0#renato#bruno##0#2015-12-17T02:00:00.000+00:00#2015-12-23T16:33:04.046+00:00#f#
+566##1#1#Compra de resistência conforme solicitado##9016##1#88##0#0#a vista#0#rafael#walmiron##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:33:34.610+00:00#f#
+561##1#10#Compra de material conforme solicitado##2462##1#18##0#1#30#0#clovis#alex##0#2015-12-22T02:00:00.000+00:00#2015-12-23T16:34:45.293+00:00#f#
+540##1#7#Compra de material conforme solicitação##2462##1#18##0#1#30#0#clovis#joselio##0#2015-12-16T02:00:00.000+00:00#2015-12-23T16:35:27.476+00:00#f#
+552##1#1#Compra compressor para Ala Teotonio 006 anexo II OS 25889##9193##1#14##0#1#30/60#0#marlon#walmiron##0#2015-12-21T02:00:00.000+00:00#2015-12-23T16:36:03.090+00:00#f#
+553##1#1#Compra de material para uso na tubulação da torre CM3####2#4##0#1#30#0#edgar#walmiron##0#2015-12-21T02:00:00.000+00:00#2015-12-23T16:52:33.117+00:00#f#
 570##1#21#Compra de material conforme solicitado##293749 / 293750##1#12##0#1#30#0#geovane#elino##0#2015-12-23T02:00:00.000+00:00#2015-12-28T11:18:15.918+00:00#f#
-571##1#1#Compra de material conforme solicitado##199990##1#20##0#1#30#0#joao#marcos/jorge##0#2015-12-28T02:00:00.000+00:00#2015-12-29T19:03:41.507+00:00#f#
 572##1#6#Compra de filtros de ar anual conforme contrato##3337##1#90##0#1#30/60/90#0#-#ricardo##0#2015-12-28T02:00:00.000+00:00#2015-12-28T13:08:43.779+00:00#f#
 573##1#9#Locação de máquina de xerox##17060##1#32##0#1#30#2#elvira#adm##0#2015-12-28T02:00:00.000+00:00#2015-12-28T13:19:36.217+00:00#f#
 574##1#9#Recargas de cartuchos para financeiro e comercial##17057##1#32##0#1#30#0#elvira#adm##0#2015-12-28T02:00:00.000+00:00#2015-12-28T13:22:49.109+00:00#f#
+569##1#1#Compra de compressor conforme OS 25924 p/ unid. apoio 2 pav. terreo 018##2474##1#18##0#1#30/60/90#0#clovis#walmiron##0#2015-12-23T02:00:00.000+00:00#2015-12-28T17:15:37.193+00:00#f#
+568##1#1#Compra de material conforme pedido OS 25906, extensão dos drenos do bloco de apoio da Prodasen (edificio ao fundo c/ ag. da Caixa.##103210##1#34##0#1#30#0#silverio#walmiron##0#2015-12-23T02:00:00.000+00:00#2015-12-28T17:16:44.761+00:00#f#
 575##1#21#Compra de maquinário e ferramentas conforme contrato##226572##1#67##0#1#30/45/60/90/120#0#bel#elino##0#2015-12-28T02:00:00.000+00:00#2015-12-28T17:50:08.039+00:00#f#
 576##0#1#Compra de material para troca da tubulação da tv senado no fosso conforme OS 25721####0#34##0#1#30/60/90#0#silverio#walmiron##0#2015-12-29T02:00:00.000+00:00#2015-12-29T13:48:25.703+00:00#f#
+571##1#1#Compra de material conforme solicitado##199990##1#20##0#1#30#0#joao#marcos/jorge##0#2015-12-28T02:00:00.000+00:00#2015-12-29T19:03:41.507+00:00#f#
 577##1#1#Frete das válvulas para Senado##99213##1#56##0#1#30#0#-#walmiron##0#2015-12-30T02:00:00.000+00:00#2015-12-30T14:21:58.687+00:00#f#
 578##1#9#Compra de material de escritório##10590##1#30##0#1#30#0#nilva#adm##0#2015-12-30T02:00:00.000+00:00#2015-12-30T14:27:56.840+00:00#f#
 579##1#5#Compra de cestas básicas para a fazenda##12656##1#73##0#1#30#0#luis#sr francisco##0#2015-12-30T02:00:00.000+00:00#2015-12-30T16:26:52.037+00:00#f#
-580##1#1#Compra de material para uso na self da copil para instalação do compressor 7,5 tr##294353##1#12##0#1#30#0#geovane#bruno##0#2015-12-30T02:00:00.000+00:00#2016-01-06T12:41:16.411+00:00#f#
 581##0#1#Compra de material para uso na self da copil para instalação do compressor 7,5 tr####0#18##0#1#30#0#clovis#bruno##0#2015-12-30T02:00:00.000+00:00#2015-12-30T16:44:03.165+00:00#f#
 582##0#21#Compra de maquinário e ferramentas conforme contrato####0#18##0#1#30#0#clovis#elinno##0#2015-12-30T02:00:00.000+00:00#2015-12-30T16:47:38.653+00:00#f#
-583##1#21#Compra de maquinário e ferramentas conforme contrato##227020##1#67##0#1#30/60#0#bel#elinno##0#2015-12-30T02:00:00.000+00:00#2016-01-06T12:45:51.441+00:00#f#
 584##1#16#Compra de material para agências de BRB, solicitado pelo Sr. Joaquim##4563##1#2##0#1#30#0#daniel#sr joaquim##0#2015-12-30T02:00:00.000+00:00#2015-12-30T17:38:26.056+00:00#f#
-585##1#6#Compra de correias conforme pedido##294652##1#12##0#1#30/60#0#geovane#ricardo##0#2016-01-05T02:00:00.000+00:00#2016-01-08T11:17:11.855+00:00#f#
 586##1#1#Compra de material para split conforme pedido##4635##1#2##0#1#30#0#marlon#walmiron##0#2016-01-05T02:00:00.000+00:00#2016-01-08T11:15:56.870+00:00#f#
-587##1#1#Compra de material para split conforme pedido##36051##1#14##0#1#30#0#marlon#walmiron##0#2016-01-05T02:00:00.000+00:00#2016-01-08T11:16:35.830+00:00#f#
-588##1#11#Compra de material conforme solicitado##200735##1#20##0#1#30/60#0#joao#joselio##0#2016-01-05T02:00:00.000+00:00#2016-01-12T16:46:24.940+00:00#f#
+580##1#1#Compra de material para uso na self da copil para instalação do compressor 7,5 tr##294353##1#12##0#1#30#0#geovane#bruno##0#2015-12-30T02:00:00.000+00:00#2016-01-06T12:41:16.411+00:00#f#
+583##1#21#Compra de maquinário e ferramentas conforme contrato##227020##1#67##0#1#30/60#0#bel#elinno##0#2015-12-30T02:00:00.000+00:00#2016-01-06T12:45:51.441+00:00#f#
 589##1#1#Compra de contactora conforme OS 25935 GAB 9##9075##1#4##0#1#30#0#edgar#walmiron##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:15:24.242+00:00#f#
+597##1#1#Compra de material para troca de tubulação da tv senado no fosso anexo II subsolo bl b OS 25721##103516##1#34##0#1#30#0#silverio#marcos##0#2016-01-06T02:00:00.000+00:00#2016-01-08T10:36:38.606+00:00#f#
 590##1#1#Compra de material para isolamento da tubulação do restaurante OS 25957##14223##1#18##0#1#30#0#clovis#walmiron##0#2016-01-06T02:00:00.000+00:00#2016-01-08T10:37:26.790+00:00#f#
-591##1#1#Compra de material para uso tv senado subsolo bl b anexo II, OS 19632##9340##1#14##0#1#30#0#marlon#bruno##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:14:52.076+00:00#f#
-592##1#16#Compra de material para uso no BRB do 18º andar ed. Central ##4645##1#2##0#1#30#0#DANIEL#LUIS##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:14:09.825+00:00#f#
 593##1#19#Compra de material conforme solicitado##14224##1#14##0#1#30#3#marlon#luis##0#2016-01-06T02:00:00.000+00:00#2016-01-08T10:38:23.095+00:00#f#
+592##1#16#Compra de material para uso no BRB do 18º andar ed. Central ##4645##1#2##0#1#30#0#DANIEL#LUIS##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:14:09.825+00:00#f#
+591##1#1#Compra de material para uso tv senado subsolo bl b anexo II, OS 19632##9340##1#14##0#1#30#0#marlon#bruno##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:14:52.076+00:00#f#
+587##1#1#Compra de material para split conforme pedido##36051##1#14##0#1#30#0#marlon#walmiron##0#2016-01-05T02:00:00.000+00:00#2016-01-08T11:16:35.830+00:00#f#
+585##1#6#Compra de correias conforme pedido##294652##1#12##0#1#30/60#0#geovane#ricardo##0#2016-01-05T02:00:00.000+00:00#2016-01-08T11:17:11.855+00:00#f#
 594##1#1#Compra do restante do material para entrega EPI semestral##119658##1#24##0#1#30#0#anderson#walmiron##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:17:58.955+00:00#f#
 595##1#1#Compra de material conforme pedido##119658##1#24##0#1#30#0#anderson#walmiron##0#2016-01-06T02:00:00.000+00:00#2016-01-08T11:18:32.021+00:00#f#
-596##1#16#Compra de material para BRB de Luziânia, Alexania e Psul, solicitado pelo Sr. Joaquim##119665##1#24##0#1#30#0#anderson#Sr Joaquim##0#2016-01-06T02:00:00.000+00:00#2016-01-12T16:45:11.257+00:00#f#
-597##1#1#Compra de material para troca de tubulação da tv senado no fosso anexo II subsolo bl b OS 25721##103516##1#34##0#1#30#0#silverio#marcos##0#2016-01-06T02:00:00.000+00:00#2016-01-08T10:36:38.606+00:00#f#
-598##1#19#Compra de EPI para novos funcionários##119654##1#24##0#1#30#0#anderson#Cristiane##0#2016-01-07T02:00:00.000+00:00#2016-01-12T16:47:55.077+00:00#f#
 599##1#10#Compra de material conforme pedido ##119656##1#24##0#1#30#0#anderson#jadir##0#2016-01-07T02:00:00.000+00:00#2016-01-08T11:22:11.358+00:00#f#
-600##1#10#Compra de material conforme pedido##36094##1#14##0#1#30#0#marlon#jadir##0#2016-01-07T02:00:00.000+00:00#2016-01-12T16:45:56.050+00:00#f#
-601##1#17#Locação de cilindros ppu##79543##1#7##0#1#30#2#sebastiao#luiz##0#2016-01-11T02:00:00.000+00:00#2016-01-11T10:37:08.462+00:00#f#
 602##1#4#Locação de cilindros ppu##79542##1#7##0#1#30#2#sebastião#luiz##0#2016-01-11T02:00:00.000+00:00#2016-01-11T10:36:10.088+00:00#f#
+596##1#16#Compra de material para BRB de Luziânia, Alexania e Psul, solicitado pelo Sr. Joaquim##119665##1#24##0#1#30#0#anderson#Sr Joaquim##0#2016-01-06T02:00:00.000+00:00#2016-01-12T16:45:11.257+00:00#f#
 603##1#6#Locação de cilindros ppu##79541##1#7##0#1#30#2#sebastião#ricardo##0#2016-01-11T02:00:00.000+00:00#2016-01-11T10:38:51.050+00:00#f#
 604##1#1#Locação cilindros ppu##79540##1#7##0#1#30#2#sebastião#walmiron##0#2016-01-11T02:00:00.000+00:00#2016-01-11T10:41:04.429+00:00#f#
 605##1#6#Aluguel mensal do relógio de ponto manual##1768##1#36##0#1#30#2#edna#ricardo##0#2016-01-11T02:00:00.000+00:00#2016-01-11T11:02:22.613+00:00#f#
@@ -582,46 +579,41 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 613##1#1#Abastecimento de veiculos##5400##1#29##0#1#15#0#-#walmiron##0#2016-01-11T02:00:00.000+00:00#2016-01-11T11:46:55.896+00:00#f#
 614##1#17#Abastecimento de veiculos##5400##1#29##0#1#15#0#-#adm##0#2016-01-11T02:00:00.000+00:00#2016-01-11T11:51:55.497+00:00#f#
 615##1#9#Abastecimento de veiculos##5400##1#29##0#1#15#0#-#adm##0#2016-01-11T02:00:00.000+00:00#2016-01-11T11:55:51.743+00:00#f#
-616##1#6#Compra de ponte retificadora conforme solicitado##7647##1#91##0#1#5#0#internet#ricardo##0#2016-01-11T02:00:00.000+00:00#2016-01-20T12:33:11.485+00:00#f#
-617##1#2#Compra de equipamentos conforme pedido##119818##1#24##0#1#30#0#anderson#mario lincon##0#2016-01-11T02:00:00.000+00:00#2016-01-14T10:56:51.873+00:00#f#
-618##1#17#Compra de gás 141B##9393##1#14##0#1#30#0#marlon#luis##0#2016-01-11T02:00:00.000+00:00#2016-01-14T10:56:00.285+00:00#f#
 619##1#1#Compra de material para os fancoils do prodasen##295407##1#12##0#1#30#0#geovane#walmiron##0#2016-01-11T02:00:00.000+00:00#2016-01-12T16:44:18.160+00:00#f#
-620##1#1#Compra de material para troca de tubulação da TV Senado no fosso OS 25721##8196/8222##1#3##0#1#30#0#flavio#marcos##0#2016-01-11T02:00:00.000+00:00#2016-01-19T11:25:14.015+00:00#f#
-621##1#9#Compra de blocos para controle de abastecimento####1#92##0#0#3#0#paulo cesar#adm##0#2016-01-11T02:00:00.000+00:00#2016-01-19T11:24:26.418+00:00#f#
+600##1#10#Compra de material conforme pedido##36094##1#14##0#1#30#0#marlon#jadir##0#2016-01-07T02:00:00.000+00:00#2016-01-12T16:45:56.050+00:00#f#
+588##1#11#Compra de material conforme solicitado##200735##1#20##0#1#30/60#0#joao#joselio##0#2016-01-05T02:00:00.000+00:00#2016-01-12T16:46:24.940+00:00#f#
+598##1#19#Compra de EPI para novos funcionários##119654##1#24##0#1#30#0#anderson#Cristiane##0#2016-01-07T02:00:00.000+00:00#2016-01-12T16:47:55.077+00:00#f#
 622##1#23#Compra de bomba de remoção solicitado pelo Sr. Joaquim##14167##1#18##0#1#30#0#clovis#sr Joaquim##0#2016-01-12T02:00:00.000+00:00#2016-01-12T16:51:51.570+00:00#f#
 623##1#1#Recargas de oxigênio e acetileno##79559##1#7##0#1#30#0#sebastiao#walmiron##0#2016-01-12T02:00:00.000+00:00#2016-01-12T16:54:02.000+00:00#f#
-624##1#21#Compra de material conforme solicitado##161607##1#86##0#1#30/60#0#renato#ellino##0#2016-01-14T02:00:00.000+00:00#2016-01-19T11:26:59.882+00:00#f#
+618##1#17#Compra de gás 141B##9393##1#14##0#1#30#0#marlon#luis##0#2016-01-11T02:00:00.000+00:00#2016-01-14T10:56:00.285+00:00#f#
 625##1#21#Compra de material conforme pedido####1#60##0#1#30#0#antonio#ellino##0#2016-01-14T02:00:00.000+00:00#2016-01-20T12:33:41.806+00:00#f#
-626##1#21#Compra de material conforme pedido##95731##1#93##0#1#30#0#internet#ellino##0#2016-01-14T02:00:00.000+00:00#2016-01-19T11:29:25.604+00:00#f#
-627##1#1#Compra de material conforme OS 25982##14374##1#18##0#1#30#0#clovis#walmiron##0#2016-01-14T02:00:00.000+00:00#2016-01-19T11:23:54.623+00:00#f#
+617##1#2#Compra de equipamentos conforme pedido##119818##1#24##0#1#30#0#anderson#mario lincon##0#2016-01-11T02:00:00.000+00:00#2016-01-14T10:56:51.873+00:00#f#
 628##1#21#Compra de material conforme pedido OC 02/2016##26988##1#94##0#1#28/42#0#bicudo#ellino##0#2016-01-15T02:00:00.000+00:00#2016-01-15T11:52:20.317+00:00#f#
-629##1#21#Compra material conforme pedido OC 02/2016####1#18##0#1#30#0#clovis#ellino##0#2016-01-15T02:00:00.000+00:00#2016-01-27T13:36:18.244+00:00#f#
 630##1#21#Frete de material##781895##1#53##0#1#15#1#-#ellino##0#2016-01-15T02:00:00.000+00:00#2016-01-15T11:56:26.096+00:00#f#
+627##1#1#Compra de material conforme OS 25982##14374##1#18##0#1#30#0#clovis#walmiron##0#2016-01-14T02:00:00.000+00:00#2016-01-19T11:23:54.623+00:00#f#
+621##1#9#Compra de blocos para controle de abastecimento####1#92##0#0#3#0#paulo cesar#adm##0#2016-01-11T02:00:00.000+00:00#2016-01-19T11:24:26.418+00:00#f#
+620##1#1#Compra de material para troca de tubulação da TV Senado no fosso OS 25721##8196/8222##1#3##0#1#30#0#flavio#marcos##0#2016-01-11T02:00:00.000+00:00#2016-01-19T11:25:14.015+00:00#f#
+624##1#21#Compra de material conforme solicitado##161607##1#86##0#1#30/60#0#renato#ellino##0#2016-01-14T02:00:00.000+00:00#2016-01-19T11:26:59.882+00:00#f#
+626##1#21#Compra de material conforme pedido##95731##1#93##0#1#30#0#internet#ellino##0#2016-01-14T02:00:00.000+00:00#2016-01-19T11:29:25.604+00:00#f#
 631##1#5#Frete de material ##15370##1#39##0#1#1#0#adriana#sr francisco##0#2016-01-20T02:00:00.000+00:00#2016-01-20T11:02:32.764+00:00#f#
 632##1#5#Frete de material##188813##1#39##0#1#15#0#adriana#sr francisco##0#2016-01-20T02:00:00.000+00:00#2016-01-20T11:06:30.261+00:00#f#
 633##1#5#Frete de material##14132##1#39##0#1#15#1#adriana#sr francisco##0#2016-01-20T02:00:00.000+00:00#2016-01-20T11:08:15.846+00:00#f#
 634##1#5#Frete das cestas##14252##1#39##0#1#15#1#adriana#sr francisco##0#2016-01-20T02:00:00.000+00:00#2016-01-20T11:16:41.515+00:00#f#
+616##1#6#Compra de ponte retificadora conforme solicitado##7647##1#91##0#1#5#0#internet#ricardo##0#2016-01-11T02:00:00.000+00:00#2016-01-20T12:33:11.485+00:00#f#
 635##1#9#Locação de container para Sr. Francisco##257##1#77##0#1#5#2#-#sr francisco##0#2016-01-21T02:00:00.000+00:00#2016-01-21T14:19:14.056+00:00#f#
-636##1#11#Compra de material conforme solicitado##155811##1#20##0#1#30/60#0#joão#joselio##0#2016-01-21T02:00:00.000+00:00#2016-01-27T13:34:57.093+00:00#f#
-637##1#1#Compra de material para atv Anexo II Bl. A Ala Teotônio Vilela ##9058##1#80##0#1#30/60#0#jacinto#walmiron##0#2016-01-21T02:00:00.000+00:00#2016-01-27T13:35:29.749+00:00#f#
-639##1#1#Compra de exaustor para Ala Alexandre Costa plenário 07 subsolo##8271##1#3##0#1#30#0#flavio#bruno##0#2016-01-21T02:00:00.000+00:00#2016-01-27T13:25:51.284+00:00#f#
 640##1#6#Compra de compressor 5tr urgente para cpd##92100##1#27##0#1#30/60#0#carlos#ricardo##0#2016-01-22T02:00:00.000+00:00#2016-02-02T13:58:03.291+00:00#f#
-641##1#21#Compra de equipamentos conforme solicitado####1#95##0#1#30/60/90#0#kesia#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:32:50.165+00:00#f#
-642##1#21#Compra de equipamento conforme solicitado##331292##1#27##0#1#30/60/90#0#carlos#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-27T12:02:58.750+00:00#f#
-643##1#21#Compra material para BRB Ag.: Comercial Sul##10048##1#4##0#1#30#0#nilson#Sr Joaquim##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:33:21.656+00:00#f#
-644##1#9#Compra de material para adm##10049##1#4##0#1#30#0#nilson#elielco##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:33:47.191+00:00#f#
-645##1#21#Compra de equipamento conforme solicitado##18518##1#96##0#1#30#0#amanda#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:34:15.504+00:00#f#
 646##1#21#Compra de equipamento conforme solicitado##14507##1#97##0#1#30/60/90#0#rocha#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-22T12:27:11.552+00:00#f#
 647##1#5#Frete de material ##14326##1#39##0#1#15#1#-#sr francisco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T12:34:57.622+00:00#f#
-648##1#5#frete de material##20443##1#85##0#1#15#1#-#sr francisco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:24:24.586+00:00#f#
-649##1#5#Frete de material ##20920##1#85##0#1#15#1#-#sr francisco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:25:01.817+00:00#f#
 650##1#5#Frete de material##21288##1#85##0#1#15#1#-#sr francisco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T12:48:13.370+00:00#f#
 651##1#1#Compra de material conforme solicitado##296597##1#12##0#1#30#0#geovane#francis##0#2016-01-22T02:00:00.000+00:00#2016-01-22T12:54:06.453+00:00#f#
+648##1#5#frete de material##20443##1#85##0#1#15#1#-#sr francisco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:24:24.586+00:00#f#
+649##1#5#Frete de material ##20920##1#85##0#1#15#1#-#sr francisco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:25:01.817+00:00#f#
 652##1#9#Compra de material para escritório##10731##1#30##0#1#30#0#nilva#adm##0#2016-01-22T02:00:00.000+00:00#2016-01-22T12:57:58.919+00:00#f#
 653##1#9#Compra de material para serviço adm##36211##1#14##0#1#30#0#flavio#luis##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:02:33.300+00:00#f#
 654##1#9#Compra de material para serviço adm##8213##1#3##0#1#30#0#flavio#adm##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:04:15.760+00:00#f#
 655##1#9#Compra de material para serviço na adm##95653##1#55##0#1#30#0#jose rocha#elielco##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:07:09.197+00:00#f#
 656##1#19#Compra de material de limpeza##2680##1#22##0#1#30#0#jessika#adm##0#2016-01-22T02:00:00.000+00:00#2016-01-22T13:16:23.801+00:00#f#
+642##1#21#Compra de equipamento conforme solicitado##331292##1#27##0#1#30/60/90#0#carlos#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-27T12:02:58.750+00:00#f#
 657##1#21#Compra de material conforme solicitado##104349##1#34##0#1#30/60#0#silverio#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-01-27T12:37:01.822+00:00#f#
 658##1#21#Frete de material##783897##1#53##0#1#15#0#-#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-01-27T12:38:46.475+00:00#f#
 659##1#5#Serviço de conserto de motor bomba##4108##1#5##0#1#30#1#adriana#sr francisco##0#2016-01-27T02:00:00.000+00:00#2016-01-27T12:49:40.865+00:00#f#
@@ -632,32 +624,39 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 664##1#6#Conserto de motor ventilador conforme solicitado##4097##1#5##0#1#30#1#adriana#ricardo##0#2016-01-27T02:00:00.000+00:00#2016-01-27T13:07:32.342+00:00#f#
 665##1#1#Conserto de motor voges 5.0CV trifásico, conforme solicitado##4093##1#5##0#1#30#1#adriana#walmiron##0#2016-01-27T02:00:00.000+00:00#2016-01-27T13:11:24.482+00:00#f#
 666##1#17#Compra de material conforme pedido##4797##1#2##0#1#30#3#daniel#adm##0#2016-01-27T02:00:00.000+00:00#2016-01-27T13:21:50.885+00:00#f#
+639##1#1#Compra de exaustor para Ala Alexandre Costa plenário 07 subsolo##8271##1#3##0#1#30#0#flavio#bruno##0#2016-01-21T02:00:00.000+00:00#2016-01-27T13:25:51.284+00:00#f#
+641##1#21#Compra de equipamentos conforme solicitado####1#95##0#1#30/60/90#0#kesia#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:32:50.165+00:00#f#
+643##1#21#Compra material para BRB Ag.: Comercial Sul##10048##1#4##0#1#30#0#nilson#Sr Joaquim##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:33:21.656+00:00#f#
+644##1#9#Compra de material para adm##10049##1#4##0#1#30#0#nilson#elielco##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:33:47.191+00:00#f#
+645##1#21#Compra de equipamento conforme solicitado##18518##1#96##0#1#30#0#amanda#rogerio##0#2016-01-22T02:00:00.000+00:00#2016-01-27T13:34:15.504+00:00#f#
+636##1#11#Compra de material conforme solicitado##155811##1#20##0#1#30/60#0#joão#joselio##0#2016-01-21T02:00:00.000+00:00#2016-01-27T13:34:57.093+00:00#f#
+637##1#1#Compra de material para atv Anexo II Bl. A Ala Teotônio Vilela ##9058##1#80##0#1#30/60#0#jacinto#walmiron##0#2016-01-21T02:00:00.000+00:00#2016-01-27T13:35:29.749+00:00#f#
+629##1#21#Compra material conforme pedido OC 02/2016####1#18##0#1#30#0#clovis#ellino##0#2016-01-15T02:00:00.000+00:00#2016-01-27T13:36:18.244+00:00#f#
 667##1#1#Recargas de oxigênio e acetileno##79653##1#7##0#1#30#0#sebastiao#walmiron##0#2016-01-27T02:00:00.000+00:00#2016-01-27T13:38:40.332+00:00#f#
 668##1#9#Locação máquina de xerox##17474##1#32##0#1#30#2#hellen#adm##0#2016-01-27T02:00:00.000+00:00#2016-01-27T13:45:14.384+00:00#f#
 669##1#9#Abastecimentos de veículos##5476##1#29##0#1#5#0#-#adm##0#2016-01-27T02:00:00.000+00:00#2016-01-27T14:18:24.871+00:00#f#
 670##1#17#Abastecimento de veículos##5476##1#29##0#1#5#0#-#jorge##0#2016-01-27T02:00:00.000+00:00#2016-01-27T14:22:36.161+00:00#f#
 671##1#1#Abastecimento de veículos##5476##1#29##0#1#5#0#-#jorge##0#2016-01-27T02:00:00.000+00:00#2016-01-27T14:25:39.406+00:00#f#
-672##1#21#Compra equipamento conforme solicitado##50358##1#99##0#1#30/60/90/120#0#kamyla#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-02T13:56:33.884+00:00#f#
-673##1#2#Compra de baterias para rádios####1#40##0#0#1#0#-#jorge##0#2016-01-27T02:00:00.000+00:00#2016-02-02T13:57:10.264+00:00#f#
-674##1#21#Compra de material conforme solicitado##374##1#100##0#1#15/28#0#benedito#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-03T11:26:01.562+00:00#f#
-675##1#21#Compras de material conforme pedido OC 03/2016####1#86##0#1#30#0#renato#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-02T13:55:42.336+00:00#f#
-676##1#21#Compra de material conforme pedido OC 03/2016##65686##1#60##0#1#30#0#antonio#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-03T11:25:08.366+00:00#f#
 677##1#1#Compra de grelha uso em varios locais####0#37##0#1#30/60#0#gerson#Francis##0#2016-01-27T02:00:00.000+00:00#2016-01-27T17:38:48.689+00:00#f#
 678##0#1#Compra de material conforme OS 26027####0#20##0#1#30/60/90#0#joão#francis##0#2016-01-27T02:00:00.000+00:00#2016-01-27T17:44:03.698+00:00#f#
-679##1#1#Compra de material conforme solicitado##230124##1#67##0#1#30#0#rogerio#francis##0#2016-01-27T02:00:00.000+00:00#2016-02-11T19:26:49.491+00:00#f#
 680##1#19#Compra de ferramentas conforme solicitado##80642##1#102##0#3#5x#3#carlos#adm##0#2016-01-28T02:00:00.000+00:00#2016-01-28T12:19:27.052+00:00#f#
 682##0#1#Compra de material  conforme OS 26027 / 26063 / 26097####0#3##0#1#30#0#flavio#helio##0#2016-01-28T02:00:00.000+00:00#2016-01-28T19:03:55.071+00:00#f#
-683##1#6#Compra de material conforme pedidos##298484##1#12##0#1#30#0#geovane#ricardo##0#2016-02-02T02:00:00.000+00:00#2016-02-04T16:33:57.568+00:00#f#
-684##1#11#Compra de material conforme solicitado##120836##1#24##0#1#30/60#0#anderson#joselio##0#2016-02-02T02:00:00.000+00:00#2016-02-05T11:35:52.200+00:00#f#
-685##1#10#Compra de material conforme solicitado##120836##1#24##0#1#30/60#0#anderson#jadir##0#2016-02-02T02:00:00.000+00:00#2016-02-05T11:34:33.448+00:00#f#
 686##0#10#Compra de material conforme solicitado####0#14##0#1#30#0#marlon#jadir##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:19:34.590+00:00#f#
 687##0#1#Compra de material conforme solicitado####0#14##0#1#30#0#marlon#rafael##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:21:13.477+00:00#f#
-688##1#9#Compra de material ##120836##1#24##0#1#30/60#0#anderson#adm##0#2016-02-02T02:00:00.000+00:00#2016-02-05T11:36:31.081+00:00#f#
-689##1#16#Serviço de rebobinamento de motor para BRB Ag. Edif. Central##4133##1#5##0#1#30#1#adriana#luis##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:41:04.612+00:00#f#
 690##1#16#Compra de material para BRB ag Edif Central##96184##1#55##0#1#30#0#jefferson#luis##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:40:23.408+00:00#f#
+689##1#16#Serviço de rebobinamento de motor para BRB Ag. Edif. Central##4133##1#5##0#1#30#1#adriana#luis##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:41:04.612+00:00#f#
 691##1#11#Recargas de thonner para impressoras hp##17605##1#32##0#1#30#0#hellen#millena##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:44:44.227+00:00#f#
 692##1#1#Prestação de serviço de tratamento químico preventivo da central##3382##1#13##0#1#30#1#-#walmiron##0#2016-02-02T02:00:00.000+00:00#2016-02-02T13:48:07.189+00:00#f#
-693##1#6#Compra de material para instalação compressor do CPD##9654##1#14##0#1#30/60#0#luciano#ricardo##0#2016-02-02T02:00:00.000+00:00#2016-02-04T13:51:07.992+00:00#f#
+675##1#21#Compras de material conforme pedido OC 03/2016####1#86##0#1#30#0#renato#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-02T13:55:42.336+00:00#f#
+676##1#21#Compra de material conforme pedido OC 03/2016##65686##1#60##0#1#30#0#antonio#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-03T11:25:08.366+00:00#f#
+674##1#21#Compra de material conforme solicitado##374##1#100##0#1#15/28#0#benedito#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-03T11:26:01.562+00:00#f#
+685##1#10#Compra de material conforme solicitado##120836##1#24##0#1#30/60#0#anderson#jadir##0#2016-02-02T02:00:00.000+00:00#2016-02-05T11:34:33.448+00:00#f#
+683##1#6#Compra de material conforme pedidos##298484##1#12##0#1#30#0#geovane#ricardo##0#2016-02-02T02:00:00.000+00:00#2016-02-04T16:33:57.568+00:00#f#
+684##1#11#Compra de material conforme solicitado##120836##1#24##0#1#30/60#0#anderson#joselio##0#2016-02-02T02:00:00.000+00:00#2016-02-05T11:35:52.200+00:00#f#
+688##1#9#Compra de material ##120836##1#24##0#1#30/60#0#anderson#adm##0#2016-02-02T02:00:00.000+00:00#2016-02-05T11:36:31.081+00:00#f#
+679##1#1#Compra de material conforme solicitado##230124##1#67##0#1#30#0#rogerio#francis##0#2016-01-27T02:00:00.000+00:00#2016-02-11T19:26:49.491+00:00#f#
+672##1#21#Compra equipamento conforme solicitado##50358##1#99##0#1#30/60/90/120#0#kamyla#rogerio##0#2016-01-27T02:00:00.000+00:00#2016-02-02T13:56:33.884+00:00#f#
+673##1#2#Compra de baterias para rádios####1#40##0#0#1#0#-#jorge##0#2016-01-27T02:00:00.000+00:00#2016-02-02T13:57:10.264+00:00#f#
 694##1#1#Compra de material conforme OS 26591##9654##1#14##0#1#30/60#0#luciano#francis##0#2016-02-04T02:00:00.000+00:00#2016-02-04T12:01:46.974+00:00#f#
 695##1#17#Serviço mecânico na fiorino placa: jgf5489##1112##1#103##0#0#30/60#0#-#jorge##0#2016-02-04T02:00:00.000+00:00#2016-02-04T12:38:45.562+00:00#f#
 696##1#17#Serviço meçânico da fiorino placa: jge4578##1113##1#103##0#1#30/60#1#-#jorge##0#2016-02-04T02:00:00.000+00:00#2016-02-04T12:42:52.560+00:00#f#
@@ -675,8 +674,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 708##1#11#Locação de relógio de ponto digital##1841##1#36##0#1#30#2#edna#joselio##0#2016-02-04T02:00:00.000+00:00#2016-02-04T13:24:50.474+00:00#f#
 709##1#9#Serviço de confecção de material para escritório##4055##1#106##0#4#15#0#-#adm##0#2016-02-04T02:00:00.000+00:00#2016-02-04T13:30:59.933+00:00#f#
 710##1#9#Serviço de confecção de folhas timbradas e envelopes##4056##1#106##0#4#15#0#-#adm##0#2016-02-04T02:00:00.000+00:00#2016-02-04T13:33:59.948+00:00#f#
-711##1#1#Compra de material elétrico conforme OS 26580, para unidade de apoio 1 mezanino e 4 terreo##11893##1#4##0#1#30#0#edgar#bruno##0#2016-02-04T02:00:00.000+00:00#2016-02-11T18:03:42.425+00:00#f#
-712##1#6#Compra de material conforme solicitado##11893##1#4##0#1#30#0#edgar#ricardo##0#2016-02-04T02:00:00.000+00:00#2016-02-11T17:58:30.276+00:00#f#
+693##1#6#Compra de material para instalação compressor do CPD##9654##1#14##0#1#30/60#0#luciano#ricardo##0#2016-02-02T02:00:00.000+00:00#2016-02-04T13:51:07.992+00:00#f#
 713##1#9#Compra de material de limpeza em geral##1216##1#57##0#4#30/60#0#GIL#adm##0#2016-02-05T02:00:00.000+00:00#2016-02-05T11:45:28.171+00:00#f#
 714##1#5#Compra de cestas para fazenda##12934##1#73##0#1#15#0#luis#sr francisco##0#2016-02-05T02:00:00.000+00:00#2016-02-05T11:49:21.125+00:00#f#
 715##1#21#Compra de equipamentos conforme solicitado##79798##1#7##0#1#30#0#sebastiao#rogerio##0#2016-02-05T02:00:00.000+00:00#2016-02-05T11:51:22.878+00:00#f#
@@ -684,18 +682,16 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 717##1#17#Locação de oxigênio, acetileno e nitrogênio##79792##1#7##0#1#30#0#sebastiao#adm##0#2016-02-05T02:00:00.000+00:00#2016-02-05T12:08:06.350+00:00#f#
 718##1#6#Locação de oxigênio e acetileno##79788##1#7##0#1#30#0#sebastiao#ricardo##0#2016-02-05T02:00:00.000+00:00#2016-02-05T12:17:03.826+00:00#f#
 719##1#1#Locação de oxigênio, acetileno e nitrogênio##79787##1#7##0#1#30#0#sebastiao#walmiron##0#2016-02-05T02:00:00.000+00:00#2016-02-05T12:22:23.571+00:00#f#
-720##1#1#Compra de material conforme pedido##298764##1#12##0#1#30/60#0#geovane#francis##0#2016-02-05T02:00:00.000+00:00#2016-02-11T18:02:58.836+00:00#f#
 721##1#9#Abastecimento de veículos##5561##1#29##0#1#5#0#-#adm##0#2016-02-05T02:00:00.000+00:00#2016-02-05T18:30:43.050+00:00#f#
 722##1#17#Abastecimento de veículos##5561##1#29##0#1#5#0#-#jorge##0#2016-02-05T02:00:00.000+00:00#2016-02-05T18:56:32.120+00:00#f#
 723##1#1#Abastecimento de veículos##5561##1#29##0#1#5#0#-#jorge##0#2016-02-05T02:00:00.000+00:00#2016-02-05T19:02:30.046+00:00#f#
 724##1#1#Compra de material para anexo II Bl. A Ala Teotonio Vilela OS 26654##9693##1#14##0#1#30#0#luciano#francis##0#2016-02-10T02:00:00.000+00:00#2016-02-10T16:12:51.808+00:00#f#
 725##1#16#Compra de material conforme solicitado##4108##1#18##0#1#30#0#clovis#luis##0#2016-02-10T02:00:00.000+00:00#2016-02-10T16:17:44.845+00:00#f#
 726##1#1#Recarga de oxigênio conforme pedido##79764##1#7##0#1#30#0#sebastiao#rafael##0#2016-02-10T02:00:00.000+00:00#2016-02-10T16:23:15.293+00:00#f#
-727##1#4#Compra de 15 kit placa ####1#46##0#1#30/60#0#matheus#luiz##0#2016-02-11T02:00:00.000+00:00#2016-06-27T13:42:31.603+00:00#f#
-728##0#6#Compra de material conforme solicitado####1#24##0#1#30#0#anderson#ricardo##0#2016-02-11T02:00:00.000+00:00#2016-08-09T12:31:21.749+00:00#f#
 729##0#1#Compra de material conforme pedido####0#24##0#1#30#0#anderson#francis##0#2016-02-11T02:00:00.000+00:00#2016-02-11T13:21:20.792+00:00#f#
-730##0#6#Compra de material conforme pedido####1#12##0#1#30#0#geovane#ricardo##0#2016-02-11T02:00:00.000+00:00#2016-08-09T12:31:10.986+00:00#f#
-731##0#6#Compra de material conforme solicitado####1#86##0#1#30#0#edgar#ricardo##0#2016-02-11T02:00:00.000+00:00#2016-08-09T12:30:53.106+00:00#f#
+712##1#6#Compra de material conforme solicitado##11893##1#4##0#1#30#0#edgar#ricardo##0#2016-02-04T02:00:00.000+00:00#2016-02-11T17:58:30.276+00:00#f#
+720##1#1#Compra de material conforme pedido##298764##1#12##0#1#30/60#0#geovane#francis##0#2016-02-05T02:00:00.000+00:00#2016-02-11T18:02:58.836+00:00#f#
+711##1#1#Compra de material elétrico conforme OS 26580, para unidade de apoio 1 mezanino e 4 terreo##11893##1#4##0#1#30#0#edgar#bruno##0#2016-02-04T02:00:00.000+00:00#2016-02-11T18:03:42.425+00:00#f#
 732##1#6#Serviço de mancal conforme solicitado##6711##1#65##0#1#30/60#1#-#ricardo##0#2016-02-12T02:00:00.000+00:00#2016-02-12T11:19:57.586+00:00#f#
 733##1#5#Compra de arame para cercas####1#107##0#1#28/42#0#marcio#Sr.FRancisco##0#2016-02-16T02:00:00.000+00:00#2016-02-16T12:10:41.383+00:00#f#
 734##1#19#Compra de R22 estoque####0#27##0#1#28/56/84#0#carlos#gisele##0#2016-02-19T02:00:00.000+00:00#2016-02-19T12:45:06.552+00:00#f#
@@ -704,6 +700,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 737##1#1#Compra de Kit placa urgente####1#108##0#0#a vista#0#marcos#walmiron##0#2016-02-19T02:00:00.000+00:00#2016-02-19T13:22:30.074+00:00#f#
 738##0#5#Frete de produtos agricolas####1#39##0#1#20dd#0#-#Sr.Francisco##0#2016-02-19T02:00:00.000+00:00#2016-02-19T13:27:58.791+00:00#f#
 739##1#1#Compra de valvulas para atender varios chamados####0#83##0#1#30dd#0#laercio#walmiron##0#2016-02-19T02:00:00.000+00:00#2016-02-19T13:33:14.989+00:00#f#
+731##0#6#Compra de material conforme solicitado####1#86##0#1#30#0#edgar#ricardo##0#2016-02-11T02:00:00.000+00:00#2016-08-09T12:30:53.106+00:00#f#
 740##0#25#COMPRA DE FERRAMENTAS BASICAS PARA INICIAÇÃO DE CONTRATO####1#67##0#3#10X#0#BEL#ADM##0#2016-02-25T03:00:00.000+00:00#2016-08-22T18:41:41.068+00:00#f#
 741##1#21#concerto de moto bomba##4149##1#5##0#1#30#1#-#jorge##0#2016-02-12T02:00:00.000+00:00#2016-03-01T18:43:39.335+00:00#f#
 742##1#16#locação de furadeira para brb##2307##1#81##0#1#5dd#0#-#jorge##0#2016-03-03T03:00:00.000+00:00#2016-03-03T13:02:17.487+00:00#f#
@@ -750,25 +747,24 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 784##1#17#abastecimento de veiculos##5857##1#29##0#1#5d#0#-#jorge##0#2016-03-08T03:00:00.000+00:00#2016-03-08T14:54:24.020+00:00#f#
 785##1#1#COMPRA DE PERFIL PARA BARBEARIA ####1#87##0#1#30DD#0#-#WALMIRON##0#2016-03-10T03:00:00.000+00:00#2016-03-10T13:02:50.559+00:00#f#
 786##1#1#Compra de bateria para sistema de incendio####1#114##0#2#30DD#0#LUAN#BRUNO##0#2016-03-10T03:00:00.000+00:00#2016-03-10T13:33:35.301+00:00#f#
-787##1#1#compra de valvulas para atender varios chamados####1#83##0#1#30dd#0#laercio#walmiron##0#2016-03-11T03:00:00.000+00:00#2016-05-02T18:00:53.467+00:00#f#
 788##1#1#compra de grelhas para diversos pedidos####1#3##0#1#30dd#0#flavio#walmiron##0#2016-03-11T03:00:00.000+00:00#2016-03-11T13:27:06.550+00:00#f#
 789##1#9#compra de a4 para adm e varios contratos####1#54##0#1#30dd#0#-#adm##0#2016-03-11T03:00:00.000+00:00#2016-03-11T17:39:22.027+00:00#f#
 790##1#1#locação de relogio##1892##1#36##0#1#30 dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T17:47:11.703+00:00#f#
 791##1#11#locação de relogio##1892##1#36##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T17:49:57.576+00:00#f#
 792##1#21#locação de relogio##1892##1#36##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T17:51:27.042+00:00#f#
-793##1#2#locação de relogio##1892##1#36##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:02:48.145+00:00#f#
 794##1#25#locação de relogio##1892##1#36##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:02:24.033+00:00#f#
+793##1#2#locação de relogio##1892##1#36##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:02:48.145+00:00#f#
 795##1#6#locaçao de relogio##1891##1#36##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:05:14.894+00:00#f#
+802##1#10#compra de produto para limpeza das maquinas##10101##1#14##0#1#30dd#0#marlon#jadir##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:41:54.884+00:00#f#
+804##1#2#compra de compressor conforme contrato##10101##1#14##0#1#30/60/90#0#marlon#isamara##0#2016-03-11T03:00:00.000+00:00#2016-03-11T19:17:33.336+00:00#f#
+805##1#6#locação de cilindros##80054##1#7##0#1#30#2#-#ricardo##0#2016-03-11T03:00:00.000+00:00#2016-03-11T19:26:23.225+00:00#f#
 796##1#10#locação de relogio ##1891##1#66##0#1#30dd#0#-#rh##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:07:32.026+00:00#f#
 797##1#16#compra de compressor para parque rural##4883##1#14##0#1#30dd#0#marlon#luiz##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:10:29.498+00:00#f#
 798##1#16#compra para agencia detran##10016##1#14##0#1#30dd#0#marlon#luiz##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:14:11.453+00:00#f#
 799##1#16#compra de bomba para tjdf##10072##1#14##0#1#30dd#0#-#luiz##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:17:55.833+00:00#f#
 800##1#9#compra de insumos de papelaria ##1135##1#30##0#1#30/60#0#nilva#adm##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:31:04.532+00:00#f#
 801##1#17#compra de detergente para uso em varios contratos##10080##1#14##0#1#30d#0#marlo#luiz##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:33:36.457+00:00#f#
-802##1#10#compra de produto para limpeza das maquinas##10101##1#14##0#1#30dd#0#marlon#jadir##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:41:54.884+00:00#f#
 803##1#1#compra de produto para limepza das maquinas##10101##1#14##0#1#30/60/90#0#marlon#walmiron##0#2016-03-11T03:00:00.000+00:00#2016-03-11T18:55:15.094+00:00#f#
-804##1#2#compra de compressor conforme contrato##10101##1#14##0#1#30/60/90#0#marlon#isamara##0#2016-03-11T03:00:00.000+00:00#2016-03-11T19:17:33.336+00:00#f#
-805##1#6#locação de cilindros##80054##1#7##0#1#30#2#-#ricardo##0#2016-03-11T03:00:00.000+00:00#2016-03-11T19:26:23.225+00:00#f#
 806##1#17#locação de cilindros ppu e nitrogenio##80056##1#7##0#1#30dd#2#-#jorge##0#2016-03-11T03:00:00.000+00:00#2016-03-11T19:28:40.416+00:00#f#
 807##1#1#locação de cilindros de 3 casal ppu##80053##1#7##0#1#30dd#0#-#francis##0#2016-03-11T03:00:00.000+00:00#2016-03-11T19:31:47.080+00:00#f#
 808##1#25#COMPRA DE FILTROS PARA BEBEDOURO####1#115##0#1#30dD#0#ELEN#ANA##0#2016-03-15T03:00:00.000+00:00#2016-03-15T15:15:46.518+00:00#f#
@@ -789,11 +785,9 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 823##1#25#Compra urgente de gas 410 dupond##4951##1#2##0#1#3x#0#daniel#tadeu##0#2016-03-18T03:00:00.000+00:00#2016-03-18T18:18:32.067+00:00#f#
 824##1#25#compra de material de limpeza##1310##1#57##0#1#30dd#0#gil#tadeu##0#2016-03-18T03:00:00.000+00:00#2016-03-18T18:24:05.285+00:00#f#
 825##1#17#compra de manifuld e capacitor para diversos usos##36767##1#14##0#1#30dd#0#marlon#luiz##0#2016-03-18T03:00:00.000+00:00#2016-03-18T18:29:26.747+00:00#f#
-826##1#1#PRESTAÇÃO DE SERVIÇO TV SENADO RECIFE##2##1#117##0#1#30dd#0#-#JORGE##0#2016-03-31T03:00:00.000+00:00#2016-04-25T19:51:39.741+00:00#f#
 827##1#1#Compra de compressor conforme contrato##10229##1#14##0#1#30DD#0#marlon#walmiron##0#2016-03-21T03:00:00.000+00:00#2016-03-21T18:21:57.535+00:00#f#
 828##1#1#compra de material para instalação de fancolete##106674##1#34##0#1#30/60#0#silverio#walmiron##0#2016-03-21T03:00:00.000+00:00#2016-03-21T19:08:08.164+00:00#f#
 829##1#1#COMPRA DE GRELHA PARA DIVERSOS CONTRATOS##8564##1#3##0#1#30DD#0#FLAVIO#walmiron##0#2016-03-21T03:00:00.000+00:00#2016-03-21T19:11:21.073+00:00#f#
-830##1#5#compra de arame ##31348##1#107##0#1#30dd#0#marcio#sr francisco##0#2016-05-18T03:00:00.000+00:00#2016-05-20T20:17:02.576+00:00#f#
 831##1#1#compra de chapa para dutos##206737##1#20##0#1#30dd#0#joão#senado##0#2016-03-24T03:00:00.000+00:00#2016-03-24T14:09:14.572+00:00#f#
 832##1#1#serviços prestados na tv senado cabedelo##1269##1#64##0#1#20d#0#-#jorge##0#2016-03-24T03:00:00.000+00:00#2016-03-24T18:31:45.196+00:00#f#
 833##1#1#compra de capacitor urgente##852##1#68##0#1#30dd#0#-#francis##0#2016-03-28T03:00:00.000+00:00#2016-03-28T13:03:26.702+00:00#f#
@@ -812,6 +806,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 846##1#6#compra urgente de rolamentos##304258##1#12##0#1#30dd#0#geovane#ricardo##0#2016-03-28T03:00:00.000+00:00#2016-03-28T13:55:42.610+00:00#f#
 847##1#1#pilha varios chamados##122195##1#24##0#1#30dd#0#anderson#walmiron##0#2016-03-28T03:00:00.000+00:00#2016-03-28T13:57:07.027+00:00#f#
 848##1#1#compra de registro para BAG CM3##107191##1#34##0#1#30dd#0#silevrio#francis##0#2016-03-31T03:00:00.000+00:00#2016-03-31T17:10:13.448+00:00#f#
+830##1#5#compra de arame ##31348##1#107##0#1#30dd#0#marcio#sr francisco##0#2016-05-18T03:00:00.000+00:00#2016-05-20T20:17:02.576+00:00#f#
 849##1#5#cestas basicas##13386##1#73##0#1#30dd#0#luiz#adm##0#2016-03-31T03:00:00.000+00:00#2016-03-31T17:15:02.582+00:00#f#
 850##1#1#recondicionamento urgente de motores##6809##1#65##0#1#20/40/60#1#rodrigo#francis##0#2016-03-31T03:00:00.000+00:00#2016-03-31T17:25:23.983+00:00#f#
 851##1#16#recondicionamento de motores##6809##1#65##0#1#20\40\60#0#rodrigo#luiz\joaquim##0#2016-03-31T03:00:00.000+00:00#2016-03-31T17:37:16.304+00:00#f#
@@ -863,18 +858,18 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 898##1#1#recondicionamento de motor urgente ##6831##1#65##0#1#20/40/60#1#rodrigo#francis##0#2016-04-12T03:00:00.000+00:00#2016-04-12T13:42:48.906+00:00#f#
 899##1#1#PRESTAÇÃO DE SERVIÇOS TV SENADO FORTALEZA##4327##1#124##0#1#30DD#1#-#JORGE##0#2016-04-12T03:00:00.000+00:00#2016-04-12T13:54:57.991+00:00#f#
 900##1#1#PRESTAÇÃO DE SERVIÇOS TV SENADO NATAL##4271##1#125##0#1#30DD#1#-#JORGE##0#2016-04-12T03:00:00.000+00:00#2016-04-12T13:57:12.450+00:00#f#
-901##1#6#COMPRA DE ROLAMENTOS URGENTE ##305161##1#24##0#1#30/60/90#0#ANDESON#RICARDO##0#2016-04-12T03:00:00.000+00:00#2016-04-12T13:59:26.640+00:00#f#
 902##1#1#compras de correias e gaxetas##305161##1#24##0#1#30/60/90#0#anderson#francis##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:02:34.244+00:00#f#
 903##1#1#compra de insumos para manutenção##122938##1#24##0#1#30#0#anderson#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:13:07.856+00:00#f#
+906##1#25#compra de bomba de dreno conforme autorização de o.s##5070##1#2##0#1#30/60#0#daniel#tadeu##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:20:46.221+00:00#f#
+901##1#6#COMPRA DE ROLAMENTOS URGENTE ##305161##1#24##0#1#30/60/90#0#ANDESON#RICARDO##0#2016-04-12T03:00:00.000+00:00#2016-04-12T13:59:26.640+00:00#f#
+908##1#1#compra de insumos para manutenção##306311##1#12##0#1#30dd#0#geovane#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:25:38.663+00:00#f#
+910##1#1#compra de exaustor  para varios chamados##8661##1#3##0#0#30dd#0#flavio#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:41:45.961+00:00#f#
+912##1#1#compra de insumos para manutenção##306303##1#12##0#1#30/60#0#geovane#francis##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:55:12.340+00:00#f#
 904##1#1#compra de insumos para manutenção##122938##1#24##0#1#30dd#0#anderson#ricardo##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:14:51.554+00:00#f#
 905##1#25#compra de acoplamento conforme autorização de o.s##305179##1#12##0#1#30dd#0#geovane#tadeu##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:16:56.764+00:00#f#
-906##1#25#compra de bomba de dreno conforme autorização de o.s##5070##1#2##0#1#30/60#0#daniel#tadeu##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:20:46.221+00:00#f#
 907##1#1#compra de compressor para varios chamados##4699##1#18##0#1#3x#0#clovis'#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:23:09.732+00:00#f#
-908##1#1#compra de insumos para manutenção##306311##1#12##0#1#30dd#0#geovane#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:25:38.663+00:00#f#
 909##1#1#cesta basica##13490##1#73##0#1#30dd#0#luiz#francis##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:36:54.187+00:00#f#
-910##1#1#compra de exaustor  para varios chamados##8661##1#3##0#0#30dd#0#flavio#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:41:45.961+00:00#f#
 911##1#13#compra de borracha##306303##1#12##0#1#30/60#0#geovane#sr francisco##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:52:32.072+00:00#f#
-912##1#1#compra de insumos para manutenção##306303##1#12##0#1#30/60#0#geovane#francis##0#2016-04-12T03:00:00.000+00:00#2016-04-12T14:55:12.340+00:00#f#
 913##1#1#compra de acoplamento e mancal##305704##1#12##0#1#30dd#0#geovane#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T17:49:35.892+00:00#f#
 914##1#1#compra de material para varios chamados##8668##1#3##0#1#30dd#0#flavio#bruno/francis##0#2016-04-12T03:00:00.000+00:00#2016-04-12T17:54:38.391+00:00#f#
 915##1#1#compra de compressor e termostato##4783##1#18##0#1#30/60/90#0#clovis#walmiron##0#2016-04-12T03:00:00.000+00:00#2016-04-12T17:58:12.808+00:00#f#
@@ -918,6 +913,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 954##1#25#compra de filtro conforme o.s autorizada####1#115##0#1#7dd#0#-#tadeu##0#2016-04-20T03:00:00.000+00:00#2016-04-20T18:25:12.470+00:00#f#
 955##1#17#troca de pneus  fiorino jgf 5489####1#109##0#0#30 dd#0#junior#luiz##0#2016-04-25T03:00:00.000+00:00#2016-04-25T12:02:43.954+00:00#f#
 956##1#17#troca de pneus  fiorino jgf 5489####1#109##0#0#30 dd#0#junior#luiz##0#2016-04-25T03:00:00.000+00:00#2016-04-25T12:02:44.527+00:00#f#
+826##1#1#PRESTAÇÃO DE SERVIÇO TV SENADO RECIFE##2##1#117##0#1#30dd#0#-#JORGE##0#2016-03-31T03:00:00.000+00:00#2016-04-25T19:51:39.741+00:00#f#
 957##1#17#abastecimento de veiculo##6122##1#29##0#1#venc#0#-#adm##0#2016-04-26T03:00:00.000+00:00#2016-04-26T17:14:36.891+00:00#f#
 958##1#25#abastecimento de veiculo##6122##1#29##0#1#venc#0#-#adm##0#2016-04-26T03:00:00.000+00:00#2016-04-26T17:17:21.910+00:00#f#
 959##1#9#abastecimento de veiculo##6122##1#29##0#1#venc#0#-#adm##0#2016-04-26T03:00:00.000+00:00#2016-04-26T17:22:36.670+00:00#f#
@@ -929,6 +925,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 965##1#25#locação de relogio de ponto##1940##1#36##0#1#30d#0#-#adm##0#2016-04-26T03:00:00.000+00:00#2016-04-26T17:36:27.006+00:00#f#
 966##1#6#locação de relogio de ponto##1939##1#36##0#1#30#0#-#rh##0#2016-04-26T03:00:00.000+00:00#2016-04-26T17:37:32.956+00:00#f#
 967##1#10#locação de relogio de ponto##1939##1#36##0#0#30d#0#-#rh##0#2016-04-26T03:00:00.000+00:00#2016-04-26T17:38:25.603+00:00#f#
+787##1#1#compra de valvulas para atender varios chamados####1#83##0#1#30dd#0#laercio#walmiron##0#2016-03-11T03:00:00.000+00:00#2016-05-02T18:00:53.467+00:00#f#
 968##1#25#INTERNET####1#126##0#0#15 DD#1#-#TADEU##0#2016-05-02T03:00:00.000+00:00#2016-05-02T19:02:11.013+00:00#f#
 969##1#25#Compra de chapa conforme autorização##209580##1#20##0#1#30DD#0#JOÃO#TADEU##0#2016-05-02T03:00:00.000+00:00#2016-05-02T19:06:03.945+00:00#f#
 970##1#17#compra de ferramenta conforme autorização -Jorge##238577##1#67##0#1#30dd#0#bel#joaquim##0#2016-05-02T03:00:00.000+00:00#2016-05-02T19:16:02.302+00:00#f#
@@ -967,13 +964,13 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1003##1#25#compra de controle conforme autorização##5236##1#2##0#1#30dd#0#daniel#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:44:07.869+00:00#f#
 1004##1#25#compra de regulador urgente e recarga de ppu##80462##1#7##0#1#30dd#0#tião#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:46:25.473+00:00#f#
 1005##1#25#locação de cilindro##80466##1#7##0#1#30dd#0#tião#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:47:55.714+00:00#f#
-1006##1#25#compra de detergente para limpeza de maquinas##710/823##1#43##0#1#30dd#0#luiz#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:52:13.590+00:00#f#
 1007##1#25#compra de insumos para manutenção##308320##1#12##0#1#30dd#0#geovane#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:54:11.925+00:00#f#
-1008##1#25#compra de manta conforme exigencia de contrato/armaflex conforme autorização##8750##1#3##0#1#30/60#0#flavio#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:56:46.160+00:00#f#
 1009##1#25#compra de insumos ##294299##1#55##0#1#30dd#0#junior#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:58:45.216+00:00#f#
 1010##1#25#compra de material conforme autorização##108398##1#34##0#1#30dd#0#silverio#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T14:01:08.791+00:00#f#
-1011##1#25#recarga de casal ppu##80488##1#7##0#1#30dd#0#tião#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T14:03:26.844+00:00#f#
 1012##1#21#compra de filtros conforme autorização##ado##1#90##0#4#efetuado#0#-#rogerio/jorge##0#2016-05-05T03:00:00.000+00:00#2016-05-05T14:07:58.054+00:00#f#
+1006##1#25#compra de detergente para limpeza de maquinas##710/823##1#43##0#1#30dd#0#luiz#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:52:13.590+00:00#f#
+1008##1#25#compra de manta conforme exigencia de contrato/armaflex conforme autorização##8750##1#3##0#1#30/60#0#flavio#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T13:56:46.160+00:00#f#
+1011##1#25#recarga de casal ppu##80488##1#7##0#1#30dd#0#tião#tadeu##0#2016-05-05T03:00:00.000+00:00#2016-05-05T14:03:26.844+00:00#f#
 1013##1#1#compra de compressor e insumos para manutenção##10765##1#14##0#1#30/60#0#marlon#walmiron##0#2016-05-06T03:00:00.000+00:00#2016-05-06T18:58:58.143+00:00#f#
 1014##1#1#compra de compressor conforme o.s##10743##1#14##0#1#30/60/90#0#marlon#francis##0#2016-05-06T03:00:00.000+00:00#2016-05-06T19:21:06.011+00:00#f#
 1015##1#1#compra de exaustor conforme o.s##8759##1#3##0#1#30dd#0#flavio#francis/bruno##0#2016-05-06T03:00:00.000+00:00#2016-05-06T19:24:43.469+00:00#f#
@@ -1127,14 +1124,14 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1164##1#17#reparos na fiorino jgf 5509##1363/1335##1#41##0#1#30/60#0#-#jorge##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:15:06.535+00:00#f#
 1165##1#25#reparos na saveiro ovs 4138##1363##1#41##0#1#30dd#0#-#jorge##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:16:57.053+00:00#f#
 1166##1#16#compra de peças para uso em varios chamados##38696/11366##1#14##0#1#30dd#0#marlon#luiz##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:25:18.384+00:00#f#
-1167##1#16#compra de filtro para agencia scs##12268##1#80##0#1#30dd#0#-#fernando/joaquim##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:28:38.156+00:00#f#
-1168##1#17#oleo capela para uso em varios chamados##1229##1#43##0#1#30dd#0#luiz #joaquim##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:30:22.917+00:00#f#
 1169##1#16#compra de grelha e helice scs##1419##1#2##0#1#30dd#0#daniel#joaquim##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:31:59.469+00:00#f#
 1170##1#16#compra de carenagem pata brb tj##1439##1#2##0#1#30/60#0#daniel#fernando/jorge##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:37:17.237+00:00#f#
 1171##1#1#compra de helice para varios chamados##1439##1#2##0#1#30/60#0#daniel#francis##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:38:28.331+00:00#f#
-1172##1#6#compra de epi semestral##125769##1#24##0#1#30/60#0#anderson#ricardo##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:42:18.536+00:00#f#
 1173##1#16#compra de oleo e detergente para limpeza scs##1176/1201##1#43##0#1#30dd#0#luiz#joaquim##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:58:41.009+00:00#f#
 1174##1#16#compra de frente plastica para edificio sede##5378##1#18##0#1#30dd#0#clovis#fernando##0#2016-06-13T03:00:00.000+00:00#2016-06-13T19:00:40.942+00:00#f#
+1167##1#16#compra de filtro para agencia scs##12268##1#80##0#1#30dd#0#-#fernando/joaquim##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:28:38.156+00:00#f#
+1168##1#17#oleo capela para uso em varios chamados##1229##1#43##0#1#30dd#0#luiz #joaquim##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:30:22.917+00:00#f#
+1172##1#6#compra de epi semestral##125769##1#24##0#1#30/60#0#anderson#ricardo##0#2016-06-13T03:00:00.000+00:00#2016-06-13T18:42:18.536+00:00#f#
 1175##1#19#compra para estoque####1#27##0#1#28/56/84#0#carlos'#adm##0#2016-06-13T03:00:00.000+00:00#2016-06-13T19:52:01.976+00:00#f#
 1176##1#16#compressor para ag tj##5353##1#18##0#1#30/60#0#clovis#luiz##0#2016-06-16T03:00:00.000+00:00#2016-06-16T19:02:28.700+00:00#f#
 1177##1#11#compra de correias urgente##313880##1#12##0#1#30#0#geovane#mario##0#2016-06-16T03:00:00.000+00:00#2016-06-16T19:09:50.922+00:00#f#
@@ -1200,6 +1197,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1237##1#16#material para brb tj##1454##1#2##0#1#30#0#daniel#fernando##0#2016-06-22T03:00:00.000+00:00#2016-06-22T17:19:59.214+00:00#f#
 1238##1#21#compra conforme autorização do gestor##315212##1#12##0#1#30dd#0#geovane #jorge##0#2016-06-22T03:00:00.000+00:00#2016-06-22T17:23:33.748+00:00#f#
 1239##1#11#compra de correias conforme contrato##314539##1#12##0#1#30dd#0#geovane#jocelio##0#2016-06-23T03:00:00.000+00:00#2016-06-23T17:59:26.584+00:00#f#
+727##1#4#Compra de 15 kit placa ####1#46##0#1#30/60#0#matheus#luiz##0#2016-02-11T02:00:00.000+00:00#2016-06-27T13:42:31.603+00:00#f#
 1240##1#6#analise de vibração##20##1#76##0#1#30dd#0#edson #ricardo##0#2016-06-28T03:00:00.000+00:00#2016-06-28T12:34:17.937+00:00#f#
 1241##1#5#compra de oleo##13640##1#52##0#1#30#0#luiz#francisco##0#2016-06-28T03:00:00.000+00:00#2016-06-28T12:51:15.773+00:00#f#
 1242##1#1#compressor conforme autorização##713##1#122##0#1#30dd#0#nilson#walmiron##0#2016-06-28T03:00:00.000+00:00#2016-06-28T13:39:40.600+00:00#f#
@@ -1218,12 +1216,11 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1255##1#25#compra de insumos para manutenção##81683##1#139##0#1#30#0#-#diego##0#2016-06-28T03:00:00.000+00:00#2016-06-28T18:13:03.619+00:00#f#
 1256##1#25#compra de rolamentos conforme autorização##35223##1#74##0#1#30/60/90#0#-#marcio##0#2016-06-28T03:00:00.000+00:00#2016-06-28T18:14:40.127+00:00#f#
 1257##1#25#recarga de acetileno ppu##81003##1#7##0#1#30dd#0#tião#diego ##0#2016-06-28T03:00:00.000+00:00#2016-06-28T18:15:39.989+00:00#f#
-1258##1#1#compra de material para instalação de fancolete####1#3##0#1#30/60#0#flavio#francis##0#2016-06-28T03:00:00.000+00:00#2016-06-28T19:12:36.240+00:00#f#
 1259##1#1#compra de chapa para dutos####1#20##0#1#30dd#0#joão#francis##0#2016-06-28T03:00:00.000+00:00#2016-06-28T18:34:04.551+00:00#f#
+1258##1#1#compra de material para instalação de fancolete####1#3##0#1#30/60#0#flavio#francis##0#2016-06-28T03:00:00.000+00:00#2016-06-28T19:12:36.240+00:00#f#
 1260##1#16#recondicionamento de motor para Luziania ##6972##1#65##0#1#30dd#0#rodrigo#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T13:38:11.399+00:00#f#
 1261##1#2#compra de botas -epi##126438##1#24##0#1#30/60#0#anderson#rh##0#2016-06-30T03:00:00.000+00:00#2016-06-30T13:48:25.041+00:00#f#
 1262##1#26#atestado ocupacional##1650##1#141##0#1#30dd#0#-#rh##0#2016-06-30T03:00:00.000+00:00#2016-06-30T17:20:16.924+00:00#f#
-1263##1#12#compra de manta para maquinas##1377##1#43##0#1#30dd#0#-#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T20:07:50.980+00:00#f#
 1264##1#12#compra de material eletrico##25709##1#4##0#1#30dd#0#edgar#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T17:29:24.461+00:00#f#
 1265##1#16#compra de material para agencia butiti##25761##1#4##0#1#30dd#0#edgar#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T17:34:15.920+00:00#f#
 1266##1#4#compra de material para agu saus##316002##1#12##0#1#30dd#0#geovane#max##0#2016-06-30T03:00:00.000+00:00#2016-06-30T17:36:13.582+00:00#f#
@@ -1237,23 +1234,24 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1274##1#11#prestação de serviços quimico##3864##1#13##0#1#30dd#0#-#jorge##0#2016-06-30T03:00:00.000+00:00#2016-06-30T18:45:29.696+00:00#f#
 1275##1#25#serviço quimico##3870##1#13##0#1#30dd#0#-#adm##0#2016-06-30T03:00:00.000+00:00#2016-06-30T18:50:36.122+00:00#f#
 1276##1#1#compra de material eletrico##211713##1#4##0#1#30dd#0#edgar#walmiron##0#2016-06-30T03:00:00.000+00:00#2016-06-30T18:57:57.672+00:00#f#
-1277##1#12#compra de material eletrico##25302##1#4##0#1#30dd#0#edgar#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T20:08:49.315+00:00#f#
 1278##1#16#compra de manta filtrante para uso em varias agencias##1373##1#43##0#1#30dd#0#luiz#joaquimq##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:09:31.791+00:00#f#
 1279##1#19#compra de material de limpeza##1563##1#57##0#1#30/60#0#gil#adm##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:15:18.276+00:00#f#
 1280##1#16#compra de gas para uso na ag conjunto nac.##11557##1#14##0#1#30/60#0#marlon#fernando##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:16:46.132+00:00#f#
 1281##1#9#compra de material para organizar arquivo##11946##1#30##0#1#30dd#0#nilva#adm##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:18:32.816+00:00#f#
 1282##1#17#recarga de nitrogenio##81075##1#7##0#1#30dd#0#tião#adm##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:20:40.980+00:00#f#
+1287##1#1#prestação de serviços tv senado PB##1372##1#64##0#1#30dd#0#-#JORGE##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:30:25.671+00:00#f#
+1289##1#1#cesta basica##14161##1#17##0#1#30dd#0#luiz#francis##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:36:22.798+00:00#f#
+1290##1#5#reparo em bomba jacuzzi##9610##1#33##0#1#30dd#1#vicente #francisco##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:37:57.963+00:00#f#
 1283##1#16#locação de piso de andaime##610##1#81##0#1#20dd#0#-#luiz##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:21:59.335+00:00#f#
 1284##1#1#manutenção em motor de 2cv##6960##1#65##0#1#20/40#0#rodrigo#paulo##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:23:24.536+00:00#f#
 1285##1#2#recondicionamento de motor##6955##1#65##0#1#20/40#0#rodrigo#mario ##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:25:02.676+00:00#f#
 1286##1#6#serviços de torno e recondicionamento##6955##1#65##0#1#20/40#0#rodrigo#francis##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:27:59.587+00:00#f#
-1287##1#1#prestação de serviços tv senado PB##1372##1#64##0#1#30dd#0#-#JORGE##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:30:25.671+00:00#f#
 1288##1#5#cestas basicas##14161##1#17##0#1#30dd#0#luiz#rh##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:34:32.655+00:00#f#
-1289##1#1#cesta basica##14161##1#17##0#1#30dd#0#luiz#francis##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:36:22.798+00:00#f#
-1290##1#5#reparo em bomba jacuzzi##9610##1#33##0#1#30dd#1#vicente #francisco##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:37:57.963+00:00#f#
 1291##1#1#compra de material para instalação de fancolete##11634##1#14##0#1#30dd#0#marlon#walmiron##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:39:38.405+00:00#f#
 1292##1#1#compra de insumos e mangueira##316884##1#12##0#1#30/60#0#geovane#francis##0#2016-06-30T03:00:00.000+00:00#2016-06-30T19:44:11.180+00:00#f#
+1277##1#12#compra de material eletrico##25302##1#4##0#1#30dd#0#edgar#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T20:08:49.315+00:00#f#
 1293##1#6#recarga de nitrogenio##81052##1#7##0#1#30dd#0#tião#ricardo##0#2016-06-30T03:00:00.000+00:00#2016-06-30T20:15:40.265+00:00#f#
+1263##1#12#compra de manta para maquinas##1377##1#43##0#1#30dd#0#-#joaquim##0#2016-06-30T03:00:00.000+00:00#2016-06-30T20:07:50.980+00:00#f#
 1294##1#1#compra de difusor ##9064##1#3##0#1#30dd#0#flavio#walmiron##0#2016-06-30T03:00:00.000+00:00#2016-06-30T20:21:10.380+00:00#f#
 1295##1#4#compra de material eletrico##4821##1#143##0#0#a vista#0#-#adm##0#2016-06-21T03:00:00.000+00:00#2016-07-01T16:58:39.063+00:00#f#
 1296##1#4#COMPRA DE MATERIAL HIDRAULICO##4823##1#143##0#0#a vista#0#-#ADM##0#2016-06-27T03:00:00.000+00:00#2016-07-01T17:01:07.318+00:00#f#
@@ -1307,9 +1305,9 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1344##1#2#locação de relogio de ponto##2077##1#36##0#1#30dd#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:14:43.710+00:00#f#
 1345##1#1#locação de relogio de ponto##2077##1#36##0#1#30#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:15:33.699+00:00#f#
 1346##1#11#locação de relogio de ponto##2077##1#36##0#1#30d#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:16:16.761+00:00#f#
-1347##1#25#locação de relogio de ponto##2077##1#36##0#1#30dd#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:17:15.119+00:00#f#
 1348##1#6#locação de relogio de ponto##2076##1#36##0#1#30dd#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:18:42.733+00:00#f#
 1349##1#10#locação de relogio de ponto##2076##1#66##0#0#30dd#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:19:29.157+00:00#f#
+1347##1#25#locação de relogio de ponto##2077##1#36##0#1#30dd#0#-#rh##0#2016-07-22T03:00:00.000+00:00#2016-07-22T14:17:15.119+00:00#f#
 1350##1#4#compra de material eletrico##4839##1#143##0#0#a vista#0#-#jorge##0#2016-07-20T03:00:00.000+00:00#2016-07-22T17:48:43.968+00:00#f#
 1351##1#4#compra de material eletrico##4831##1#143##0#0#a vista#0#-#jorge##0#2016-07-12T03:00:00.000+00:00#2016-07-22T17:51:18.854+00:00#f#
 1352##1#4#compra de material eletrico##4836##1#143##0#0#a vista#0#-#jorge##0#2016-07-18T03:00:00.000+00:00#2016-07-22T17:54:10.749+00:00#f#
@@ -1318,6 +1316,7 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1355##1#4#prestação de serviço##3927##1#13##0#1#30dd#0#-#adm##0#2016-07-25T03:00:00.000+00:00#2016-07-25T14:06:01.035+00:00#f#
 1356##1#1#prestação de serviços##3926##1#13##0#1#30dd#0#-#ADM##0#2016-07-25T03:00:00.000+00:00#2016-07-25T14:08:19.881+00:00#f#
 1358##1#1#prestação de serviços tv senado bahia##9163##1#79##0#1#30dd#0#-#adm##0#2016-07-25T03:00:00.000+00:00#2016-07-25T14:19:36.969+00:00#f#
+1392##1#5#COMPRA DE PEÇAS##71808##1#152##0#1#30DD#0#-#FRANCISCO##0#2016-07-28T03:00:00.000+00:00#2016-07-28T19:30:28.069+00:00#f#
 1359##1#1#prestação de serviços tv senado pernanbuco##2673##1#117##0#1#30dd#0#-#adm##0#2016-07-25T03:00:00.000+00:00#2016-07-25T14:21:42.613+00:00#f#
 1360##1#1#prestação de serviços tv senado fortaleza##4585##1#124##0#1#30d#0#-#adm##0#2016-07-25T03:00:00.000+00:00#2016-07-25T14:23:19.262+00:00#f#
 1361##1#26#atestados ocupacionais##1727##1#142##0#1#30dd#0#-#rh##0#2016-07-26T03:00:00.000+00:00#2016-07-26T17:07:51.294+00:00#f#
@@ -1351,7 +1350,6 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1389##1#1#compra de difusor para gab####1#37##0#0#a vista#0#-#francis##0#2016-07-28T03:00:00.000+00:00#2016-07-28T12:35:33.752+00:00#f#
 1390##1#5#compra de peças##6810/6809##1#61##0#1#30dd#0#-#FRANCICO##0#2016-07-28T03:00:00.000+00:00#2016-07-28T19:04:34.279+00:00#f#
 1391##1#5#compra de peça##9599##1#151##0#1#30DD#0#-#FRANCIsco##0#2016-07-28T03:00:00.000+00:00#2016-07-28T19:11:19.263+00:00#f#
-1392##1#5#COMPRA DE PEÇAS##71808##1#152##0#1#30DD#0#-#FRANCISCO##0#2016-07-28T03:00:00.000+00:00#2016-07-28T19:30:28.069+00:00#f#
 1393##0#5#CESTA BASICA##14454##1#73##0#1#30DD#0#-#FRANCISCO##0#2016-07-28T03:00:00.000+00:00#2016-07-28T19:33:54.608+00:00#f#
 1394##1#25#compra de pastilhas para bandeja####1#131##0#0#30DD#0#ANDREA#marcio##0#2016-07-28T03:00:00.000+00:00#2016-07-28T19:39:20.966+00:00#f#
 1395##1#1#cesta basica##14456##1#73##0#1#30d#0#luiz#francis##0#2016-07-29T03:00:00.000+00:00#2016-07-29T13:32:34.867+00:00#f#
@@ -1362,19 +1360,21 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1400##1#1#compra de rolamentos conforme contrato##320566##1#12##0#1#30dd#0#geovani#mario lincon##0#2016-07-28T03:00:00.000+00:00#2016-08-01T17:56:30.765+00:00#f#
 1401##1#1#prestação de serviços tv senado cuiabá##830##1#119##0#0#30dd#0#-#adm##0#2016-07-20T03:00:00.000+00:00#2016-08-01T17:58:15.294+00:00#f#
 1402##1#25#internet####1#126##0#0#10dd#0#-#adm##0#2016-07-30T03:00:00.000+00:00#2016-08-01T17:59:11.453+00:00#f#
+1407##1#25#compra de polia conforme autorização##9727##1#33##0#1#30dd#0#-#marcio##0#2016-07-19T03:00:00.000+00:00#2016-08-01T18:13:02.171+00:00#f#
+1410##1#25#compra de material de limpeza##3651##1#22##0#1#30dd#0#-#adm##0#2016-07-14T03:00:00.000+00:00#2016-08-01T18:18:08.028+00:00#f#
+1412##1#25#compra de epi##6371##1#137##0#1#30/60/90#0#-#rh##0#2016-07-08T03:00:00.000+00:00#2016-08-01T18:29:47.880+00:00#f#
 1403##1#25#compra de compressor conforme autorização##782##1#122##0#1#30dd#0#-#marcio##0#2016-07-20T03:00:00.000+00:00#2016-08-01T18:03:30.954+00:00#f#
 1404##1#25#compra de material eletrico conforme autorização##28502##1#4##0#1#30dd#0#-#marcio##0#2016-07-21T03:00:00.000+00:00#2016-08-01T18:05:35.490+00:00#f#
 1405##1#25#compra de insumos para manutenção ##12010##1#153##0#0#30dd#0#-#MARCIO##0#2016-07-20T03:00:00.000+00:00#2016-08-01T18:09:23.408+00:00#f#
 1406##1#25#compra de insumos para manutenção##83091##1#139##0#1#30dd#0#-#marcio##0#2016-07-20T03:00:00.000+00:00#2016-08-01T18:11:12.354+00:00#f#
-1407##1#25#compra de polia conforme autorização##9727##1#33##0#1#30dd#0#-#marcio##0#2016-07-19T03:00:00.000+00:00#2016-08-01T18:13:02.171+00:00#f#
 1408##1#25#compra de calço de borracha conforme autorização##11850##1#14##0#0#30dd#0#-#marcio##0#2016-07-19T03:00:00.000+00:00#2016-08-01T18:14:37.709+00:00#f#
 1409##1#25#compra de compressor conforme autorização##762##1#122##0#1#30dd#0#-#marcio##0#2016-07-18T03:00:00.000+00:00#2016-08-01T18:17:11.406+00:00#f#
-1410##1#25#compra de material de limpeza##3651##1#22##0#1#30dd#0#-#adm##0#2016-07-14T03:00:00.000+00:00#2016-08-01T18:18:08.028+00:00#f#
 1411##1#25#compra de compressor conforme autorização####1#19##0#0#16560#0#-#marcio##0#2016-07-20T03:00:00.000+00:00#2016-08-01T18:25:08.073+00:00#f#
-1412##1#25#compra de epi##6371##1#137##0#1#30/60/90#0#-#rh##0#2016-07-08T03:00:00.000+00:00#2016-08-01T18:29:47.880+00:00#f#
 1413##1#1#prestação de serviços tv senado recife##2721##1#117##0#1#30dd#0#-#adm##0#2016-08-01T03:00:00.000+00:00#2016-08-01T18:39:08.585+00:00#f#
 1414##1#25#EMPLACAMENTO DE VEICULO####1#154##0#0#A VISTA#1#REGINA#ADM##0#2016-08-02T03:00:00.000+00:00#2016-08-02T18:46:48.098+00:00#f#
 1415##1#12#compra de trasdutor####1#147##0#0#a vista#0#joão#jorge##0#2016-08-03T03:00:00.000+00:00#2016-08-04T12:34:54.279+00:00#f#
+730##0#6#Compra de material conforme pedido####1#12##0#1#30#0#geovane#ricardo##0#2016-02-11T02:00:00.000+00:00#2016-08-09T12:31:10.986+00:00#f#
+728##0#6#Compra de material conforme solicitado####1#24##0#1#30#0#anderson#ricardo##0#2016-02-11T02:00:00.000+00:00#2016-08-09T12:31:21.749+00:00#f#
 1417##1#1#compra de filtro de oleo####1#51##0#1#28dd#0#marcelo#francis##0#2016-08-09T03:00:00.000+00:00#2016-08-09T18:53:30.435+00:00#f#
 1418##1#9#abastecimento de veiculo##6728##1#29##0#1#vencida#0#-#adm##0#2016-08-12T03:00:00.000+00:00#2016-08-12T18:14:54.292+00:00#f#
 1419##1#25#abastecimento de veiculo##6728##1#29##0#1#vencido#0#-#adm##0#2016-08-12T03:00:00.000+00:00#2016-08-12T18:17:05.197+00:00#f#
@@ -1465,8 +1465,8 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1538##1#1#recondicionamento de motor##9908##1#7##0#1#30dd#0#vicente#walmiron##0#2016-08-29T03:00:00.000+00:00#2016-08-29T17:17:20.376+00:00#f#
 1539##1#1#reparos em motores##7059##1#65##0#1#30d#0#-#mauro##0#2016-08-29T03:00:00.000+00:00#2016-08-29T17:42:25.194+00:00#f#
 1540##1#1#compra de material eléctrico ##32617##1#4##0#1#30dd#0#-#walmiron##0#2016-08-29T03:00:00.000+00:00#2016-08-29T18:00:35.472+00:00#f#
-1541##1#1#compra de sensores trane####1#51##0#0#30d#0#kesia#bruno##0#2016-08-02T03:00:00.000+00:00#2016-08-29T18:30:32.710+00:00#f#
 1542##1#1#compra de material para dreno##113909##1#34##0#1#30dd#0#-#francis##0#2016-08-29T03:00:00.000+00:00#2016-08-29T18:30:00.825+00:00#f#
+1541##1#1#compra de sensores trane####1#51##0#0#30d#0#kesia#bruno##0#2016-08-02T03:00:00.000+00:00#2016-08-29T18:30:32.710+00:00#f#
 1543##1#1#compra de ferramenta para equipe de automação-Bruno##87490##1#101##0#1#30dd#0#-#bruno##0#2016-08-29T03:00:00.000+00:00#2016-08-29T18:35:32.162+00:00#f#
 1544##1#1#compra de gas para limpeza de linha##12165##1#14##0#1#30/60#0#marlon#walmiron##0#2016-08-29T03:00:00.000+00:00#2016-08-29T18:39:30.301+00:00#f#
 1545##1#1#cesta basica##14668##1#17##0#1#30dd#0#-#francis##0#2016-08-29T03:00:00.000+00:00#2016-08-29T18:41:26.864+00:00#f#
@@ -1480,7 +1480,6 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1553##1#4#compra de material eletrico##4863##1#143##0#1#a vista#0#-#jorge##0#2016-08-31T03:00:00.000+00:00#2016-08-31T14:04:37.401+00:00#f#
 1554##1#4#compra de material eletrico##4860##1#143##0#1#a vista#0#-#-##0#2016-08-31T03:00:00.000+00:00#2016-08-31T14:06:35.494+00:00#f#
 1555##1#4#compra de material eletrico##4857##1#143##0#1#a vista#0#-#jorge##0#2016-08-31T03:00:00.000+00:00#2016-08-31T14:09:37.176+00:00#f#
-1556##1#1#Compra de placa urgente lg inverter####1#158##0#2#50% ENTRADA 15 DIAS BOLETO#0#SAMIRA#francis##0#2016-08-31T03:00:00.000+00:00#2016-08-31T17:54:28.546+00:00#f#
 1557##1#12#compra de valvulas ##2990##1#128##0#1#-#0#-#joaquim/jorge##0#2016-08-31T03:00:00.000+00:00#2016-08-31T19:56:59.900+00:00#f#
 1558##1#1#compra de split####1#6##0#1#56/84/112#0#nilo#paulo##0#2016-09-01T03:00:00.000+00:00#2016-09-01T14:55:13.771+00:00#f#12%
 1559##1#9#locação de maquina de xerox##20869##1#32##0#1#30dd#0#-#-##0#2016-08-29T03:00:00.000+00:00#2016-09-01T16:05:05.691+00:00#f#
@@ -1505,3 +1504,39 @@ id#quotation_id#purchase_type#contract_id#description#observation#invoice_number
 1578##1#25#reparos em bomba palacio##442##1#159##0#1#30d#0#-#rodrigo##0#2016-08-17T03:00:00.000+00:00#2016-09-01T19:50:52.721+00:00#f#
 1579##1#25#guincho####1#67##0#1#3x#0#bel#adm##0#2016-09-01T03:00:00.000+00:00#2016-09-01T20:00:46.231+00:00#f#
 1580##1#1#tv senado recife##2756##1#117##0#1#30dd#0#-#jorge##0#2016-09-02T03:00:00.000+00:00#2016-09-02T18:24:45.667+00:00#f#
+1581##1#1#valvula urgente para chiler cm3##934##1#122##0#1#10dd#0#-#francis##0#2016-09-05T03:00:00.000+00:00#2016-09-05T18:54:41.458+00:00#f#
+1583##1#25#reparo em bomba conforme autorização##437##1#159##0#1#30dd#0#-#-##0#2016-09-05T03:00:00.000+00:00#2016-09-05T18:57:54.354+00:00#f#
+1556##1#1#Compra de placa urgente lg inverter##437##1#158##0#2#50% ENTRADA 15 DIAS BOLETO#0#SAMIRA#francis##0#2016-08-31T03:00:00.000+00:00#2016-09-05T18:59:54.324+00:00#f#
+1584##1#6#recarga de nitrogenio e oxigenio##81607/81597##1#7##0#1#30d#0#-#ricardo##0#2016-09-06T03:00:00.000+00:00#2016-09-06T12:47:19.242+00:00#f#
+1585##1#15#compra de material conforme autorização##12249##1#14##0#1#30/60#0#-#jorge##0#2016-09-06T03:00:00.000+00:00#2016-09-06T12:51:54.335+00:00#f#
+1586##1#16#compra de compressor e carenagem para agencia central##1859##1#2##0#1#30/60#0#-#luiz##0#2016-09-06T03:00:00.000+00:00#2016-09-06T12:53:55.866+00:00#f#
+1587##1#16#troca de motor agencia ##1855##1#2##0#1#30/60#0#daniel#fernando/jorge##0#2016-09-06T03:00:00.000+00:00#2016-09-06T12:59:15.394+00:00#f#
+1588##1#19#compra de insumos para uso em varios contratos ##128304##1#24##0#1#30/60#0#anderson#adm##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:04:43.698+00:00#f#
+1589##1#25#abastecimento de veiculo##6886##1#29##0#1#3d#0#-#adm##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:09:08.814+00:00#f#
+1590##1#9#abastecimento de veiculo##6886##1#29##0#1#3d#0#-#adm##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:11:51.054+00:00#f#
+1591##1#17#abastecimento de veiculo##6886##1#29##0#1#3d#0#-#jorge##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:14:39.400+00:00#f#
+1592##1#1#prestação de serviços tv senado fortaleza##4743##1#124##0#1#30d#0#-#jorge##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:34:02.203+00:00#f#
+1597##1#1#anel normex para bomba##325113##1#12##0#1#30dd#0#-#walmiron##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:58:53.036+00:00#f#
+1593##1#1#prestação de seviços tv senado mt##838##1#119##0#1#30#0#-#jorge##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:35:24.684+00:00#f#
+1594##1#1#isopor autoestinguivel ##3020##1#161##0#1#30D#0#-#francis##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:43:47.266+00:00#f#
+1595##1#1#Compra de cola para placas de isopor-dutos##128970##1#24##0#1#30d#0#-#walmiron##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:45:15.494+00:00#f#
+1596##1#19#compra de placa universal e controle para substituições ##1819##1#2##0#1#3x#0#daniel#walmiron##0#2016-09-06T03:00:00.000+00:00#2016-09-06T13:54:35.595+00:00#f#
+1582##1#6#compra de compressor para sala da segurança####1#27##0#1#28/56#0#carlos#ricardo##0#2016-09-05T03:00:00.000+00:00#2016-09-06T14:03:57.366+00:00#f#12%
+1598##1#1#gaxeta do filtro de oleo ##34919##1#51##0#1#30dd#0#marcelo#walmiron##0#2016-09-06T03:00:00.000+00:00#2016-09-06T14:13:40.945+00:00#f#
+1599##1#1#compra conforme autorização (compressores)e demais para uso em varios chamados##933##1#122##0#1#2x#0#nilson#walmiron##0#2016-09-06T03:00:00.000+00:00#2016-09-06T14:18:48.772+00:00#f#
+1602##1#6#adaptação de helice em exaustor##7095##1#65##0#1#30dd#0#rodrigo#ricardo##0#2016-09-06T03:00:00.000+00:00#2016-09-06T14:27:41.957+00:00#f#
+1600##1#4#compra de cobre e isolamento##933##1#122##0#1#2x#0#-#jorge##0#2016-09-06T03:00:00.000+00:00#2016-09-06T14:21:18.040+00:00#f#
+1601##1#1#reparos em motor k7 da taquigrafia##7084##1#65##0#1#30dd#0#rodrigo#walmiron##0#2016-09-06T03:00:00.000+00:00#2016-09-06T14:23:19.913+00:00#f#
+1603##1#25#compra de ferramenta-recolhedora####1#162##0#1#28/56#0#MARCOS#FRANCISCO##0#2016-09-08T03:00:00.000+00:00#2016-09-08T14:29:36.999+00:00#f#
+1604##1#6#para uso na detecção de vazamentos####1#18##0#1#30/60#0#clovis#ricardo##0#2016-09-08T03:00:00.000+00:00#2016-09-08T18:15:22.956+00:00#f#
+1606##1#5#compra de arames####1#107##0#0#30dd#0#marcio#francisco##0#2016-09-09T03:00:00.000+00:00#2016-09-09T11:39:55.953+00:00#f#
+1607##1#25#compra de compressores conforme autorização##12252/12293##1#14##0#1#30/60#0#marlon#vitor##0#2016-09-09T03:00:00.000+00:00#2016-09-09T13:38:25.050+00:00#f#
+1608##1#25#compra de material conforme autorização##317233/317886##1#55##0#1#30/60#0#-#vitor##0#2016-09-09T03:00:00.000+00:00#2016-09-09T13:52:30.736+00:00#f#
+1609##1#25#compra de rolamentos conforme autorização##36755##1#74##0#1#30dd#0#-#vitor##0#2016-09-09T03:00:00.000+00:00#2016-09-09T13:54:21.256+00:00#f#
+1610##1#25#compra de chapa conforme autorização##224277##1#20##0#1#30dd#0#joão#vitor##0#2016-09-09T03:00:00.000+00:00#2016-09-09T13:58:18.752+00:00#f#
+1611##1#5#frete de goiania para simolandia####1#39##0#1#30d#0#-#-##0#2016-09-09T03:00:00.000+00:00#2016-09-09T13:59:31.204+00:00#f#
+1612##1#6#serviço de torno e troca de rolamentos eixo da torre##7098##1#65##0#1#30dd#0#rodrigo#ricardo##0#2016-09-09T03:00:00.000+00:00#2016-09-09T14:00:59.636+00:00#f#
+1613##1#27#tabuas##1955##1#163##0#0#15DD#0#-#-##0#2016-09-09T03:00:00.000+00:00#2016-09-09T14:02:40.061+00:00#f#
+1614##1#1#compra de material conforme o.s##9316/9334##1#3##0#1#30dd#0#flavio#walmiron##0#2016-09-09T03:00:00.000+00:00#2016-09-09T14:08:10.962+00:00#f#
+1615##1#1#compra de compressores conforme autorização##957##1#122##0#0#30/60#0#nilson#walmiron##0#2016-09-09T03:00:00.000+00:00#2016-09-09T14:11:00.579+00:00#f#
+1616##1#1#prestação de serviços tv senadp salvador##9696##1#79##0#1#30dd#0#-''#jorge##0#2016-09-09T03:00:00.000+00:00#2016-09-09T14:17:42.899+00:00#f#

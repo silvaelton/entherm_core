@@ -20,6 +20,26 @@ namespace :populate do
   
   end
 
+  task :reset_purchase_id => :environment do 
+    connection = ActiveRecord::Base.connection
+
+    models = %w(order order_category order_item product request request_item stock supplier supplier_category)
+
+    models.each do |item|
+      model   = "#{item}".classify
+      last_id = "Purchase::#{model}".constantize.all.order('id DESC').last
+
+      if last_id.present?
+        number  = last_id.id + 1
+        connection.execute("ALTER SEQUENCE purchase_#{item.to_s.pluralize(2)}_id_seq RESTART WITH #{number}") 
+        puts number
+      end
+
+      puts item
+    end
+    
+  end
+
   task :state => :environment do 
 
     CSV.foreach('lib/files/state.csv', :col_sep => ',') do |row|
