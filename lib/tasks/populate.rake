@@ -27,7 +27,7 @@ namespace :populate do
 
     models.each do |item|
       model   = "#{item}".classify
-      last_id = "Purchase::#{model}".constantize.all.order('id DESC').last
+      last_id = "Purchase::#{model}".constantize.all.order('id DESC').first
 
       if last_id.present?
         number  = last_id.id + 1
