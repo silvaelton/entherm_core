@@ -12,15 +12,13 @@ module Purchase
     scope :by_period,   -> started_at, ended_at { where(created_at: started_at..ended_at) }
     scope :by_status,   -> status { where(status: status) }
     scope :by_id,       -> id     { where(id: id) }
-=begin
      
     validates :description, :order_type, :contract, :supplier, :status, presence: true
     validates :buy_type, :seller, :requester, :deadline_payment, presence: true
     validates_date :created_at, presence: true
-=end
+
     accepts_nested_attributes_for :order_items, allow_destroy: true
   
-=begin
     enum order_type: ['orçamento','compra']
     enum status: ['aguardando','efetuada','cancelada']
     enum freight: ['cif', 'fob']
@@ -28,7 +26,8 @@ module Purchase
     enum delivery: ['imediato','7_dias', '30_dias', '60_dias','90_dias','120_dias']
     enum buy_type: ['compras', 'serviços', 'locações', 'estoque']
     enum unit_id: ['un','kg','mt','cx','cm','lt']
-=end 
+
+
     def self.total_value(array)
       total = 0
       array.each do |value|
