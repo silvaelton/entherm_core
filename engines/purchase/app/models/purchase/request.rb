@@ -17,12 +17,12 @@ module Purchase
     scope :canceled,    -> { where(situation: 3) }
         
 
-    enum priority: ['alta', 'normal', 'baixa']
-    enum situation: ['pendente', 'processando', 'finalizado', 'cancelado']
+    #enum priority: ['alta', 'normal', 'baixa']
+    #enum situation: ['pendente', 'processando', 'finalizado', 'cancelado']
 
     accepts_nested_attributes_for :request_items, allow_destroy: true
   
 
-    validates :contract, :priority, :description, presence: true
+    #validates :contract, :priority, :description, presence: true
   end
 end
